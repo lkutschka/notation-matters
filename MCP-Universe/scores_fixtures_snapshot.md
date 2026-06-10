@@ -1,0 +1,1660 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - link "Skip to main content" [ref=e4] [cursor=pointer]:
+      - /url: "#main-content"
+      - generic [ref=e5]: Skip to main content
+    - banner [ref=e9]:
+      - generic [ref=e10]:
+        - navigation [ref=e11]:
+          - link "FIFA" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - img "FIFA" [ref=e13]
+          - generic [ref=e14]:
+            - link "TICKETS & HOSPITALITY" [ref=e16] [cursor=pointer]:
+              - /url: /en/tickets
+            - link "FIFA REWARDS" [ref=e18] [cursor=pointer]:
+              - /url: https://www.fifa.com/en/rewards/?intcmp=%28p_fifacom%29_%28d_%29_%28c_webuniversal-mcf-2025%29_%28sc_rewards%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "FIFA+" [ref=e20] [cursor=pointer]:
+              - /url: https://www.plus.fifa.com/?intcmp=%28p_fifacom%29_%28d_plusfifa%29_%28c_webuniversal-mcf-2025%29_%28sc_home%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "FIFA STORE" [ref=e22] [cursor=pointer]:
+              - /url: https://store.fifa.com/?intcmp=%28p_fifacom%29_%28d_fifastore%29_%28c_webuniversal-mcf-2025%29_%28sc_fifastore%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "FIFA COLLECT" [ref=e24] [cursor=pointer]:
+              - /url: https://collect.fifa.com/en-UK?utm_source=fifa&utm_medium=website&utm_campaign=FIFA_web&referrer=FIFA_Comm_FIFA_web&intcmp=%28p_fifacom%29_%28d_fifacollect%29_%28c_webuniversal-mcf-2025%29_%28sc_fifacollect%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "INSIDE FIFA" [ref=e26] [cursor=pointer]:
+              - /url: https://inside.fifa.com/en/?intcmp=%28p_fifacom%29_%28d_insidefifa%29_%28c_webuniversal-mcf-2025%29_%28sc_insidefifa%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+        - generic [ref=e28]:
+          - link "FIFA" [ref=e35] [cursor=pointer]:
+            - /url: /en/tournaments/mens/club-world-cup/usa-2025
+            - img "FIFA" [ref=e36]
+          - navigation [ref=e38]:
+            - link "SCORES & FIXTURES" [ref=e40] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/scores-and-fixtures
+            - link "HIGHLIGHTS" [ref=e42] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/highlights
+            - link "NEWS" [ref=e44] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/news
+            - link "STANDINGS" [ref=e46] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/standings
+            - generic [ref=e48] [cursor=pointer]: STATS
+            - link "ORGANISATION" [ref=e50] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/organisation
+            - generic [ref=e52] [cursor=pointer]: MORE
+          - link "Search" [ref=e130] [cursor=pointer]:
+            - /url: /en/tournaments/mens/club-world-cup/usa-2025/scores-and-fixtures?country=AT&wtw-filter=ALL&searchOverlay=1
+            - img "Search" [ref=e131]
+          - button "Language" [ref=e59] [cursor=pointer]:
+            - img "Language" [ref=e60]
+          - button "My Account" [ref=e62] [cursor=pointer]:
+            - img [ref=e63]
+    - generic [ref=e67]:
+      - main [ref=e68]:
+        - generic [ref=e135]:
+          - generic [ref=e136]:
+            - heading "Scores & Fixtures" [level=4] [ref=e138]
+            - generic [ref=e139]:
+              - generic [ref=e141]:
+                - generic [ref=e142]: "Where to watch:"
+                - combobox [ref=e143] [cursor=pointer]:
+                  - option "Select territory"
+                  - option "Austria" [selected]
+                  - option "Afghanistan"
+                  - option "Anguilla"
+                  - option "Albania"
+                  - option "Algeria"
+                  - option "Andorra"
+                  - option "Angola"
+                  - option "Argentina"
+                  - option "Armenia"
+                  - option "Aruba"
+                  - option "American Samoa"
+                  - option "Antigua and Barbuda"
+                  - option "Australia"
+                  - option "Azerbaijan"
+                  - option "Bahamas"
+                  - option "Bangladesh"
+                  - option "Burundi"
+                  - option "Belgium"
+                  - option "Benin"
+                  - option "Bermuda"
+                  - option "Burkina Faso"
+                  - option "Bahrain"
+                  - option "Bhutan"
+                  - option "Bosnia and Herzegovina"
+                  - option "Belarus"
+                  - option "Belize"
+                  - option "Bolivia"
+                  - option "Botswana"
+                  - option "Brazil"
+                  - option "Barbados"
+                  - option "Brunei Darussalam"
+                  - option "Bulgaria"
+                  - option "Cambodia"
+                  - option "Canada"
+                  - option "Cayman Islands"
+                  - option "Congo"
+                  - option "Chad"
+                  - option "Chile"
+                  - option "Côte d'Ivoire"
+                  - option "Cameroon"
+                  - option "Congo DR"
+                  - option "Cook Islands"
+                  - option "Colombia"
+                  - option "Comoros"
+                  - option "Cabo Verde"
+                  - option "Costa Rica"
+                  - option "Croatia"
+                  - option "Central African Republic"
+                  - option "Cuba"
+                  - option "Curaçao"
+                  - option "Cyprus"
+                  - option "Czechia"
+                  - option "Denmark"
+                  - option "Djibouti"
+                  - option "Dominica"
+                  - option "Dominican Republic"
+                  - option "Ecuador"
+                  - option "Egypt"
+                  - option "Equatorial Guinea"
+                  - option "Eritrea"
+                  - option "Spain"
+                  - option "Estonia"
+                  - option "Ethiopia"
+                  - option "Fiji"
+                  - option "Finland"
+                  - option "France"
+                  - option "Faroe Islands"
+                  - option "Gabon"
+                  - option "The Gambia"
+                  - option "Great Britain"
+                  - option "Georgia"
+                  - option "Germany"
+                  - option "Ghana"
+                  - option "Gibraltar"
+                  - option "Guadeloupe"
+                  - option "Guinea-Bissau"
+                  - option "Greece"
+                  - option "Grenada"
+                  - option "Guatemala"
+                  - option "Guinea"
+                  - option "Guam"
+                  - option "Guyana"
+                  - option "Haiti"
+                  - option "Hong Kong, China"
+                  - option "Honduras"
+                  - option "Hungary"
+                  - option "Indonesia"
+                  - option "India"
+                  - option "Republic of Ireland"
+                  - option "IR Iran"
+                  - option "Iraq"
+                  - option "Iceland"
+                  - option "Israel"
+                  - option "Italy"
+                  - option "Jamaica"
+                  - option "Jordan"
+                  - option "Japan"
+                  - option "Kazakhstan"
+                  - option "Kenya"
+                  - option "Kyrgyz Republic"
+                  - option "Korea Republic"
+                  - option "Kosovo"
+                  - option "Saudi Arabia"
+                  - option "Kuwait"
+                  - option "Laos"
+                  - option "Lebanon"
+                  - option "Liberia"
+                  - option "Libya"
+                  - option "St Lucia"
+                  - option "Lesotho"
+                  - option "Liechtenstein"
+                  - option "Lithuania"
+                  - option "Luxembourg"
+                  - option "Latvia"
+                  - option "Macau"
+                  - option "Madagascar"
+                  - option "St Martin"
+                  - option "Morocco"
+                  - option "Malaysia"
+                  - option "Monaco"
+                  - option "Moldova"
+                  - option "Maldives"
+                  - option "Mexico"
+                  - option "North Macedonia"
+                  - option "Mali"
+                  - option "Malta"
+                  - option "Montenegro"
+                  - option "Mongolia"
+                  - option "Northern Mariana Islands"
+                  - option "Mozambique"
+                  - option "Mauritius"
+                  - option "Montserrat"
+                  - option "Mauritania"
+                  - option "Martinique"
+                  - option "Malawi"
+                  - option "Myanmar"
+                  - option "Namibia"
+                  - option "Nicaragua"
+                  - option "New Caledonia"
+                  - option "Netherlands"
+                  - option "Nepal"
+                  - option "Nigeria"
+                  - option "Niger"
+                  - option "Niue"
+                  - option "Norway"
+                  - option "New Zealand"
+                  - option "Oman"
+                  - option "Pakistan"
+                  - option "Panama"
+                  - option "Paraguay"
+                  - option "Peru"
+                  - option "Philippines"
+                  - option "Palestine"
+                  - option "Papua New Guinea"
+                  - option "Poland"
+                  - option "Portugal"
+                  - option "Korea DPR"
+                  - option "Puerto Rico"
+                  - option "Qatar"
+                  - option "Réunion"
+                  - option "Romania"
+                  - option "South Africa"
+                  - option "Rwanda"
+                  - option "Samoa"
+                  - option "Sudan"
+                  - option "Senegal"
+                  - option "Seychelles"
+                  - option "Singapore"
+                  - option "St Kitts and Nevis"
+                  - option "Sierra Leone"
+                  - option "El Salvador"
+                  - option "San Marino"
+                  - option "Solomon Islands"
+                  - option "Somalia"
+                  - option "Serbia"
+                  - option "Sri Lanka"
+                  - option "South Sudan"
+                  - option "São Tomé and Príncipe"
+                  - option "Switzerland"
+                  - option "Suriname"
+                  - option "Slovakia"
+                  - option "Slovenia"
+                  - option "Sweden"
+                  - option "Eswatini"
+                  - option "Sint Maarten"
+                  - option "Syria"
+                  - option "Tahiti"
+                  - option "Tanzania"
+                  - option "Turks and Caicos Islands"
+                  - option "Tonga"
+                  - option "Thailand"
+                  - option "Tajikistan"
+                  - option "Turkmenistan"
+                  - option "Timor-Leste"
+                  - option "Togo"
+                  - option "Chinese Taipei"
+                  - option "Trinidad and Tobago"
+                  - option "Tunisia"
+                  - option "Türkiye"
+                  - option "United Arab Emirates"
+                  - option "Uganda"
+                  - option "Ukraine"
+                  - option "Uruguay"
+                  - option "USA"
+                  - option "Uzbekistan"
+                  - option "Vanuatu"
+                  - option "Vatican"
+                  - option "Venezuela"
+                  - option "British Virgin Islands"
+                  - option "Vietnam"
+                  - option "St Vincent and the Grenadines"
+                  - option "US Virgin Islands"
+                  - option "Yemen"
+                  - option "Zambia"
+                  - option "Zimbabwe"
+              - 'button "Sort by: Date" [ref=e145] [cursor=pointer]':
+                - paragraph [ref=e146]: "Sort by:"
+                - generic [ref=e147]:
+                  - paragraph [ref=e148]: Date
+                  - img [ref=e149]
+              - button "Filter" [ref=e152] [cursor=pointer]:
+                - paragraph [ref=e153]: Filter
+                - img [ref=e154]
+            - generic [ref=e162]:
+              - button "All" [ref=e163] [cursor=pointer]:
+                - generic [ref=e164]: All
+              - button [ref=e165] [cursor=pointer]
+          - generic [ref=e167]:
+            - generic [ref=e169]:
+              - generic [ref=e171]:
+                - generic [ref=e172]: Sunday 15 June 2025
+                - button "View groups" [ref=e173] [cursor=pointer]
+              - generic [ref=e174]:
+                - link "Al Ahly FC 0 FT 0 Inter Miami CF First stage · Group A · Miami Stadium (Miami)" [ref=e175] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019152
+                  - generic [ref=e176]:
+                    - generic [ref=e177]:
+                      - generic [ref=e179]: Al Ahly FC
+                      - generic [ref=e181]:
+                        - generic [ref=e182]: "0"
+                        - generic [ref=e184]: FT
+                        - generic [ref=e185]: "0"
+                      - generic [ref=e188]: Inter Miami CF
+                    - generic [ref=e189]:
+                      - generic [ref=e190]: First stage
+                      - generic [ref=e191]: ·
+                      - generic [ref=e192]:
+                        - generic [ref=e193]: Group A
+                        - generic [ref=e194]: ·
+                        - generic [ref=e195]:
+                          - generic [ref=e196]: Miami Stadium
+                          - generic [ref=e197]: (Miami)
+                - link "FC Bayern München 10 FT 0 Auckland City FC First stage · Group C · TQL Stadium (Cincinnati)" [ref=e198] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019161
+                  - generic [ref=e199]:
+                    - generic [ref=e200]:
+                      - generic [ref=e202]: FC Bayern München
+                      - generic [ref=e204]:
+                        - generic [ref=e205]: "10"
+                        - generic [ref=e207]: FT
+                        - generic [ref=e208]: "0"
+                      - generic [ref=e211]: Auckland City FC
+                    - generic [ref=e212]:
+                      - generic [ref=e213]: First stage
+                      - generic [ref=e214]: ·
+                      - generic [ref=e215]:
+                        - generic [ref=e216]: Group C
+                        - generic [ref=e217]: ·
+                        - generic [ref=e218]:
+                          - generic [ref=e219]: TQL Stadium
+                          - generic [ref=e220]: (Cincinnati)
+                - link "Paris Saint-Germain 4 FT 0 Atlético de Madrid First stage · Group B · Rose Bowl Stadium (Los Angeles)" [ref=e221] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019155
+                  - generic [ref=e222]:
+                    - generic [ref=e223]:
+                      - generic [ref=e225]: Paris Saint-Germain
+                      - generic [ref=e227]:
+                        - generic [ref=e228]: "4"
+                        - generic [ref=e230]: FT
+                        - generic [ref=e231]: "0"
+                      - generic [ref=e234]: Atlético de Madrid
+                    - generic [ref=e235]:
+                      - generic [ref=e236]: First stage
+                      - generic [ref=e237]: ·
+                      - generic [ref=e238]:
+                        - generic [ref=e239]: Group B
+                        - generic [ref=e240]: ·
+                        - generic [ref=e241]:
+                          - generic [ref=e242]: Rose Bowl Stadium
+                          - generic [ref=e243]: (Los Angeles)
+            - generic [ref=e245]:
+              - generic [ref=e247]:
+                - generic [ref=e248]: Monday 16 June 2025
+                - button "View groups" [ref=e249] [cursor=pointer]
+              - generic [ref=e250]:
+                - link "Palmeiras 0 FT 0 FC Porto First stage · Group A · New York/New Jersey Stadium (New York)" [ref=e251] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019149
+                  - generic [ref=e252]:
+                    - generic [ref=e253]:
+                      - generic [ref=e255]: Palmeiras
+                      - generic [ref=e257]:
+                        - generic [ref=e258]: "0"
+                        - generic [ref=e260]: FT
+                        - generic [ref=e261]: "0"
+                      - generic [ref=e264]: FC Porto
+                    - generic [ref=e265]:
+                      - generic [ref=e266]: First stage
+                      - generic [ref=e267]: ·
+                      - generic [ref=e268]:
+                        - generic [ref=e269]: Group A
+                        - generic [ref=e270]: ·
+                        - generic [ref=e271]:
+                          - generic [ref=e272]: New York/New Jersey Stadium
+                          - generic [ref=e273]: (New York)
+                - link "Botafogo 2 FT 1 Seattle Sounders FC First stage · Group B · Seattle Stadium (Seattle)" [ref=e274] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019157
+                  - generic [ref=e275]:
+                    - generic [ref=e276]:
+                      - generic [ref=e278]: Botafogo
+                      - generic [ref=e280]:
+                        - generic [ref=e281]: "2"
+                        - generic [ref=e283]: FT
+                        - generic [ref=e284]: "1"
+                      - generic [ref=e287]: Seattle Sounders FC
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: First stage
+                      - generic [ref=e290]: ·
+                      - generic [ref=e291]:
+                        - generic [ref=e292]: Group B
+                        - generic [ref=e293]: ·
+                        - generic [ref=e294]:
+                          - generic [ref=e295]: Seattle Stadium
+                          - generic [ref=e296]: (Seattle)
+                - link "Chelsea FC 2 FT 0 LAFC First stage · Group D · Atlanta Stadium (Atlanta)" [ref=e297] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019166
+                  - generic [ref=e298]:
+                    - generic [ref=e299]:
+                      - generic [ref=e301]: Chelsea FC
+                      - generic [ref=e303]:
+                        - generic [ref=e304]: "2"
+                        - generic [ref=e306]: FT
+                        - generic [ref=e307]: "0"
+                      - generic [ref=e310]: LAFC
+                    - generic [ref=e311]:
+                      - generic [ref=e312]: First stage
+                      - generic [ref=e313]: ·
+                      - generic [ref=e314]:
+                        - generic [ref=e315]: Group D
+                        - generic [ref=e316]: ·
+                        - generic [ref=e317]:
+                          - generic [ref=e318]: Atlanta Stadium
+                          - generic [ref=e319]: (Atlanta)
+            - generic [ref=e321]:
+              - generic [ref=e323]:
+                - generic [ref=e324]: Tuesday 17 June 2025
+                - button "View groups" [ref=e325] [cursor=pointer]
+              - generic [ref=e326]:
+                - link "CA Boca Juniors 2 FT 2 SL Benfica First stage · Group C · Miami Stadium (Miami)" [ref=e327] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019162
+                  - generic [ref=e328]:
+                    - generic [ref=e329]:
+                      - generic [ref=e331]: CA Boca Juniors
+                      - generic [ref=e333]:
+                        - generic [ref=e334]: "2"
+                        - generic [ref=e336]: FT
+                        - generic [ref=e337]: "2"
+                      - generic [ref=e340]: SL Benfica
+                    - generic [ref=e341]:
+                      - generic [ref=e342]: First stage
+                      - generic [ref=e343]: ·
+                      - generic [ref=e344]:
+                        - generic [ref=e345]: Group C
+                        - generic [ref=e346]: ·
+                        - generic [ref=e347]:
+                          - generic [ref=e348]: Miami Stadium
+                          - generic [ref=e349]: (Miami)
+                - link "CR Flamengo 2 FT 0 Espérance de Tunisie First stage · Group D · Philadelphia Stadium (Philadelphia)" [ref=e350] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019169
+                  - generic [ref=e351]:
+                    - generic [ref=e352]:
+                      - generic [ref=e354]: CR Flamengo
+                      - generic [ref=e356]:
+                        - generic [ref=e357]: "2"
+                        - generic [ref=e359]: FT
+                        - generic [ref=e360]: "0"
+                      - generic [ref=e363]: Espérance de Tunisie
+                    - generic [ref=e364]:
+                      - generic [ref=e365]: First stage
+                      - generic [ref=e366]: ·
+                      - generic [ref=e367]:
+                        - generic [ref=e368]: Group D
+                        - generic [ref=e369]: ·
+                        - generic [ref=e370]:
+                          - generic [ref=e371]: Philadelphia Stadium
+                          - generic [ref=e372]: (Philadelphia)
+                - link "Fluminense FC 0 FT 0 Borussia Dortmund First stage · Group F · New York/New Jersey Stadium (New York)" [ref=e373] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019178
+                  - generic [ref=e374]:
+                    - generic [ref=e375]:
+                      - generic [ref=e377]: Fluminense FC
+                      - generic [ref=e379]:
+                        - generic [ref=e380]: "0"
+                        - generic [ref=e382]: FT
+                        - generic [ref=e383]: "0"
+                      - generic [ref=e386]: Borussia Dortmund
+                    - generic [ref=e387]:
+                      - generic [ref=e388]: First stage
+                      - generic [ref=e389]: ·
+                      - generic [ref=e390]:
+                        - generic [ref=e391]: Group F
+                        - generic [ref=e392]: ·
+                        - generic [ref=e393]:
+                          - generic [ref=e394]: New York/New Jersey Stadium
+                          - generic [ref=e395]: (New York)
+                - link "CA River Plate 3 FT 1 Urawa Red Diamonds First stage · Group E · Seattle Stadium (Seattle)" [ref=e396] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019177
+                  - generic [ref=e397]:
+                    - generic [ref=e398]:
+                      - generic [ref=e400]: CA River Plate
+                      - generic [ref=e402]:
+                        - generic [ref=e403]: "3"
+                        - generic [ref=e405]: FT
+                        - generic [ref=e406]: "1"
+                      - generic [ref=e409]: Urawa Red Diamonds
+                    - generic [ref=e410]:
+                      - generic [ref=e411]: First stage
+                      - generic [ref=e412]: ·
+                      - generic [ref=e413]:
+                        - generic [ref=e414]: Group E
+                        - generic [ref=e415]: ·
+                        - generic [ref=e416]:
+                          - generic [ref=e417]: Seattle Stadium
+                          - generic [ref=e418]: (Seattle)
+            - generic [ref=e420]:
+              - generic [ref=e422]:
+                - generic [ref=e423]: Wednesday 18 June 2025
+                - button "View groups" [ref=e424] [cursor=pointer]
+              - generic [ref=e425]:
+                - link "Ulsan HD 0 FT 1 Mamelodi Sundowns FC First stage · Group F · Inter&Co Stadium (Orlando)" [ref=e426] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019183
+                  - generic [ref=e427]:
+                    - generic [ref=e428]:
+                      - generic [ref=e430]: Ulsan HD
+                      - generic [ref=e432]:
+                        - generic [ref=e433]: "0"
+                        - generic [ref=e435]: FT
+                        - generic [ref=e436]: "1"
+                      - generic [ref=e439]: Mamelodi Sundowns FC
+                    - generic [ref=e440]:
+                      - generic [ref=e441]: First stage
+                      - generic [ref=e442]: ·
+                      - generic [ref=e443]:
+                        - generic [ref=e444]: Group F
+                        - generic [ref=e445]: ·
+                        - generic [ref=e446]:
+                          - generic [ref=e447]: Inter&Co Stadium
+                          - generic [ref=e448]: (Orlando)
+                - link "CF Monterrey 1 FT 1 FC Internazionale Milano First stage · Group E · Rose Bowl Stadium (Los Angeles)" [ref=e449] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019174
+                  - generic [ref=e450]:
+                    - generic [ref=e451]:
+                      - generic [ref=e453]: CF Monterrey
+                      - generic [ref=e455]:
+                        - generic [ref=e456]: "1"
+                        - generic [ref=e458]: FT
+                        - generic [ref=e459]: "1"
+                      - generic [ref=e462]: FC Internazionale Milano
+                    - generic [ref=e463]:
+                      - generic [ref=e464]: First stage
+                      - generic [ref=e465]: ·
+                      - generic [ref=e466]:
+                        - generic [ref=e467]: Group E
+                        - generic [ref=e468]: ·
+                        - generic [ref=e469]:
+                          - generic [ref=e470]: Rose Bowl Stadium
+                          - generic [ref=e471]: (Los Angeles)
+                - link "Manchester City 2 FT 0 Wydad AC First stage · Group G · Philadelphia Stadium (Philadelphia)" [ref=e472] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019187
+                  - generic [ref=e473]:
+                    - generic [ref=e474]:
+                      - generic [ref=e476]: Manchester City
+                      - generic [ref=e477]:
+                        - generic [ref=e478]: "2"
+                        - generic [ref=e480]: FT
+                        - generic [ref=e481]: "0"
+                      - generic [ref=e483]: Wydad AC
+                    - generic [ref=e484]:
+                      - generic [ref=e485]: First stage
+                      - generic [ref=e486]: ·
+                      - generic [ref=e487]:
+                        - generic [ref=e488]: Group G
+                        - generic [ref=e489]: ·
+                        - generic [ref=e490]:
+                          - generic [ref=e491]: Philadelphia Stadium
+                          - generic [ref=e492]: (Philadelphia)
+                - link "Real Madrid C.F. 1 FT 1 Al Hilal First stage · Group H · Miami Stadium (Miami)" [ref=e493] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019192
+                  - generic [ref=e494]:
+                    - generic [ref=e495]:
+                      - generic [ref=e497]: Real Madrid C.F.
+                      - generic [ref=e498]:
+                        - generic [ref=e499]: "1"
+                        - generic [ref=e501]: FT
+                        - generic [ref=e502]: "1"
+                      - generic [ref=e504]: Al Hilal
+                    - generic [ref=e505]:
+                      - generic [ref=e506]: First stage
+                      - generic [ref=e507]: ·
+                      - generic [ref=e508]:
+                        - generic [ref=e509]: Group H
+                        - generic [ref=e510]: ·
+                        - generic [ref=e511]:
+                          - generic [ref=e512]: Miami Stadium
+                          - generic [ref=e513]: (Miami)
+            - generic [ref=e515]:
+              - generic [ref=e517]:
+                - generic [ref=e518]: Thursday 19 June 2025
+                - button "View groups" [ref=e519] [cursor=pointer]
+              - generic [ref=e520]:
+                - link "CF Pachuca 1 FT 2 FC Salzburg First stage · Group H · TQL Stadium (Cincinnati)" [ref=e521] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019191
+                  - generic [ref=e522]:
+                    - generic [ref=e523]:
+                      - generic [ref=e525]: CF Pachuca
+                      - generic [ref=e526]:
+                        - generic [ref=e527]: "1"
+                        - generic [ref=e529]: FT
+                        - generic [ref=e530]: "2"
+                      - generic [ref=e532]: FC Salzburg
+                    - generic [ref=e533]:
+                      - generic [ref=e534]: First stage
+                      - generic [ref=e535]: ·
+                      - generic [ref=e536]:
+                        - generic [ref=e537]: Group H
+                        - generic [ref=e538]: ·
+                        - generic [ref=e539]:
+                          - generic [ref=e540]: TQL Stadium
+                          - generic [ref=e541]: (Cincinnati)
+                - link "Al Ain FC 0 FT 5 Juventus FC First stage · Group G · Audi Field (Washington D.C.)" [ref=e542] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019188
+                  - generic [ref=e543]:
+                    - generic [ref=e544]:
+                      - generic [ref=e546]: Al Ain FC
+                      - generic [ref=e547]:
+                        - generic [ref=e548]: "0"
+                        - generic [ref=e550]: FT
+                        - generic [ref=e551]: "5"
+                      - generic [ref=e553]: Juventus FC
+                    - generic [ref=e554]:
+                      - generic [ref=e555]: First stage
+                      - generic [ref=e556]: ·
+                      - generic [ref=e557]:
+                        - generic [ref=e558]: Group G
+                        - generic [ref=e559]: ·
+                        - generic [ref=e560]:
+                          - generic [ref=e561]: Audi Field
+                          - generic [ref=e562]: (Washington D.C.)
+                - link "Palmeiras 2 FT 0 Al Ahly FC First stage · Group A · New York/New Jersey Stadium (New York)" [ref=e563] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019148
+                  - generic [ref=e564]:
+                    - generic [ref=e565]:
+                      - generic [ref=e567]: Palmeiras
+                      - generic [ref=e569]:
+                        - generic [ref=e570]: "2"
+                        - generic [ref=e572]: FT
+                        - generic [ref=e573]: "0"
+                      - generic [ref=e576]: Al Ahly FC
+                    - generic [ref=e577]:
+                      - generic [ref=e578]: First stage
+                      - generic [ref=e579]: ·
+                      - generic [ref=e580]:
+                        - generic [ref=e581]: Group A
+                        - generic [ref=e582]: ·
+                        - generic [ref=e583]:
+                          - generic [ref=e584]: New York/New Jersey Stadium
+                          - generic [ref=e585]: (New York)
+                - link "Inter Miami CF 2 FT 1 FC Porto First stage · Group A · Atlanta Stadium (Atlanta)" [ref=e586] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019151
+                  - generic [ref=e587]:
+                    - generic [ref=e588]:
+                      - generic [ref=e590]: Inter Miami CF
+                      - generic [ref=e592]:
+                        - generic [ref=e593]: "2"
+                        - generic [ref=e595]: FT
+                        - generic [ref=e596]: "1"
+                      - generic [ref=e599]: FC Porto
+                    - generic [ref=e600]:
+                      - generic [ref=e601]: First stage
+                      - generic [ref=e602]: ·
+                      - generic [ref=e603]:
+                        - generic [ref=e604]: Group A
+                        - generic [ref=e605]: ·
+                        - generic [ref=e606]:
+                          - generic [ref=e607]: Atlanta Stadium
+                          - generic [ref=e608]: (Atlanta)
+            - generic [ref=e610]:
+              - generic [ref=e612]:
+                - generic [ref=e613]: Friday 20 June 2025
+                - button "View groups" [ref=e614] [cursor=pointer]
+              - generic [ref=e615]:
+                - link "Seattle Sounders FC 1 FT 3 Atlético de Madrid First stage · Group B · Seattle Stadium (Seattle)" [ref=e616] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019158
+                  - generic [ref=e617]:
+                    - generic [ref=e618]:
+                      - generic [ref=e620]: Seattle Sounders FC
+                      - generic [ref=e622]:
+                        - generic [ref=e623]: "1"
+                        - generic [ref=e625]: FT
+                        - generic [ref=e626]: "3"
+                      - generic [ref=e629]: Atlético de Madrid
+                    - generic [ref=e630]:
+                      - generic [ref=e631]: First stage
+                      - generic [ref=e632]: ·
+                      - generic [ref=e633]:
+                        - generic [ref=e634]: Group B
+                        - generic [ref=e635]: ·
+                        - generic [ref=e636]:
+                          - generic [ref=e637]: Seattle Stadium
+                          - generic [ref=e638]: (Seattle)
+                - link "Paris Saint-Germain 0 FT 1 Botafogo First stage · Group B · Rose Bowl Stadium (Los Angeles)" [ref=e639] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019156
+                  - generic [ref=e640]:
+                    - generic [ref=e641]:
+                      - generic [ref=e643]: Paris Saint-Germain
+                      - generic [ref=e645]:
+                        - generic [ref=e646]: "0"
+                        - generic [ref=e648]: FT
+                        - generic [ref=e649]: "1"
+                      - generic [ref=e652]: Botafogo
+                    - generic [ref=e653]:
+                      - generic [ref=e654]: First stage
+                      - generic [ref=e655]: ·
+                      - generic [ref=e656]:
+                        - generic [ref=e657]: Group B
+                        - generic [ref=e658]: ·
+                        - generic [ref=e659]:
+                          - generic [ref=e660]: Rose Bowl Stadium
+                          - generic [ref=e661]: (Los Angeles)
+                - link "SL Benfica 6 FT 0 Auckland City FC First stage · Group C · Inter&Co Stadium (Orlando)" [ref=e662] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019165
+                  - generic [ref=e663]:
+                    - generic [ref=e664]:
+                      - generic [ref=e666]: SL Benfica
+                      - generic [ref=e668]:
+                        - generic [ref=e669]: "6"
+                        - generic [ref=e671]: FT
+                        - generic [ref=e672]: "0"
+                      - generic [ref=e675]: Auckland City FC
+                    - generic [ref=e676]:
+                      - generic [ref=e677]: First stage
+                      - generic [ref=e678]: ·
+                      - generic [ref=e679]:
+                        - generic [ref=e680]: Group C
+                        - generic [ref=e681]: ·
+                        - generic [ref=e682]:
+                          - generic [ref=e683]: Inter&Co Stadium
+                          - generic [ref=e684]: (Orlando)
+                - link "CR Flamengo 3 FT 1 Chelsea FC First stage · Group D · Philadelphia Stadium (Philadelphia)" [ref=e685] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019170
+                  - generic [ref=e686]:
+                    - generic [ref=e687]:
+                      - generic [ref=e689]: CR Flamengo
+                      - generic [ref=e691]:
+                        - generic [ref=e692]: "3"
+                        - generic [ref=e694]: FT
+                        - generic [ref=e695]: "1"
+                      - generic [ref=e698]: Chelsea FC
+                    - generic [ref=e699]:
+                      - generic [ref=e700]: First stage
+                      - generic [ref=e701]: ·
+                      - generic [ref=e702]:
+                        - generic [ref=e703]: Group D
+                        - generic [ref=e704]: ·
+                        - generic [ref=e705]:
+                          - generic [ref=e706]: Philadelphia Stadium
+                          - generic [ref=e707]: (Philadelphia)
+            - generic [ref=e709]:
+              - generic [ref=e711]:
+                - generic [ref=e712]: Saturday 21 June 2025
+                - button "View groups" [ref=e713] [cursor=pointer]
+              - generic [ref=e714]:
+                - link "LAFC 0 FT 1 Espérance de Tunisie First stage · Group D · GEODIS Park (Nashville)" [ref=e715] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019167
+                  - generic [ref=e716]:
+                    - generic [ref=e717]:
+                      - generic [ref=e719]: LAFC
+                      - generic [ref=e721]:
+                        - generic [ref=e722]: "0"
+                        - generic [ref=e724]: FT
+                        - generic [ref=e725]: "1"
+                      - generic [ref=e728]: Espérance de Tunisie
+                    - generic [ref=e729]:
+                      - generic [ref=e730]: First stage
+                      - generic [ref=e731]: ·
+                      - generic [ref=e732]:
+                        - generic [ref=e733]: Group D
+                        - generic [ref=e734]: ·
+                        - generic [ref=e735]:
+                          - generic [ref=e736]: GEODIS Park
+                          - generic [ref=e737]: (Nashville)
+                - link "FC Bayern München 2 FT 1 CA Boca Juniors First stage · Group C · Miami Stadium (Miami)" [ref=e738] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019163
+                  - generic [ref=e739]:
+                    - generic [ref=e740]:
+                      - generic [ref=e742]: FC Bayern München
+                      - generic [ref=e744]:
+                        - generic [ref=e745]: "2"
+                        - generic [ref=e747]: FT
+                        - generic [ref=e748]: "1"
+                      - generic [ref=e751]: CA Boca Juniors
+                    - generic [ref=e752]:
+                      - generic [ref=e753]: First stage
+                      - generic [ref=e754]: ·
+                      - generic [ref=e755]:
+                        - generic [ref=e756]: Group C
+                        - generic [ref=e757]: ·
+                        - generic [ref=e758]:
+                          - generic [ref=e759]: Miami Stadium
+                          - generic [ref=e760]: (Miami)
+                - link "Mamelodi Sundowns FC 3 FT 4 Borussia Dortmund First stage · Group F · TQL Stadium (Cincinnati)" [ref=e761] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019181
+                  - generic [ref=e762]:
+                    - generic [ref=e763]:
+                      - generic [ref=e765]: Mamelodi Sundowns FC
+                      - generic [ref=e767]:
+                        - generic [ref=e768]: "3"
+                        - generic [ref=e770]: FT
+                        - generic [ref=e771]: "4"
+                      - generic [ref=e774]: Borussia Dortmund
+                    - generic [ref=e775]:
+                      - generic [ref=e776]: First stage
+                      - generic [ref=e777]: ·
+                      - generic [ref=e778]:
+                        - generic [ref=e779]: Group F
+                        - generic [ref=e780]: ·
+                        - generic [ref=e781]:
+                          - generic [ref=e782]: TQL Stadium
+                          - generic [ref=e783]: (Cincinnati)
+                - link "FC Internazionale Milano 2 FT 1 Urawa Red Diamonds First stage · Group E · Seattle Stadium (Seattle)" [ref=e784] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019175
+                  - generic [ref=e785]:
+                    - generic [ref=e786]:
+                      - generic [ref=e788]: FC Internazionale Milano
+                      - generic [ref=e790]:
+                        - generic [ref=e791]: "2"
+                        - generic [ref=e793]: FT
+                        - generic [ref=e794]: "1"
+                      - generic [ref=e797]: Urawa Red Diamonds
+                    - generic [ref=e798]:
+                      - generic [ref=e799]: First stage
+                      - generic [ref=e800]: ·
+                      - generic [ref=e801]:
+                        - generic [ref=e802]: Group E
+                        - generic [ref=e803]: ·
+                        - generic [ref=e804]:
+                          - generic [ref=e805]: Seattle Stadium
+                          - generic [ref=e806]: (Seattle)
+            - generic [ref=e808]:
+              - generic [ref=e810]:
+                - generic [ref=e811]: Sunday 22 June 2025
+                - button "View groups" [ref=e812] [cursor=pointer]
+              - generic [ref=e813]:
+                - link "Fluminense FC 4 FT 2 Ulsan HD First stage · Group F · New York/New Jersey Stadium (New York)" [ref=e814] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019179
+                  - generic [ref=e815]:
+                    - generic [ref=e816]:
+                      - generic [ref=e818]: Fluminense FC
+                      - generic [ref=e820]:
+                        - generic [ref=e821]: "4"
+                        - generic [ref=e823]: FT
+                        - generic [ref=e824]: "2"
+                      - generic [ref=e827]: Ulsan HD
+                    - generic [ref=e828]:
+                      - generic [ref=e829]: First stage
+                      - generic [ref=e830]: ·
+                      - generic [ref=e831]:
+                        - generic [ref=e832]: Group F
+                        - generic [ref=e833]: ·
+                        - generic [ref=e834]:
+                          - generic [ref=e835]: New York/New Jersey Stadium
+                          - generic [ref=e836]: (New York)
+                - link "CA River Plate 0 FT 0 CF Monterrey First stage · Group E · Rose Bowl Stadium (Los Angeles)" [ref=e837] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019173
+                  - generic [ref=e838]:
+                    - generic [ref=e839]:
+                      - generic [ref=e841]: CA River Plate
+                      - generic [ref=e843]:
+                        - generic [ref=e844]: "0"
+                        - generic [ref=e846]: FT
+                        - generic [ref=e847]: "0"
+                      - generic [ref=e850]: CF Monterrey
+                    - generic [ref=e851]:
+                      - generic [ref=e852]: First stage
+                      - generic [ref=e853]: ·
+                      - generic [ref=e854]:
+                        - generic [ref=e855]: Group E
+                        - generic [ref=e856]: ·
+                        - generic [ref=e857]:
+                          - generic [ref=e858]: Rose Bowl Stadium
+                          - generic [ref=e859]: (Los Angeles)
+                - link "Juventus FC 4 FT 1 Wydad AC First stage · Group G · Philadelphia Stadium (Philadelphia)" [ref=e860] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019186
+                  - generic [ref=e861]:
+                    - generic [ref=e862]:
+                      - generic [ref=e864]: Juventus FC
+                      - generic [ref=e865]:
+                        - generic [ref=e866]: "4"
+                        - generic [ref=e868]: FT
+                        - generic [ref=e869]: "1"
+                      - generic [ref=e871]: Wydad AC
+                    - generic [ref=e872]:
+                      - generic [ref=e873]: First stage
+                      - generic [ref=e874]: ·
+                      - generic [ref=e875]:
+                        - generic [ref=e876]: Group G
+                        - generic [ref=e877]: ·
+                        - generic [ref=e878]:
+                          - generic [ref=e879]: Philadelphia Stadium
+                          - generic [ref=e880]: (Philadelphia)
+                - link "Real Madrid C.F. 3 FT 1 CF Pachuca First stage · Group H · Bank of America Stadium (Charlotte)" [ref=e881] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019190
+                  - generic [ref=e882]:
+                    - generic [ref=e883]:
+                      - generic [ref=e885]: Real Madrid C.F.
+                      - generic [ref=e886]:
+                        - generic [ref=e887]: "3"
+                        - generic [ref=e889]: FT
+                        - generic [ref=e890]: "1"
+                      - generic [ref=e892]: CF Pachuca
+                    - generic [ref=e893]:
+                      - generic [ref=e894]: First stage
+                      - generic [ref=e895]: ·
+                      - generic [ref=e896]:
+                        - generic [ref=e897]: Group H
+                        - generic [ref=e898]: ·
+                        - generic [ref=e899]:
+                          - generic [ref=e900]: Bank of America Stadium
+                          - generic [ref=e901]: (Charlotte)
+            - generic [ref=e903]:
+              - generic [ref=e905]:
+                - generic [ref=e906]: Monday 23 June 2025
+                - button "View groups" [ref=e907] [cursor=pointer]
+              - generic [ref=e908]:
+                - link "FC Salzburg 0 FT 0 Al Hilal First stage · Group H · Audi Field (Washington D.C.)" [ref=e909] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019195
+                  - generic [ref=e910]:
+                    - generic [ref=e911]:
+                      - generic [ref=e913]: FC Salzburg
+                      - generic [ref=e914]:
+                        - generic [ref=e915]: "0"
+                        - generic [ref=e917]: FT
+                        - generic [ref=e918]: "0"
+                      - generic [ref=e920]: Al Hilal
+                    - generic [ref=e921]:
+                      - generic [ref=e922]: First stage
+                      - generic [ref=e923]: ·
+                      - generic [ref=e924]:
+                        - generic [ref=e925]: Group H
+                        - generic [ref=e926]: ·
+                        - generic [ref=e927]:
+                          - generic [ref=e928]: Audi Field
+                          - generic [ref=e929]: (Washington D.C.)
+                - link "Manchester City 6 FT 0 Al Ain FC First stage · Group G · Atlanta Stadium (Atlanta)" [ref=e930] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019184
+                  - generic [ref=e931]:
+                    - generic [ref=e932]:
+                      - generic [ref=e934]: Manchester City
+                      - generic [ref=e935]:
+                        - generic [ref=e936]: "6"
+                        - generic [ref=e938]: FT
+                        - generic [ref=e939]: "0"
+                      - generic [ref=e941]: Al Ain FC
+                    - generic [ref=e942]:
+                      - generic [ref=e943]: First stage
+                      - generic [ref=e944]: ·
+                      - generic [ref=e945]:
+                        - generic [ref=e946]: Group G
+                        - generic [ref=e947]: ·
+                        - generic [ref=e948]:
+                          - generic [ref=e949]: Atlanta Stadium
+                          - generic [ref=e950]: (Atlanta)
+                - link "Seattle Sounders FC 0 FT 2 Paris Saint-Germain First stage · Group B · Seattle Stadium (Seattle)" [ref=e951] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019159
+                  - generic [ref=e952]:
+                    - generic [ref=e953]:
+                      - generic [ref=e955]: Seattle Sounders FC
+                      - generic [ref=e957]:
+                        - generic [ref=e958]: "0"
+                        - generic [ref=e960]: FT
+                        - generic [ref=e961]: "2"
+                      - generic [ref=e964]: Paris Saint-Germain
+                    - generic [ref=e965]:
+                      - generic [ref=e966]: First stage
+                      - generic [ref=e967]: ·
+                      - generic [ref=e968]:
+                        - generic [ref=e969]: Group B
+                        - generic [ref=e970]: ·
+                        - generic [ref=e971]:
+                          - generic [ref=e972]: Seattle Stadium
+                          - generic [ref=e973]: (Seattle)
+                - link "Atlético de Madrid 1 FT 0 Botafogo First stage · Group B · Rose Bowl Stadium (Los Angeles)" [ref=e974] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019154
+                  - generic [ref=e975]:
+                    - generic [ref=e976]:
+                      - generic [ref=e978]: Atlético de Madrid
+                      - generic [ref=e980]:
+                        - generic [ref=e981]: "1"
+                        - generic [ref=e983]: FT
+                        - generic [ref=e984]: "0"
+                      - generic [ref=e987]: Botafogo
+                    - generic [ref=e988]:
+                      - generic [ref=e989]: First stage
+                      - generic [ref=e990]: ·
+                      - generic [ref=e991]:
+                        - generic [ref=e992]: Group B
+                        - generic [ref=e993]: ·
+                        - generic [ref=e994]:
+                          - generic [ref=e995]: Rose Bowl Stadium
+                          - generic [ref=e996]: (Los Angeles)
+            - generic [ref=e998]:
+              - generic [ref=e1000]:
+                - generic [ref=e1001]: Tuesday 24 June 2025
+                - button "View groups" [ref=e1002] [cursor=pointer]
+              - generic [ref=e1003]:
+                - link "Inter Miami CF 2 FT 2 Palmeiras First stage · Group A · Miami Stadium (Miami)" [ref=e1004] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019153
+                  - generic [ref=e1005]:
+                    - generic [ref=e1006]:
+                      - generic [ref=e1008]: Inter Miami CF
+                      - generic [ref=e1010]:
+                        - generic [ref=e1011]: "2"
+                        - generic [ref=e1013]: FT
+                        - generic [ref=e1014]: "2"
+                      - generic [ref=e1017]: Palmeiras
+                    - generic [ref=e1018]:
+                      - generic [ref=e1019]: First stage
+                      - generic [ref=e1020]: ·
+                      - generic [ref=e1021]:
+                        - generic [ref=e1022]: Group A
+                        - generic [ref=e1023]: ·
+                        - generic [ref=e1024]:
+                          - generic [ref=e1025]: Miami Stadium
+                          - generic [ref=e1026]: (Miami)
+                - link "FC Porto 4 FT 4 Al Ahly FC First stage · Group A · New York/New Jersey Stadium (New York)" [ref=e1027] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019150
+                  - generic [ref=e1028]:
+                    - generic [ref=e1029]:
+                      - generic [ref=e1031]: FC Porto
+                      - generic [ref=e1033]:
+                        - generic [ref=e1034]: "4"
+                        - generic [ref=e1036]: FT
+                        - generic [ref=e1037]: "4"
+                      - generic [ref=e1040]: Al Ahly FC
+                    - generic [ref=e1041]:
+                      - generic [ref=e1042]: First stage
+                      - generic [ref=e1043]: ·
+                      - generic [ref=e1044]:
+                        - generic [ref=e1045]: Group A
+                        - generic [ref=e1046]: ·
+                        - generic [ref=e1047]:
+                          - generic [ref=e1048]: New York/New Jersey Stadium
+                          - generic [ref=e1049]: (New York)
+                - link "Auckland City FC 1 FT 1 CA Boca Juniors First stage · Group C · GEODIS Park (Nashville)" [ref=e1050] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019164
+                  - generic [ref=e1051]:
+                    - generic [ref=e1052]:
+                      - generic [ref=e1054]: Auckland City FC
+                      - generic [ref=e1056]:
+                        - generic [ref=e1057]: "1"
+                        - generic [ref=e1059]: FT
+                        - generic [ref=e1060]: "1"
+                      - generic [ref=e1063]: CA Boca Juniors
+                    - generic [ref=e1064]:
+                      - generic [ref=e1065]: First stage
+                      - generic [ref=e1066]: ·
+                      - generic [ref=e1067]:
+                        - generic [ref=e1068]: Group C
+                        - generic [ref=e1069]: ·
+                        - generic [ref=e1070]:
+                          - generic [ref=e1071]: GEODIS Park
+                          - generic [ref=e1072]: (Nashville)
+                - link "SL Benfica 1 FT 0 FC Bayern München First stage · Group C · Bank of America Stadium (Charlotte)" [ref=e1073] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019160
+                  - generic [ref=e1074]:
+                    - generic [ref=e1075]:
+                      - generic [ref=e1077]: SL Benfica
+                      - generic [ref=e1079]:
+                        - generic [ref=e1080]: "1"
+                        - generic [ref=e1082]: FT
+                        - generic [ref=e1083]: "0"
+                      - generic [ref=e1086]: FC Bayern München
+                    - generic [ref=e1087]:
+                      - generic [ref=e1088]: First stage
+                      - generic [ref=e1089]: ·
+                      - generic [ref=e1090]:
+                        - generic [ref=e1091]: Group C
+                        - generic [ref=e1092]: ·
+                        - generic [ref=e1093]:
+                          - generic [ref=e1094]: Bank of America Stadium
+                          - generic [ref=e1095]: (Charlotte)
+            - generic [ref=e1097]:
+              - generic [ref=e1099]:
+                - generic [ref=e1100]: Wednesday 25 June 2025
+                - button "View groups" [ref=e1101] [cursor=pointer]
+              - generic [ref=e1102]:
+                - link "LAFC 1 FT 1 CR Flamengo First stage · Group D · Camping World Stadium (Orlando)" [ref=e1103] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019168
+                  - generic [ref=e1104]:
+                    - generic [ref=e1105]:
+                      - generic [ref=e1107]: LAFC
+                      - generic [ref=e1109]:
+                        - generic [ref=e1110]: "1"
+                        - generic [ref=e1112]: FT
+                        - generic [ref=e1113]: "1"
+                      - generic [ref=e1116]: CR Flamengo
+                    - generic [ref=e1117]:
+                      - generic [ref=e1118]: First stage
+                      - generic [ref=e1119]: ·
+                      - generic [ref=e1120]:
+                        - generic [ref=e1121]: Group D
+                        - generic [ref=e1122]: ·
+                        - generic [ref=e1123]:
+                          - generic [ref=e1124]: Camping World Stadium
+                          - generic [ref=e1125]: (Orlando)
+                - link "Espérance de Tunisie 0 FT 3 Chelsea FC First stage · Group D · Philadelphia Stadium (Philadelphia)" [ref=e1126] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019171
+                  - generic [ref=e1127]:
+                    - generic [ref=e1128]:
+                      - generic [ref=e1130]: Espérance de Tunisie
+                      - generic [ref=e1132]:
+                        - generic [ref=e1133]: "0"
+                        - generic [ref=e1135]: FT
+                        - generic [ref=e1136]: "3"
+                      - generic [ref=e1139]: Chelsea FC
+                    - generic [ref=e1140]:
+                      - generic [ref=e1141]: First stage
+                      - generic [ref=e1142]: ·
+                      - generic [ref=e1143]:
+                        - generic [ref=e1144]: Group D
+                        - generic [ref=e1145]: ·
+                        - generic [ref=e1146]:
+                          - generic [ref=e1147]: Philadelphia Stadium
+                          - generic [ref=e1148]: (Philadelphia)
+                - link "Borussia Dortmund 1 FT 0 Ulsan HD First stage · Group F · TQL Stadium (Cincinnati)" [ref=e1149] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019180
+                  - generic [ref=e1150]:
+                    - generic [ref=e1151]:
+                      - generic [ref=e1153]: Borussia Dortmund
+                      - generic [ref=e1155]:
+                        - generic [ref=e1156]: "1"
+                        - generic [ref=e1158]: FT
+                        - generic [ref=e1159]: "0"
+                      - generic [ref=e1162]: Ulsan HD
+                    - generic [ref=e1163]:
+                      - generic [ref=e1164]: First stage
+                      - generic [ref=e1165]: ·
+                      - generic [ref=e1166]:
+                        - generic [ref=e1167]: Group F
+                        - generic [ref=e1168]: ·
+                        - generic [ref=e1169]:
+                          - generic [ref=e1170]: TQL Stadium
+                          - generic [ref=e1171]: (Cincinnati)
+                - link "Mamelodi Sundowns FC 0 FT 0 Fluminense FC First stage · Group F · Miami Stadium (Miami)" [ref=e1172] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019182
+                  - generic [ref=e1173]:
+                    - generic [ref=e1174]:
+                      - generic [ref=e1176]: Mamelodi Sundowns FC
+                      - generic [ref=e1178]:
+                        - generic [ref=e1179]: "0"
+                        - generic [ref=e1181]: FT
+                        - generic [ref=e1182]: "0"
+                      - generic [ref=e1185]: Fluminense FC
+                    - generic [ref=e1186]:
+                      - generic [ref=e1187]: First stage
+                      - generic [ref=e1188]: ·
+                      - generic [ref=e1189]:
+                        - generic [ref=e1190]: Group F
+                        - generic [ref=e1191]: ·
+                        - generic [ref=e1192]:
+                          - generic [ref=e1193]: Miami Stadium
+                          - generic [ref=e1194]: (Miami)
+            - generic [ref=e1196]:
+              - generic [ref=e1198]:
+                - generic [ref=e1199]: Thursday 26 June 2025
+                - button "View groups" [ref=e1200] [cursor=pointer]
+              - generic [ref=e1201]:
+                - link "FC Internazionale Milano 2 FT 0 CA River Plate First stage · Group E · Seattle Stadium (Seattle)" [ref=e1202] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019176
+                  - generic [ref=e1203]:
+                    - generic [ref=e1204]:
+                      - generic [ref=e1206]: FC Internazionale Milano
+                      - generic [ref=e1208]:
+                        - generic [ref=e1209]: "2"
+                        - generic [ref=e1211]: FT
+                        - generic [ref=e1212]: "0"
+                      - generic [ref=e1215]: CA River Plate
+                    - generic [ref=e1216]:
+                      - generic [ref=e1217]: First stage
+                      - generic [ref=e1218]: ·
+                      - generic [ref=e1219]:
+                        - generic [ref=e1220]: Group E
+                        - generic [ref=e1221]: ·
+                        - generic [ref=e1222]:
+                          - generic [ref=e1223]: Seattle Stadium
+                          - generic [ref=e1224]: (Seattle)
+                - link "Urawa Red Diamonds 0 FT 4 CF Monterrey First stage · Group E · Rose Bowl Stadium (Los Angeles)" [ref=e1225] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019172
+                  - generic [ref=e1226]:
+                    - generic [ref=e1227]:
+                      - generic [ref=e1229]: Urawa Red Diamonds
+                      - generic [ref=e1231]:
+                        - generic [ref=e1232]: "0"
+                        - generic [ref=e1234]: FT
+                        - generic [ref=e1235]: "4"
+                      - generic [ref=e1238]: CF Monterrey
+                    - generic [ref=e1239]:
+                      - generic [ref=e1240]: First stage
+                      - generic [ref=e1241]: ·
+                      - generic [ref=e1242]:
+                        - generic [ref=e1243]: Group E
+                        - generic [ref=e1244]: ·
+                        - generic [ref=e1245]:
+                          - generic [ref=e1246]: Rose Bowl Stadium
+                          - generic [ref=e1247]: (Los Angeles)
+                - link "Juventus FC 2 FT 5 Manchester City First stage · Group G · Camping World Stadium (Orlando)" [ref=e1248] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019185
+                  - generic [ref=e1249]:
+                    - generic [ref=e1250]:
+                      - generic [ref=e1252]: Juventus FC
+                      - generic [ref=e1253]:
+                        - generic [ref=e1254]: "2"
+                        - generic [ref=e1256]: FT
+                        - generic [ref=e1257]: "5"
+                      - generic [ref=e1259]: Manchester City
+                    - generic [ref=e1260]:
+                      - generic [ref=e1261]: First stage
+                      - generic [ref=e1262]: ·
+                      - generic [ref=e1263]:
+                        - generic [ref=e1264]: Group G
+                        - generic [ref=e1265]: ·
+                        - generic [ref=e1266]:
+                          - generic [ref=e1267]: Camping World Stadium
+                          - generic [ref=e1268]: (Orlando)
+                - link "Wydad AC 1 FT 2 Al Ain FC First stage · Group G · Audi Field (Washington D.C.)" [ref=e1269] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019189
+                  - generic [ref=e1270]:
+                    - generic [ref=e1271]:
+                      - generic [ref=e1273]: Wydad AC
+                      - generic [ref=e1274]:
+                        - generic [ref=e1275]: "1"
+                        - generic [ref=e1277]: FT
+                        - generic [ref=e1278]: "2"
+                      - generic [ref=e1280]: Al Ain FC
+                    - generic [ref=e1281]:
+                      - generic [ref=e1282]: First stage
+                      - generic [ref=e1283]: ·
+                      - generic [ref=e1284]:
+                        - generic [ref=e1285]: Group G
+                        - generic [ref=e1286]: ·
+                        - generic [ref=e1287]:
+                          - generic [ref=e1288]: Audi Field
+                          - generic [ref=e1289]: (Washington D.C.)
+            - generic [ref=e1291]:
+              - generic [ref=e1293]:
+                - generic [ref=e1294]: Friday 27 June 2025
+                - button "View groups" [ref=e1295] [cursor=pointer]
+              - generic [ref=e1296]:
+                - link "Al Hilal 2 FT 0 CF Pachuca First stage · Group H · GEODIS Park (Nashville)" [ref=e1297] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019193
+                  - generic [ref=e1298]:
+                    - generic [ref=e1299]:
+                      - generic [ref=e1301]: Al Hilal
+                      - generic [ref=e1302]:
+                        - generic [ref=e1303]: "2"
+                        - generic [ref=e1305]: FT
+                        - generic [ref=e1306]: "0"
+                      - generic [ref=e1308]: CF Pachuca
+                    - generic [ref=e1309]:
+                      - generic [ref=e1310]: First stage
+                      - generic [ref=e1311]: ·
+                      - generic [ref=e1312]:
+                        - generic [ref=e1313]: Group H
+                        - generic [ref=e1314]: ·
+                        - generic [ref=e1315]:
+                          - generic [ref=e1316]: GEODIS Park
+                          - generic [ref=e1317]: (Nashville)
+                - link "FC Salzburg 0 FT 3 Real Madrid C.F. First stage · Group H · Philadelphia Stadium (Philadelphia)" [ref=e1318] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289176/400019194
+                  - generic [ref=e1319]:
+                    - generic [ref=e1320]:
+                      - generic [ref=e1322]: FC Salzburg
+                      - generic [ref=e1323]:
+                        - generic [ref=e1324]: "0"
+                        - generic [ref=e1326]: FT
+                        - generic [ref=e1327]: "3"
+                      - generic [ref=e1329]: Real Madrid C.F.
+                    - generic [ref=e1330]:
+                      - generic [ref=e1331]: First stage
+                      - generic [ref=e1332]: ·
+                      - generic [ref=e1333]:
+                        - generic [ref=e1334]: Group H
+                        - generic [ref=e1335]: ·
+                        - generic [ref=e1336]:
+                          - generic [ref=e1337]: Philadelphia Stadium
+                          - generic [ref=e1338]: (Philadelphia)
+            - generic [ref=e1340]:
+              - generic [ref=e1342]:
+                - generic [ref=e1343]: Saturday 28 June 2025
+                - button "View brackets" [ref=e1344] [cursor=pointer]
+              - generic [ref=e1345]:
+                - link "Palmeiras 1 FT 0 Botafogo Round of 16 · Philadelphia Stadium (Philadelphia)" [ref=e1346] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289186/400019203
+                  - generic [ref=e1347]:
+                    - generic [ref=e1348]:
+                      - generic [ref=e1350]: Palmeiras
+                      - generic [ref=e1352]:
+                        - generic [ref=e1353]: "1"
+                        - generic [ref=e1355]: FT
+                        - generic [ref=e1356]: "0"
+                      - generic [ref=e1359]: Botafogo
+                    - generic [ref=e1360]:
+                      - generic [ref=e1361]: Round of 16
+                      - generic [ref=e1362]:
+                        - generic [ref=e1363]: ·
+                        - generic [ref=e1364]:
+                          - generic [ref=e1365]: Philadelphia Stadium
+                          - generic [ref=e1366]: (Philadelphia)
+                - link "SL Benfica 1 FT 4 Chelsea FC Round of 16 · Bank of America Stadium (Charlotte)" [ref=e1367] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289186/400019198
+                  - generic [ref=e1368]:
+                    - generic [ref=e1369]:
+                      - generic [ref=e1371]: SL Benfica
+                      - generic [ref=e1373]:
+                        - generic [ref=e1374]: "1"
+                        - generic [ref=e1376]: FT
+                        - generic [ref=e1377]: "4"
+                      - generic [ref=e1380]: Chelsea FC
+                    - generic [ref=e1381]:
+                      - generic [ref=e1382]: Round of 16
+                      - generic [ref=e1383]:
+                        - generic [ref=e1384]: ·
+                        - generic [ref=e1385]:
+                          - generic [ref=e1386]: Bank of America Stadium
+                          - generic [ref=e1387]: (Charlotte)
+            - generic [ref=e1389]:
+              - generic [ref=e1391]:
+                - generic [ref=e1392]: Sunday 29 June 2025
+                - button "View brackets" [ref=e1393] [cursor=pointer]
+              - generic [ref=e1394]:
+                - link "Paris Saint-Germain 4 FT 0 Inter Miami CF Round of 16 · Atlanta Stadium (Atlanta)" [ref=e1395] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289186/400019196
+                  - generic [ref=e1396]:
+                    - generic [ref=e1397]:
+                      - generic [ref=e1399]: Paris Saint-Germain
+                      - generic [ref=e1401]:
+                        - generic [ref=e1402]: "4"
+                        - generic [ref=e1404]: FT
+                        - generic [ref=e1405]: "0"
+                      - generic [ref=e1408]: Inter Miami CF
+                    - generic [ref=e1409]:
+                      - generic [ref=e1410]: Round of 16
+                      - generic [ref=e1411]:
+                        - generic [ref=e1412]: ·
+                        - generic [ref=e1413]:
+                          - generic [ref=e1414]: Atlanta Stadium
+                          - generic [ref=e1415]: (Atlanta)
+                - link "CR Flamengo 2 FT 4 FC Bayern München Round of 16 · Miami Stadium (Miami)" [ref=e1416] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289186/400019200
+                  - generic [ref=e1417]:
+                    - generic [ref=e1418]:
+                      - generic [ref=e1420]: CR Flamengo
+                      - generic [ref=e1422]:
+                        - generic [ref=e1423]: "2"
+                        - generic [ref=e1425]: FT
+                        - generic [ref=e1426]: "4"
+                      - generic [ref=e1429]: FC Bayern München
+                    - generic [ref=e1430]:
+                      - generic [ref=e1431]: Round of 16
+                      - generic [ref=e1432]:
+                        - generic [ref=e1433]: ·
+                        - generic [ref=e1434]:
+                          - generic [ref=e1435]: Miami Stadium
+                          - generic [ref=e1436]: (Miami)
+            - generic [ref=e1438]:
+              - generic [ref=e1440]:
+                - generic [ref=e1441]: Monday 30 June 2025
+                - button "View brackets" [ref=e1442] [cursor=pointer]
+              - link "FC Internazionale Milano 0 FT 2 Fluminense FC Round of 16 · Bank of America Stadium (Charlotte)" [ref=e1444] [cursor=pointer]:
+                - /url: /en/match-centre/match/10005/289175/289186/400019199
+                - generic [ref=e1445]:
+                  - generic [ref=e1446]:
+                    - generic [ref=e1448]: FC Internazionale Milano
+                    - generic [ref=e1450]:
+                      - generic [ref=e1451]: "0"
+                      - generic [ref=e1453]: FT
+                      - generic [ref=e1454]: "2"
+                    - generic [ref=e1457]: Fluminense FC
+                  - generic [ref=e1458]:
+                    - generic [ref=e1459]: Round of 16
+                    - generic [ref=e1460]:
+                      - generic [ref=e1461]: ·
+                      - generic [ref=e1462]:
+                        - generic [ref=e1463]: Bank of America Stadium
+                        - generic [ref=e1464]: (Charlotte)
+            - generic [ref=e1466]:
+              - generic [ref=e1468]:
+                - generic [ref=e1469]: Tuesday 01 July 2025
+                - button "View brackets" [ref=e1470] [cursor=pointer]
+              - generic [ref=e1471]:
+                - link "Manchester City 3 FT 4 Al Hilal Round of 16 · Camping World Stadium (Orlando)" [ref=e1472] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289186/400019202
+                  - generic [ref=e1473]:
+                    - generic [ref=e1474]:
+                      - generic [ref=e1476]: Manchester City
+                      - generic [ref=e1477]:
+                        - generic [ref=e1478]: "3"
+                        - generic [ref=e1480]: FT
+                        - generic [ref=e1481]: "4"
+                      - generic [ref=e1483]: Al Hilal
+                    - generic [ref=e1484]:
+                      - generic [ref=e1485]: Round of 16
+                      - generic [ref=e1486]:
+                        - generic [ref=e1487]: ·
+                        - generic [ref=e1488]:
+                          - generic [ref=e1489]: Camping World Stadium
+                          - generic [ref=e1490]: (Orlando)
+                - link "Real Madrid C.F. 1 FT 0 Juventus FC Round of 16 · Miami Stadium (Miami)" [ref=e1491] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289186/400019201
+                  - generic [ref=e1492]:
+                    - generic [ref=e1493]:
+                      - generic [ref=e1495]: Real Madrid C.F.
+                      - generic [ref=e1496]:
+                        - generic [ref=e1497]: "1"
+                        - generic [ref=e1499]: FT
+                        - generic [ref=e1500]: "0"
+                      - generic [ref=e1502]: Juventus FC
+                    - generic [ref=e1503]:
+                      - generic [ref=e1504]: Round of 16
+                      - generic [ref=e1505]:
+                        - generic [ref=e1506]: ·
+                        - generic [ref=e1507]:
+                          - generic [ref=e1508]: Miami Stadium
+                          - generic [ref=e1509]: (Miami)
+            - generic [ref=e1511]:
+              - generic [ref=e1513]:
+                - generic [ref=e1514]: Wednesday 02 July 2025
+                - button "View brackets" [ref=e1515] [cursor=pointer]
+              - link "Borussia Dortmund 2 FT 1 CF Monterrey Round of 16 · Atlanta Stadium (Atlanta)" [ref=e1517] [cursor=pointer]:
+                - /url: /en/match-centre/match/10005/289175/289186/400019197
+                - generic [ref=e1518]:
+                  - generic [ref=e1519]:
+                    - generic [ref=e1521]: Borussia Dortmund
+                    - generic [ref=e1523]:
+                      - generic [ref=e1524]: "2"
+                      - generic [ref=e1526]: FT
+                      - generic [ref=e1527]: "1"
+                    - generic [ref=e1530]: CF Monterrey
+                  - generic [ref=e1531]:
+                    - generic [ref=e1532]: Round of 16
+                    - generic [ref=e1533]:
+                      - generic [ref=e1534]: ·
+                      - generic [ref=e1535]:
+                        - generic [ref=e1536]: Atlanta Stadium
+                        - generic [ref=e1537]: (Atlanta)
+            - generic [ref=e1539]:
+              - generic [ref=e1541]:
+                - generic [ref=e1542]: Friday 04 July 2025
+                - button "View brackets" [ref=e1543] [cursor=pointer]
+              - link "Fluminense FC 2 FT 1 Al Hilal Quarter-final · Camping World Stadium (Orlando)" [ref=e1545] [cursor=pointer]:
+                - /url: /en/match-centre/match/10005/289175/289187/400019206
+                - generic [ref=e1546]:
+                  - generic [ref=e1547]:
+                    - generic [ref=e1549]: Fluminense FC
+                    - generic [ref=e1551]:
+                      - generic [ref=e1552]: "2"
+                      - generic [ref=e1554]: FT
+                      - generic [ref=e1555]: "1"
+                    - generic [ref=e1557]: Al Hilal
+                  - generic [ref=e1558]:
+                    - generic [ref=e1559]: Quarter-final
+                    - generic [ref=e1560]:
+                      - generic [ref=e1561]: ·
+                      - generic [ref=e1562]:
+                        - generic [ref=e1563]: Camping World Stadium
+                        - generic [ref=e1564]: (Orlando)
+            - generic [ref=e1566]:
+              - generic [ref=e1568]:
+                - generic [ref=e1569]: Saturday 05 July 2025
+                - button "View brackets" [ref=e1570] [cursor=pointer]
+              - generic [ref=e1571]:
+                - link "Palmeiras 1 FT 2 Chelsea FC Quarter-final · Philadelphia Stadium (Philadelphia)" [ref=e1572] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289187/400019207
+                  - generic [ref=e1573]:
+                    - generic [ref=e1574]:
+                      - generic [ref=e1576]: Palmeiras
+                      - generic [ref=e1578]:
+                        - generic [ref=e1579]: "1"
+                        - generic [ref=e1581]: FT
+                        - generic [ref=e1582]: "2"
+                      - generic [ref=e1585]: Chelsea FC
+                    - generic [ref=e1586]:
+                      - generic [ref=e1587]: Quarter-final
+                      - generic [ref=e1588]:
+                        - generic [ref=e1589]: ·
+                        - generic [ref=e1590]:
+                          - generic [ref=e1591]: Philadelphia Stadium
+                          - generic [ref=e1592]: (Philadelphia)
+                - link "Paris Saint-Germain 2 FT 0 FC Bayern München Quarter-final · Atlanta Stadium (Atlanta)" [ref=e1593] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289187/400019205
+                  - generic [ref=e1594]:
+                    - generic [ref=e1595]:
+                      - generic [ref=e1597]: Paris Saint-Germain
+                      - generic [ref=e1599]:
+                        - generic [ref=e1600]: "2"
+                        - generic [ref=e1602]: FT
+                        - generic [ref=e1603]: "0"
+                      - generic [ref=e1606]: FC Bayern München
+                    - generic [ref=e1607]:
+                      - generic [ref=e1608]: Quarter-final
+                      - generic [ref=e1609]:
+                        - generic [ref=e1610]: ·
+                        - generic [ref=e1611]:
+                          - generic [ref=e1612]: Atlanta Stadium
+                          - generic [ref=e1613]: (Atlanta)
+                - link "Real Madrid C.F. 3 FT 2 Borussia Dortmund Quarter-final · New York/New Jersey Stadium (New York)" [ref=e1614] [cursor=pointer]:
+                  - /url: /en/match-centre/match/10005/289175/289187/400019204
+                  - generic [ref=e1615]:
+                    - generic [ref=e1616]:
+                      - generic [ref=e1618]: Real Madrid C.F.
+                      - generic [ref=e1619]:
+                        - generic [ref=e1620]: "3"
+                        - generic [ref=e1622]: FT
+                        - generic [ref=e1623]: "2"
+                      - generic [ref=e1626]: Borussia Dortmund
+                    - generic [ref=e1627]:
+                      - generic [ref=e1628]: Quarter-final
+                      - generic [ref=e1629]:
+                        - generic [ref=e1630]: ·
+                        - generic [ref=e1631]:
+                          - generic [ref=e1632]: New York/New Jersey Stadium
+                          - generic [ref=e1633]: (New York)
+            - generic [ref=e1635]:
+              - generic [ref=e1637]:
+                - generic [ref=e1638]: Tuesday 08 July 2025
+                - button "View brackets" [ref=e1639] [cursor=pointer]
+              - link "Fluminense FC 0 FT 2 Chelsea FC Semi-final · New York/New Jersey Stadium (New York)" [ref=e1641] [cursor=pointer]:
+                - /url: /en/match-centre/match/10005/289175/289188/400019208
+                - generic [ref=e1642]:
+                  - generic [ref=e1643]:
+                    - generic [ref=e1645]: Fluminense FC
+                    - generic [ref=e1647]:
+                      - generic [ref=e1648]: "0"
+                      - generic [ref=e1650]: FT
+                      - generic [ref=e1651]: "2"
+                    - generic [ref=e1654]: Chelsea FC
+                  - generic [ref=e1655]:
+                    - generic [ref=e1656]: Semi-final
+                    - generic [ref=e1657]:
+                      - generic [ref=e1658]: ·
+                      - generic [ref=e1659]:
+                        - generic [ref=e1660]: New York/New Jersey Stadium
+                        - generic [ref=e1661]: (New York)
+            - generic [ref=e1663]:
+              - generic [ref=e1665]:
+                - generic [ref=e1666]: Wednesday 09 July 2025
+                - button "View brackets" [ref=e1667] [cursor=pointer]
+              - link "Paris Saint-Germain 4 FT 0 Real Madrid C.F. Semi-final · New York/New Jersey Stadium (New York)" [ref=e1669] [cursor=pointer]:
+                - /url: /en/match-centre/match/10005/289175/289188/400019209
+                - generic [ref=e1670]:
+                  - generic [ref=e1671]:
+                    - generic [ref=e1673]: Paris Saint-Germain
+                    - generic [ref=e1675]:
+                      - generic [ref=e1676]: "4"
+                      - generic [ref=e1678]: FT
+                      - generic [ref=e1679]: "0"
+                    - generic [ref=e1681]: Real Madrid C.F.
+                  - generic [ref=e1682]:
+                    - generic [ref=e1683]: Semi-final
+                    - generic [ref=e1684]:
+                      - generic [ref=e1685]: ·
+                      - generic [ref=e1686]:
+                        - generic [ref=e1687]: New York/New Jersey Stadium
+                        - generic [ref=e1688]: (New York)
+            - generic [ref=e1690]:
+              - generic [ref=e1692]:
+                - generic [ref=e1693]: Sunday 13 July 2025
+                - button "View brackets" [ref=e1694] [cursor=pointer]
+              - link "Chelsea FC 3 FT 0 Paris Saint-Germain Final · New York/New Jersey Stadium (New York)" [ref=e1696] [cursor=pointer]:
+                - /url: /en/match-centre/match/10005/289175/289190/400019210
+                - generic [ref=e1697]:
+                  - generic [ref=e1698]:
+                    - generic [ref=e1700]: Chelsea FC
+                    - generic [ref=e1702]:
+                      - generic [ref=e1703]: "3"
+                      - generic [ref=e1705]: FT
+                      - generic [ref=e1706]: "0"
+                    - generic [ref=e1709]: Paris Saint-Germain
+                  - generic [ref=e1710]:
+                    - generic [ref=e1711]: Final
+                    - generic [ref=e1712]:
+                      - generic [ref=e1713]: ·
+                      - generic [ref=e1714]:
+                        - generic [ref=e1715]: New York/New Jersey Stadium
+                        - generic [ref=e1716]: (New York)
+      - contentinfo [ref=e1717]:
+        - generic [ref=e1718]:
+          - generic [ref=e1720]:
+            - link "FIFA logo, links to home page" [ref=e1722] [cursor=pointer]:
+              - /url: /en
+              - img "FIFA logo, links to home page" [ref=e1723]
+            - generic [ref=e1725]:
+              - link "Twitter" [ref=e1726] [cursor=pointer]:
+                - /url: https://twitter.com/FIFAcom
+                - img "Twitter" [ref=e1727]
+              - link "Facebook" [ref=e1730] [cursor=pointer]:
+                - /url: https://www.facebook.com/fifa
+                - img "Facebook" [ref=e1731]
+              - link "Instagram" [ref=e1733] [cursor=pointer]:
+                - /url: https://www.instagram.com/fifaworldcup
+                - img "Instagram" [ref=e1734]
+              - link "Youtube" [ref=e1738] [cursor=pointer]:
+                - /url: https://www.youtube.com/FIFATV
+                - img "Youtube" [ref=e1739]
+              - link "TikTok" [ref=e1741] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@fifaworldcup
+                - img "TikTok" [ref=e1742]
+            - generic [ref=e1746]:
+              - link "GooglePlayStore":
+                - /url: https://play.google.com/store/apps/details?id=com.fifa.fifaapp.android&hl=en
+                - img "GooglePlayStore"
+              - link "AppleAppStore":
+                - /url: https://apps.apple.com/us/app/fifa-official-app/id756904853
+                - img "AppleAppStore"
+          - separator [ref=e1747]
+          - iframe [ref=e1749]:
+            - generic [ref=f9e3]:
+              - generic [ref=f9e4]:
+                - heading "FIFA Partners" [level=3] [ref=f9e5]
+                - generic [ref=f9e6]:
+                  - link "Airbnb logo, links to Partner page" [ref=f9e8] [cursor=pointer]:
+                    - /url: https://www.airbnb.com/
+                    - img "Airbnb logo, links to Partner page" [ref=f9e9]
+                  - link "Budweiser logo, links to partner page" [ref=f9e11] [cursor=pointer]:
+                    - /url: https://www.budweiser.com/en
+                    - img "Budweiser logo, links to partner page" [ref=f9e12]
+                  - link "Bank of America logo, links to partner page" [ref=f9e14] [cursor=pointer]:
+                    - /url: https://www.bankofamerica.com/
+                    - img "Bank of America logo, links to partner page" [ref=f9e15]
+                  - link "Coca-Cola logo, links to partner page" [ref=f9e17] [cursor=pointer]:
+                    - /url: https://www.coca-cola.com/
+                    - img "Coca-Cola logo, links to partner page" [ref=f9e18]
+                  - link "Hisense logo, links to partner page" [ref=f9e20] [cursor=pointer]:
+                    - /url: https://global.hisense.com/
+                    - img "Hisense logo, links to partner page" [ref=f9e21]
+                  - link "Betano Logo, links to Partner page" [ref=f9e23] [cursor=pointer]:
+                    - /url: https://www.betano.com/
+                    - img "Betano Logo, links to Partner page" [ref=f9e24]
+                  - link "Lenovo logo, links to partner page" [ref=f9e26] [cursor=pointer]:
+                    - /url: https://www.lenovo.com
+                    - img "Lenovo logo, links to partner page" [ref=f9e27]
+                  - link "PIF logo, links to Partner page" [ref=f9e29] [cursor=pointer]:
+                    - /url: https://www.pif.gov.sa/en/?utm_source=fifa-club-world-cup&utm_medium=referral&utm_campaign=pif-sponsorship
+                    - img "PIF logo, links to Partner page" [ref=f9e30]
+                  - link "Qatar Airways logo, links to partner page" [ref=f9e32] [cursor=pointer]:
+                    - /url: https://www.qatarairways.com
+                    - img "Qatar Airways logo, links to partner page" [ref=f9e33]
+                  - link "Visa logo, links to partner page" [ref=f9e35] [cursor=pointer]:
+                    - /url: https://www.visaeurope.com
+                    - img "Visa logo, links to partner page" [ref=f9e36]
+              - generic [ref=f9e37]:
+                - heading "Exclusive Global Broadcaster" [level=3] [ref=f9e38]
+                - link "DAZN logo, links to partner page" [ref=f9e41] [cursor=pointer]:
+                  - /url: https://www.dazn.com
+                  - img "DAZN logo, links to partner page" [ref=f9e42]
+          - separator [ref=e1750]
+          - generic [ref=e1752]:
+            - generic [ref=e1754]:
+              - link "Privacy Policy" [ref=e1756] [cursor=pointer]:
+                - /url: https://www.fifa.com/data-protection-portal/data-protection-policy
+              - link "Terms of Service" [ref=e1758] [cursor=pointer]:
+                - /url: https://www.fifa.com/terms-of-service
+              - link "Manage Cookie Preferences" [ref=e1760] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e1761]: Copyright © 1994 - 2026 FIFA. All rights reserved.
+  - dialog "We Care About Your Privacy" [ref=e112]:
+    - generic [ref=e114]:
+      - generic [ref=e116]:
+        - heading "We Care About Your Privacy" [level=2] [ref=e117]
+        - generic [ref=e118]:
+          - text: We and our 983 partners may store and access personal data, like browsing data or unique identifiers, on your device. Selecting "I Accept" enables tracking technologies to support the purposes shown under "we and our partners process data to provide," whereas selecting "Reject All" or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage Cookie Preferences link on the bottom of the webpage. Your choices will have effect within our Website. For more details, refer to our
+          - link "Privacy Policy, opens in a new tab" [ref=e119] [cursor=pointer]:
+            - /url: https://inside.fifa.com/data-protection-portal/data-protection-policy
+            - text: Privacy Policy
+        - generic [ref=e120]:
+          - heading "We and our partners process data to provide:" [level=3] [ref=e121]
+          - paragraph [ref=e123]:
+            - text: Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+            - button "List of Partners (vendors)" [ref=e124] [cursor=pointer]
+      - generic [ref=e126]:
+        - button "I Accept" [ref=e127] [cursor=pointer]
+        - button "Reject All" [ref=e128] [cursor=pointer]
+        - button "Show Purposes, Opens the preference center dialog" [ref=e129] [cursor=pointer]: Show Purposes

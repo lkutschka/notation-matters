@@ -1,0 +1,71 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken." [ref=e5]
+    - search [ref=e11]:
+      - button "Menü" [ref=e13] [cursor=pointer]:
+        - generic [ref=e14]: 
+      - generic [ref=e15]:
+        - combobox [ref=e17]
+        - button "Suchen" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: 
+        - button "Route" [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]: 
+    - generic [ref=e24]:
+      - main [ref=e30]:
+        - img [ref=e34]
+        - generic [ref=e37]:
+          - generic:
+            - heading [level=1]
+        - region "Aktionen für „“" [ref=e40]:
+          - button "Routenplaner" [active] [ref=e42] [cursor=pointer]:
+            - generic [ref=e44]: 
+            - generic [ref=e45]: Routenplaner
+          - button "Speichern" [ref=e47] [cursor=pointer]:
+            - generic [ref=e49]: 
+            - generic [ref=e50]: Speichern
+          - button "In der Nähe" [ref=e52] [cursor=pointer]:
+            - generic [ref=e54]: 
+            - generic [ref=e55]: In der Nähe
+          - button "An Smartphone senden" [ref=e57] [cursor=pointer]:
+            - generic [ref=e59]: 
+            - generic [ref=e60]: An Smartphone senden
+          - button "Teilen" [ref=e62] [cursor=pointer]:
+            - generic [ref=e64]: 
+            - generic [ref=e65]: Teilen
+        - link "Erläuterungen zu diesen Daten" [ref=e72] [cursor=pointer]:
+          - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=de
+          - generic [ref=e74]: Erläuterungen zu diesen Daten
+        - heading "Die Möglichkeiten von Google Maps voll ausschöpfen Anmelden" [level=2] [ref=e78]:
+          - generic [ref=e79]: Die Möglichkeiten von Google Maps voll ausschöpfen
+          - button "Anmelden" [ref=e82] [cursor=pointer]:
+            - generic [ref=e84]: Anmelden
+      - button "Seitenleiste ausblenden" [ref=e86] [cursor=pointer]:
+        - generic [ref=e87]: 
+    - generic [ref=e91]:
+      - button "Google-Apps" [ref=e95] [cursor=pointer]:
+        - img [ref=e96]
+      - link "Anmelden" [ref=e99] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FQutub%2BMinar%2F%4028.5443983%2C77.1690999%2C15z%2Fdata%3D!3m1!1e3!4m6!3m5!1s0x390ce2527d539b0f%3A0x4a701f4849e3b3d3!2sQutub%2BMinar!3m2!1i1016!2i701!4m2!3d28.5443983!4d77.1690999%3Fentry%3Dttu&service=local&ec=GAZAcQ
+    - generic [ref=e100]:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e103] [cursor=pointer]:
+          - generic [ref=e105]: 
+        - generic [ref=e107] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e108]
+          - button "Herauszoomen" [ref=e111]
+      - button "Street View-Bilder ansehen" [ref=e119]
+      - generic [ref=e125]:
+        - generic "Interaktive Karte" [ref=e126]
+        - generic [ref=e130] [cursor=pointer]:
+          - generic [ref=e131]: 
+          - generic [ref=e132]: Ebenen
+        - button "Ebenen" [ref=e133] [cursor=pointer]
+    - generic [ref=e135]:
+      - contentinfo [ref=e138]:
+        - text: Bilder © 2026 Airbus,CNES / Airbus,Maxar Technologies,Kartendaten © 2026
+        - button "Österreich" [ref=e139] [cursor=pointer]
+        - button "3D-Earth-Ansicht ist nicht verfügbar." [ref=e140] [cursor=pointer]
+        - button "Bedingungen" [ref=e141] [cursor=pointer]
+        - button "Datenschutz" [ref=e142] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e143] [cursor=pointer]
+      - button "200 m" [ref=e145] [cursor=pointer]: 200 m

@@ -1,0 +1,113 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e8]
+    - generic [ref=e11]:
+      - search [ref=e14]:
+        - button "Menü" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: 
+        - generic [ref=e18]:
+          - combobox [expanded] [active] [ref=e28]: Disneyland Paris
+          - button "Suchen" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 
+          - button "Route" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: 
+        - grid "Vorschläge" [ref=e29]:
+          - row "Disneyland Paris Boulevard de Parc, Coupvray, Frankreich" [ref=e32] [cursor=pointer]:
+            - gridcell "Disneyland Paris Boulevard de Parc, Coupvray, Frankreich" [ref=e33]:
+              - generic [ref=e35]: 
+              - generic [ref=e36]: Disneyland Paris
+              - generic [ref=e37]: Boulevard de Parc, Coupvray, Frankreich
+          - row "DISNEYLAND PARIS Biglietteria Pacchetti Viaggio Offertissime Solo On Line! Disneyland Paris Cagliari, Metropolitan City of Cagliari, Italien" [ref=e40] [cursor=pointer]:
+            - gridcell "DISNEYLAND PARIS Biglietteria Pacchetti Viaggio Offertissime Solo On Line! Disneyland Paris Cagliari, Metropolitan City of Cagliari, Italien" [ref=e41]:
+              - generic [ref=e43]: 
+              - generic [ref=e44]: DISNEYLAND PARIS Biglietteria Pacchetti Viaggio Offertissime Solo On Line! Disneyland Paris
+              - generic [ref=e45]: Cagliari, Metropolitan City of Cagliari, Italien
+          - row "disneyland paris tickets" [ref=e48] [cursor=pointer]:
+            - gridcell "disneyland paris tickets" [ref=e49]:
+              - generic [ref=e51]: 
+              - generic [ref=e52]: disneyland paris tickets
+          - row "Disneyland Paris Standorte ansehen" [ref=e55] [cursor=pointer]:
+            - gridcell "Disneyland Paris Standorte ansehen" [ref=e56]:
+              - generic [ref=e58]: 
+              - generic [ref=e59]: Disneyland Paris
+              - generic [ref=e60]: Standorte ansehen
+          - row "Disneyland Hôtel Rue de la Marnière, Chessy, Frankreich" [ref=e63] [cursor=pointer]:
+            - gridcell "Disneyland Hôtel Rue de la Marnière, Chessy, Frankreich" [ref=e64]:
+              - generic [ref=e66]: 
+              - generic [ref=e67]: Disneyland Hôtel
+              - generic [ref=e68]: Rue de la Marnière, Chessy, Frankreich
+        - region "Für dieses Gebiet verfügbare Suchoptionen" [ref=e75]:
+          - generic [ref=e77]:
+            - button "Restaurants" [ref=e79] [cursor=pointer]:
+              - generic [ref=e80]:
+                - generic [ref=e82]: 
+                - generic [ref=e83]: Restaurants
+            - button "Hotels" [ref=e85] [cursor=pointer]:
+              - generic [ref=e86]:
+                - generic [ref=e88]: 
+                - generic [ref=e89]: Hotels
+            - button "Mögliche Aktivitäten" [ref=e91] [cursor=pointer]:
+              - generic [ref=e92]:
+                - generic [ref=e94]: 
+                - generic [ref=e95]: Mögliche Aktivitäten
+            - button "Museen" [ref=e97] [cursor=pointer]:
+              - generic [ref=e98]:
+                - generic [ref=e100]: 
+                - generic [ref=e101]: Museen
+            - button "ÖPV/ÖPNV" [ref=e103] [cursor=pointer]:
+              - generic [ref=e104]:
+                - generic [ref=e106]: 
+                - generic [ref=e107]: ÖPV/ÖPNV
+            - button "Apotheken" [ref=e109] [cursor=pointer]:
+              - generic [ref=e110]:
+                - generic [ref=e112]: 
+                - generic [ref=e113]: Apotheken
+            - button "Geldautomaten" [ref=e115] [cursor=pointer]:
+              - generic [ref=e116]:
+                - generic [ref=e118]: 
+                - generic [ref=e119]: Geldautomaten
+          - button "Nächste Seite" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]: 
+      - region "Graz" [ref=e126]:
+        - generic [ref=e127]:
+          - heading "Graz" [level=1] [ref=e129]
+          - group "Wetter in Graz" [ref=e130]:
+            - generic [ref=e131]: 3°
+            - img "Überwiegend bewölkt" [ref=e132]
+        - region "Verkehrslage" [ref=e133]:
+          - button "Viel Verkehr im Umkreis Viel langsamer als normal" [ref=e134] [cursor=pointer]:
+            - img [ref=e136]
+            - generic [ref=e137]:
+              - generic [ref=e138]: Viel Verkehr im Umkreis
+              - generic [ref=e139]: Viel langsamer als normal
+            - generic [ref=e140]: 
+    - generic [ref=e144]:
+      - button "Google-Apps" [ref=e148] [cursor=pointer]:
+        - img [ref=e149]
+      - link "Anmelden" [ref=e152] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e155] [cursor=pointer]:
+          - generic [ref=e157]: 
+        - generic [ref=e159] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e160]
+          - button "Herauszoomen" [ref=e163]
+      - generic [ref=e170] [cursor=pointer]:
+        - button "Street View-Bilder ansehen" [ref=e171]
+        - button "Bilder anzeigen" [ref=e173]:
+          - generic [ref=e176]: 
+      - generic [ref=e177]:
+        - generic "Interaktive Karte" [ref=e178]
+        - generic [ref=e182] [cursor=pointer]:
+          - generic [ref=e183]: 
+          - generic [ref=e184]: Ebenen
+        - button "Ebenen" [ref=e185] [cursor=pointer]
+    - generic [ref=e187]:
+      - contentinfo [ref=e190]:
+        - text: Kartendaten © 2026 Google
+        - button "Österreich" [ref=e191] [cursor=pointer]
+        - button "Bedingungen" [ref=e192] [cursor=pointer]
+        - button "Datenschutz" [ref=e193] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e194] [cursor=pointer]
+      - button "500 m" [ref=e196] [cursor=pointer]: 500 m

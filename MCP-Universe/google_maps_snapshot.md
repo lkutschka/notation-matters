@@ -1,0 +1,57 @@
+- main [ref=e5]:
+  - generic [ref=e6]:
+    - 'button "Sprache: Deutsch" [ref=e11] [cursor=pointer]':
+      - img [ref=e15]
+      - generic [ref=e17]: DE
+    - generic [ref=e19] [cursor=pointer]:
+      - generic [ref=e20]: Anmelden
+      - link "Anmelden" [ref=e21]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&continue=https://www.google.com/maps&gae=cb-eomtm
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - img "Google" [ref=e26]
+      - generic [ref=e27]:
+        - heading "Bevor Sie zu Google weitergehen" [level=1] [ref=e28]
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - paragraph [ref=e31]:
+              - text: Wir verwenden
+              - link "Cookies (Wird auf neuem Tab geöffnet)" [ref=e32] [cursor=pointer]:
+                - /url: https://policies.google.com/technologies/cookies?hl=de&utm_source=ucb
+                - text: Cookies
+                - generic "(Wird auf neuem Tab geöffnet)" [ref=e33]:
+                  - img [ref=e34]
+              - text: und Daten, um
+            - list [ref=e36]:
+              - listitem [ref=e37]: Google-Dienste zu erbringen und zu betreiben
+              - listitem [ref=e38]: Ausfälle zu prüfen und Maßnahmen gegen Spam, Betrug und Missbrauch zu ergreifen
+              - listitem [ref=e39]: Zielgruppeninteraktionen zu messen und Websitestatistiken zu erhalten, damit wir verstehen, wie unsere Dienste verwendet werden, und die Qualität dieser Dienste verbessern können
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: Wenn Sie „Alle akzeptieren“ auswählen, verwenden wir Cookies und Daten auch, um
+            - list [ref=e42]:
+              - listitem [ref=e43]: neue Dienste zu entwickeln und zu verbessern
+              - listitem [ref=e44]: Werbung auszuliefern und ihre Wirkung zu messen
+              - listitem [ref=e45]: je nach Ihren Einstellungen personalisierte Inhalte anzuzeigen
+              - listitem [ref=e46]: personalisierte Werbung anzuzeigen, abhängig von Ihren Einstellungen
+          - paragraph [ref=e48]: Wenn Sie „Alle ablehnen“ auswählen, verwenden wir Cookies nicht für diese zusätzlichen Zwecke.
+          - paragraph [ref=e50]: Nicht personalisierte Inhalte werden u. a. von Inhalten, die Sie sich gerade ansehen, Aktivitäten in Ihrer aktiven Suchsitzung und Ihrem Standort beeinflusst. Nicht personalisierte Werbung wird von den Inhalten, die Sie sich gerade ansehen, und Ihrem ungefähren Standort beeinflusst. Personalisierte Inhalte und Werbung können auch relevantere Ergebnisse, Empfehlungen und individuelle Werbung enthalten, die auf früheren Aktivitäten in diesem Browser, etwa Suchanfragen bei Google, beruhen. Sofern relevant, verwenden wir Cookies und Daten außerdem, um Inhalte und Werbung altersgerecht zu gestalten.
+          - paragraph [ref=e52]: Wählen Sie „Weitere Optionen“ aus, um sich zusätzliche Informationen anzusehen, einschließlich Details zum Verwalten Ihrer Datenschutzeinstellungen. Sie können auch jederzeit g.co/privacytools besuchen.
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - button "Alle ablehnen" [ref=e59] [cursor=pointer]:
+            - generic [ref=e61]: Alle ablehnen
+          - button "Alle akzeptieren" [ref=e65] [cursor=pointer]:
+            - generic [ref=e67]: Alle akzeptieren
+        - generic [ref=e69] [cursor=pointer]:
+          - generic [ref=e70]: Weitere Optionen
+          - link "Weitere Optionen für Personalisierungseinstellungen und Cookies" [ref=e71]:
+            - /url: https://consent.google.com/d?continue=https://www.google.com/maps&gl=AT&hl=de&cm=2&pc=m&uxe=eomtm&src=1&escs=AZ8E49DHB8-YeqOfzFo5gM4Mpu5Ojm9vI0Wn7L6tPdhm50EonyZ5-eK4q1RNk6OqMxg1_o-k1-SwE3d7RWmKyHwzC-hJ_9cgMNYl
+    - generic [ref=e74]:
+      - generic [ref=e76] [cursor=pointer]:
+        - generic [ref=e77]: Datenschutzerklärung
+        - link "Datenschutzerklärung" [ref=e78]:
+          - /url: https://policies.google.com/privacy?hl=de&utm_source=ucb
+      - generic [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]: Nutzungsbedingungen
+        - link "Nutzungsbedingungen" [ref=e82]:
+          - /url: https://policies.google.com/terms?hl=de&utm_source=ucb

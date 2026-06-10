@@ -1,0 +1,1 @@
+Updated README with new project details.

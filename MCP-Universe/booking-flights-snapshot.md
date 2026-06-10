@@ -1,0 +1,1781 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - link [ref=e5] [cursor=pointer]:
+      - /url: "#main"
+      - generic [ref=e6]: Skip to main content
+    - generic [ref=e8]:
+      - banner [ref=e20]:
+        - generic [ref=e21]:
+          - navigation [ref=e22]:
+            - link [ref=e26] [cursor=pointer]:
+              - /url: https://www.booking.com/index.html
+              - img [ref=e27]
+            - generic [ref=e29]:
+              - link [ref=e31] [cursor=pointer]:
+                - /url: https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&prompt=signin&state=UrMB06niWLdp5hOhV4xgBTerYcAuf77ggaCicxvQzenoMT9BRqIFolFVLNPF3vd3VLVFAxyKsE9AMwL0TAYgKCkGLUq7phKxHsBesQgVNPAfCeIxR_vPyYh_s_Po7Ek1pIswkrptwlUaeumF7sSL65i6gsda-IN_Q1UhoE-6ZVn6xBP7Y7pIF0EELbXVhtUM5NSmRuhr1OtgLyaFkKGlL79NiWTYrjb434N2NWAsi8HgbDTeLm4%3D*eyJpZCI6InRyYXZlbGxlcl9oZWFkZXIifQ%3D%3D
+                - generic [ref=e33]:
+                  - img [ref=e35]
+                  - status [ref=e37]
+              - button [ref=e39] [cursor=pointer]:
+                - img [ref=e42]
+          - navigation [ref=e44]:
+            - menubar [ref=e46]:
+              - menuitem [ref=e47] [cursor=pointer]:
+                - generic [ref=e48]:
+                  - img [ref=e50]
+                  - generic [ref=e52]: Stays
+              - menuitem [ref=e53] [cursor=pointer]:
+                - generic [ref=e54]:
+                  - img [ref=e56]
+                  - generic [ref=e58]: Flights
+              - menuitem [ref=e59] [cursor=pointer]:
+                - generic [ref=e60]:
+                  - img [ref=e62]
+                  - generic [ref=e64]: Flight + Hotel
+              - menuitem [ref=e65] [cursor=pointer]:
+                - generic [ref=e66]:
+                  - img [ref=e68]
+                  - generic [ref=e70]: Car rental
+              - button [ref=e72]:
+                - text: More
+                - img [ref=e74]
+      - main [ref=e76]:
+        - generic [ref=e84]:
+          - generic [ref=e90]:
+            - heading [level=1] [ref=e92]:
+              - generic [ref=e93]: Find deals for any season
+            - paragraph [ref=e94]: From cozy bed & breakfasts to luxury hotels
+          - region [ref=e98]:
+            - generic [ref=e99]:
+              - generic [ref=e105]:
+                - img [ref=e108]
+                - combobox [ref=e110]
+              - button [ref=e114] [cursor=pointer]:
+                - generic [ref=e115]:
+                  - img [ref=e117]
+                  - generic [ref=e119]: Check-in date
+                  - generic [ref=e120]: —
+                  - generic [ref=e121]: Check-out date
+              - button [ref=e124] [cursor=pointer]:
+                - generic [ref=e125]:
+                  - img [ref=e127]
+                  - text: 2 adults · 0 children · 1 room
+                - img [ref=e130]
+              - button [ref=e133] [cursor=pointer]:
+                - generic [ref=e134]: Search
+            - group [ref=e135]:
+              - generic [ref=e136]:
+                - checkbox [ref=e137]
+                - generic [ref=e138] [cursor=pointer]:
+                  - img [ref=e141]
+                  - generic [ref=e144]: Add flights to my search
+        - generic [ref=e149]:
+          - generic [ref=e155]:
+            - region [ref=e156]:
+              - generic [ref=e157]:
+                - img [ref=e162]
+                - generic [ref=e164]:
+                  - heading [level=3] [ref=e166]: Book now, pay at the property
+                  - paragraph [ref=e167]: FREE cancellation on most rooms
+            - region [ref=e168]:
+              - generic [ref=e169]:
+                - img [ref=e174]
+                - generic [ref=e176]:
+                  - heading [level=3] [ref=e178]: 300M+ reviews from fellow travelers
+                  - paragraph [ref=e179]: Get trusted information from guests like you
+            - region [ref=e180]:
+              - generic [ref=e181]:
+                - img [ref=e186]
+                - generic [ref=e188]:
+                  - heading [level=3] [ref=e190]: 2+ million properties worldwide
+                  - paragraph [ref=e191]: Hotels, guest houses, apartments, and more…
+            - region [ref=e192]:
+              - generic [ref=e193]:
+                - img [ref=e198]
+                - generic [ref=e200]:
+                  - heading [level=3] [ref=e202]: Trusted 24/7 customer service you can rely on
+                  - paragraph [ref=e203]: We're always here to help
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - heading [level=2] [ref=e211]: Offers
+              - generic [ref=e212]: Promotions, deals, and special offers for you
+            - generic [ref=e217]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: Genius Rewards Visa®
+                - heading [level=3] [ref=e221]: Earn $250 in Travel Credits
+                - generic [ref=e222]: After making qualifying purchases on your card. For the first 10,000 new cardholders only. Terms apply.
+                - link [ref=e225] [cursor=pointer]:
+                  - /url: https://www.booking.com/co_brand_card.en-us.html
+                  - generic [ref=e226]: Learn more
+              - img [ref=e230]
+          - generic [ref=e237]:
+            - generic [ref=e240]:
+              - generic [ref=e242]:
+                - heading [level=2] [ref=e243]: Trending destinations
+                - generic [ref=e244]: Most popular choices for travelers from the United States
+              - link [ref=e245] [cursor=pointer]:
+                - /url: https://www.booking.com/searchresults.html?dest_id=20079110&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                - generic [ref=e248]: Las Vegas
+              - link [ref=e250] [cursor=pointer]:
+                - /url: https://www.booking.com/searchresults.html?dest_id=20023488&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                - generic [ref=e253]: Orlando
+              - generic [ref=e255]:
+                - link [ref=e256] [cursor=pointer]:
+                  - /url: https://www.booking.com/searchresults.html?dest_id=20088325&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                  - generic [ref=e259]: New York
+                - link [ref=e261] [cursor=pointer]:
+                  - /url: https://www.booking.com/searchresults.html?dest_id=-246227&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                  - generic [ref=e264]: Tokyo
+                - link [ref=e266] [cursor=pointer]:
+                  - /url: https://www.booking.com/searchresults.html?dest_id=20024809&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                  - generic [ref=e269]: Atlanta
+            - generic [ref=e275]:
+              - heading [level=2] [ref=e280]: Browse by property type
+              - generic [ref=e281]:
+                - region [ref=e282]:
+                  - group [ref=e283]:
+                    - link [ref=e284] [cursor=pointer]:
+                      - /url: https://www.booking.com/hotel/index.en-us.html
+                      - heading [level=3] [ref=e291]: Hotels
+                  - group [ref=e292]:
+                    - link [ref=e293] [cursor=pointer]:
+                      - /url: https://www.booking.com/apartments/index.en-us.html
+                      - heading [level=3] [ref=e300]: Apartments
+                  - group [ref=e301]:
+                    - link [ref=e302] [cursor=pointer]:
+                      - /url: https://www.booking.com/resorts/index.en-us.html
+                      - heading [level=3] [ref=e309]: Resorts
+                  - group [ref=e310]:
+                    - link [ref=e311] [cursor=pointer]:
+                      - /url: https://www.booking.com/villas/index.en-us.html
+                      - heading [level=3] [ref=e318]: Villas
+                  - group [ref=e319]:
+                    - link [ref=e320] [cursor=pointer]:
+                      - /url: https://www.booking.com/chalet/index.en-us.html
+                      - heading [level=3] [ref=e327]: Cabins
+                  - group [ref=e328]:
+                    - link [ref=e329] [cursor=pointer]:
+                      - /url: https://www.booking.com/cottages/index.en-us.html
+                      - heading [level=3] [ref=e336]: Cottages
+                  - group [ref=e337]:
+                    - link [ref=e338] [cursor=pointer]:
+                      - /url: https://www.booking.com/glamping/index.en-us.html
+                      - heading [level=3] [ref=e345]: Glamping Sites
+                  - group [ref=e346]:
+                    - link [ref=e347] [cursor=pointer]:
+                      - /url: https://www.booking.com/aparthotels/index.en-us.html
+                      - heading [level=3] [ref=e354]: Serviced apartments
+                  - group [ref=e355]:
+                    - link [ref=e356] [cursor=pointer]:
+                      - /url: https://www.booking.com/holiday-homes/index.en-us.html
+                      - heading [level=3] [ref=e363]: Vacation Homes
+                  - group [ref=e364]:
+                    - link [ref=e365] [cursor=pointer]:
+                      - /url: https://www.booking.com/guest-house/index.en-us.html
+                      - heading [level=3] [ref=e372]: Guest Houses
+                  - group [ref=e373]:
+                    - link [ref=e374] [cursor=pointer]:
+                      - /url: https://www.booking.com/hostels/index.en-us.html
+                      - heading [level=3] [ref=e381]: Hostels
+                  - group [ref=e382]:
+                    - link [ref=e383] [cursor=pointer]:
+                      - /url: https://www.booking.com/motels/index.en-us.html
+                      - heading [level=3] [ref=e390]: Motels
+                  - group [ref=e391]:
+                    - link [ref=e392] [cursor=pointer]:
+                      - /url: https://www.booking.com/bed-and-breakfast/index.en-us.html
+                      - heading [level=3] [ref=e399]: B&Bs
+                  - group [ref=e400]:
+                    - link [ref=e401] [cursor=pointer]:
+                      - /url: https://www.booking.com/ryokans/index.en-us.html
+                      - heading [level=3] [ref=e408]: Ryokans
+                  - group [ref=e409]:
+                    - link [ref=e410] [cursor=pointer]:
+                      - /url: https://www.booking.com/riad/index.en-us.html
+                      - heading [level=3] [ref=e417]: Riads
+                  - group [ref=e418]:
+                    - link [ref=e419] [cursor=pointer]:
+                      - /url: https://www.booking.com/holiday-parks/index.en-us.html
+                      - heading [level=3] [ref=e426]: Resort Villages
+                  - group [ref=e427]:
+                    - link [ref=e428] [cursor=pointer]:
+                      - /url: https://www.booking.com/homestay/index.en-us.html
+                      - heading [level=3] [ref=e435]: Homestays
+                  - group [ref=e436]:
+                    - link [ref=e437] [cursor=pointer]:
+                      - /url: https://www.booking.com/campings/index.en-us.html
+                      - heading [level=3] [ref=e444]: Campgrounds
+                  - group [ref=e445]:
+                    - link [ref=e446] [cursor=pointer]:
+                      - /url: https://www.booking.com/country-houses/index.en-us.html
+                      - heading [level=3] [ref=e453]: Country Houses
+                  - group [ref=e454]:
+                    - link [ref=e455] [cursor=pointer]:
+                      - /url: https://www.booking.com/farm-holidays/index.en-us.html
+                      - heading [level=3] [ref=e462]: Farm stays
+                  - group [ref=e463]:
+                    - link [ref=e464] [cursor=pointer]:
+                      - /url: https://www.booking.com/boats/index.en-us.html
+                      - heading [level=3] [ref=e471]: Boats
+                  - group [ref=e472]:
+                    - link [ref=e473] [cursor=pointer]:
+                      - /url: https://www.booking.com/camp/index.en-us.html
+                      - heading [level=3] [ref=e480]: Luxury Tents
+                  - group [ref=e481]:
+                    - link [ref=e482] [cursor=pointer]:
+                      - /url: https://www.booking.com/self-catering/index.en-us.html
+                      - heading [level=3] [ref=e489]: Self-Catering Accommodations
+                  - group [ref=e490]:
+                    - link [ref=e491] [cursor=pointer]:
+                      - /url: https://www.booking.com/tiny-house/index.en-us.html
+                      - heading [level=3] [ref=e498]: Tiny Houses
+                - button [ref=e499] [cursor=pointer]:
+                  - img [ref=e502]
+            - generic [ref=e507]:
+              - generic [ref=e511]:
+                - heading [level=2] [ref=e512]: Deals for the weekend
+                - generic [ref=e513]: Save on stays for March 6 - March 8
+              - generic [ref=e514]:
+                - region [ref=e515]:
+                  - group [ref=e516]:
+                    - generic [ref=e517]:
+                      - link [ref=e518] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=9300589&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e525]:
+                          - generic [ref=e526]:
+                            - img [ref=e528]:
+                              - img [ref=e529]
+                            - generic [ref=e534]:
+                              - heading [level=3] [ref=e535]: Domus Optima - Cozy Retreat in Vienna
+                              - generic [ref=e537]: Vienna, Austria
+                            - generic [ref=e539]:
+                              - generic [ref=e540]: "8"
+                              - generic [ref=e541]: "8"
+                              - generic [ref=e542]: Very Good
+                              - generic [ref=e543]:
+                                - generic [ref=e544]: Very Good
+                                - generic [ref=e545]: 259 reviews
+                            - generic [ref=e548]: Early 2026 Deal
+                          - generic [ref=e551]:
+                            - generic [ref=e552]: 2 nights
+                            - generic [ref=e553]:
+                              - generic [ref=e554]: $191
+                              - generic [ref=e555]: $143
+                            - generic [ref=e556]: Original price $191. Current price $143.
+                      - button [ref=e562] [cursor=pointer]:
+                        - img [ref=e565]
+                  - group [ref=e567]:
+                    - generic [ref=e568]:
+                      - link [ref=e569] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=8321949&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e576]:
+                          - generic [ref=e577]:
+                            - generic [ref=e578]:
+                              - heading [level=3] [ref=e579]: WunderLocke Munich
+                              - generic [ref=e581]: Munich, Germany
+                            - generic [ref=e583]:
+                              - generic [ref=e584]: "8.5"
+                              - generic [ref=e585]: "8.5"
+                              - generic [ref=e586]: Very Good
+                              - generic [ref=e587]:
+                                - generic [ref=e588]: Very Good
+                                - generic [ref=e589]: 8,838 reviews
+                            - generic [ref=e592]: Early 2026 Deal
+                          - generic [ref=e595]:
+                            - generic [ref=e596]: 2 nights
+                            - generic [ref=e597]:
+                              - generic [ref=e598]: $256
+                              - generic [ref=e599]: $217
+                            - generic [ref=e600]: Original price $256. Current price $217.
+                      - button [ref=e606] [cursor=pointer]:
+                        - img [ref=e609]
+                  - group [ref=e611]:
+                    - generic [ref=e612]:
+                      - link [ref=e613] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=13294882&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e620]:
+                          - generic [ref=e621]:
+                            - img [ref=e623]:
+                              - img [ref=e624]
+                            - generic [ref=e629]:
+                              - heading [level=3] [ref=e630]: Turmresidenz Färbergasse Graz
+                              - generic [ref=e632]: Graz, Austria
+                            - generic [ref=e634]:
+                              - generic [ref=e635]: "7.1"
+                              - generic [ref=e636]: "7.1"
+                              - generic [ref=e637]: Good
+                              - generic [ref=e638]:
+                                - generic [ref=e639]: Good
+                                - generic [ref=e640]: 6 reviews
+                          - generic [ref=e643]:
+                            - generic [ref=e644]: 2 nights
+                            - generic [ref=e645]:
+                              - generic [ref=e646]: $434
+                              - generic [ref=e647]: $308
+                            - generic [ref=e648]: Original price $434. Current price $308.
+                      - button [ref=e654] [cursor=pointer]:
+                        - img [ref=e657]
+                  - group [ref=e659]:
+                    - generic [ref=e660]:
+                      - link [ref=e661] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=11133941&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e668]:
+                          - generic [ref=e669]:
+                            - img [ref=e671]:
+                              - img [ref=e672]
+                            - generic [ref=e677]:
+                              - heading [level=3] [ref=e678]: Panorama Apartments Vienna
+                              - generic [ref=e680]: Vienna, Austria
+                            - generic [ref=e682]:
+                              - generic [ref=e683]: "9.3"
+                              - generic [ref=e684]: "9.3"
+                              - generic [ref=e685]: Wonderful
+                              - generic [ref=e686]:
+                                - generic [ref=e687]: Wonderful
+                                - generic [ref=e688]: 172 reviews
+                          - generic [ref=e691]:
+                            - generic [ref=e692]: 2 nights
+                            - generic [ref=e693]:
+                              - generic [ref=e694]: $271
+                              - generic [ref=e695]: $163
+                            - generic [ref=e696]: Original price $271. Current price $163.
+                      - button [ref=e702] [cursor=pointer]:
+                        - img [ref=e705]
+                  - group [ref=e707]:
+                    - generic [ref=e708]:
+                      - link [ref=e709] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=4199523&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e716]:
+                          - generic [ref=e717]:
+                            - img [ref=e719]:
+                              - img [ref=e720]
+                            - generic [ref=e725]:
+                              - heading [level=3] [ref=e726]: Ramada Encore by Wyndham Munich Messe
+                              - generic [ref=e728]: Munich, Germany
+                            - generic [ref=e730]:
+                              - generic [ref=e731]: "8.3"
+                              - generic [ref=e732]: "8.3"
+                              - generic [ref=e733]: Very Good
+                              - generic [ref=e734]:
+                                - generic [ref=e735]: Very Good
+                                - generic [ref=e736]: 7,645 reviews
+                            - generic [ref=e739]: Early 2026 Deal
+                          - generic [ref=e742]:
+                            - generic [ref=e743]: 2 nights
+                            - generic [ref=e744]:
+                              - generic [ref=e745]: $200
+                              - generic [ref=e746]: $170
+                            - generic [ref=e747]: Original price $200. Current price $170.
+                      - button [ref=e753] [cursor=pointer]:
+                        - img [ref=e756]
+                  - group [ref=e758]:
+                    - generic [ref=e759]:
+                      - link [ref=e760] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=4094131&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e767]:
+                          - generic [ref=e768]:
+                            - img [ref=e770]:
+                              - img [ref=e771]
+                            - generic [ref=e776]:
+                              - heading [level=3] [ref=e777]: B&B Hotel Graz City-Süd
+                              - generic [ref=e779]: Graz, Austria
+                            - generic [ref=e781]:
+                              - generic [ref=e782]: "8.3"
+                              - generic [ref=e783]: "8.3"
+                              - generic [ref=e784]: Very Good
+                              - generic [ref=e785]:
+                                - generic [ref=e786]: Very Good
+                                - generic [ref=e787]: 4,977 reviews
+                            - generic [ref=e790]: Early 2026 Deal
+                          - generic [ref=e793]:
+                            - generic [ref=e794]: 2 nights
+                            - generic [ref=e795]:
+                              - generic [ref=e796]: $208
+                              - generic [ref=e797]: $177
+                            - generic [ref=e798]: Original price $208. Current price $177.
+                      - button [ref=e804] [cursor=pointer]:
+                        - img [ref=e807]
+                  - group [ref=e809]:
+                    - generic [ref=e810]:
+                      - link [ref=e811] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=6727892&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e818]:
+                          - generic [ref=e819]:
+                            - img [ref=e821]:
+                              - img [ref=e822]
+                            - generic [ref=e827]:
+                              - heading [level=3] [ref=e828]: URBAN ISLAND I Riverside Apartments
+                              - generic [ref=e830]: Vienna, Austria
+                            - generic [ref=e832]:
+                              - generic [ref=e833]: "8.8"
+                              - generic [ref=e834]: "8.8"
+                              - generic [ref=e835]: Excellent
+                              - generic [ref=e836]:
+                                - generic [ref=e837]: Excellent
+                                - generic [ref=e838]: 2,322 reviews
+                          - generic [ref=e841]:
+                            - generic [ref=e842]: 2 nights
+                            - generic [ref=e843]:
+                              - generic [ref=e844]: $268
+                              - generic [ref=e845]: $197
+                            - generic [ref=e846]: Original price $268. Current price $197.
+                      - button [ref=e852] [cursor=pointer]:
+                        - img [ref=e855]
+                  - group [ref=e857]:
+                    - generic [ref=e858]:
+                      - link [ref=e859] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=68900&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e866]:
+                          - generic [ref=e867]:
+                            - img [ref=e869]:
+                              - img [ref=e870]
+                            - generic [ref=e875]:
+                              - heading [level=3] [ref=e876]: Hotel Am Moosfeld
+                              - generic [ref=e878]: Munich, Germany
+                            - generic [ref=e880]:
+                              - generic [ref=e881]: "8.5"
+                              - generic [ref=e882]: "8.5"
+                              - generic [ref=e883]: Very Good
+                              - generic [ref=e884]:
+                                - generic [ref=e885]: Very Good
+                                - generic [ref=e886]: 14,748 reviews
+                            - generic [ref=e889]: Limited-time Deal
+                          - generic [ref=e892]:
+                            - generic [ref=e893]: 2 nights
+                            - generic [ref=e894]:
+                              - generic [ref=e895]: $247
+                              - generic [ref=e896]: $148
+                            - generic [ref=e897]: Original price $247. Current price $148.
+                      - button [ref=e903] [cursor=pointer]:
+                        - img [ref=e906]
+                  - group [ref=e908]:
+                    - generic [ref=e909]:
+                      - link [ref=e910] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=1080749&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e917]:
+                          - generic [ref=e918]:
+                            - img [ref=e920]:
+                              - img [ref=e921]
+                            - generic [ref=e926]:
+                              - heading [level=3] [ref=e927]: I AM HOTELS Graz-Seiersberg
+                              - generic [ref=e929]: Graz, Austria
+                            - generic [ref=e931]:
+                              - generic [ref=e932]: "8.1"
+                              - generic [ref=e933]: "8.1"
+                              - generic [ref=e934]: Very Good
+                              - generic [ref=e935]:
+                                - generic [ref=e936]: Very Good
+                                - generic [ref=e937]: 1,544 reviews
+                            - generic [ref=e940]: Early 2026 Deal
+                          - generic [ref=e943]:
+                            - generic [ref=e944]: 2 nights
+                            - generic [ref=e945]:
+                              - generic [ref=e946]: $275
+                              - generic [ref=e947]: $220
+                            - generic [ref=e948]: Original price $275. Current price $220.
+                      - button [ref=e954] [cursor=pointer]:
+                        - img [ref=e957]
+                  - group [ref=e959]:
+                    - generic [ref=e960]:
+                      - link [ref=e961] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=8195891&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e968]:
+                          - generic [ref=e969]:
+                            - img [ref=e971]:
+                              - img [ref=e972]
+                            - generic [ref=e977]:
+                              - heading [level=3] [ref=e978]: Nadland Apartments B61
+                              - generic [ref=e980]: Vienna, Austria
+                            - generic [ref=e982]:
+                              - generic [ref=e983]: "8.8"
+                              - generic [ref=e984]: "8.8"
+                              - generic [ref=e985]: Excellent
+                              - generic [ref=e986]:
+                                - generic [ref=e987]: Excellent
+                                - generic [ref=e988]: 2,705 reviews
+                            - generic [ref=e991]: Early 2026 Deal
+                          - generic [ref=e994]:
+                            - generic [ref=e995]: 2 nights
+                            - generic [ref=e996]:
+                              - generic [ref=e997]: $283
+                              - generic [ref=e998]: $201
+                            - generic [ref=e999]: Original price $283. Current price $201.
+                      - button [ref=e1005] [cursor=pointer]:
+                        - img [ref=e1008]
+                  - group [ref=e1010]:
+                    - generic [ref=e1011]:
+                      - link [ref=e1012] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=61471&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e1019]:
+                          - generic [ref=e1020]:
+                            - img [ref=e1022]:
+                              - img [ref=e1023]
+                            - generic [ref=e1028]:
+                              - heading [level=3] [ref=e1029]: KING's Hotel First
+                              - generic [ref=e1031]: Munich, Germany
+                            - generic [ref=e1033]:
+                              - generic [ref=e1034]: "8.6"
+                              - generic [ref=e1035]: "8.6"
+                              - generic [ref=e1036]: Excellent
+                              - generic [ref=e1037]:
+                                - generic [ref=e1038]: Excellent
+                                - generic [ref=e1039]: 3,796 reviews
+                            - generic [ref=e1042]: Early 2026 Deal
+                          - generic [ref=e1045]:
+                            - generic [ref=e1046]: 2 nights
+                            - generic [ref=e1047]:
+                              - generic [ref=e1048]: $464
+                              - generic [ref=e1049]: $325
+                            - generic [ref=e1050]: Original price $464. Current price $325.
+                      - button [ref=e1056] [cursor=pointer]:
+                        - img [ref=e1059]
+                  - group [ref=e1061]:
+                    - generic [ref=e1062]:
+                      - link [ref=e1063] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-08&dest_id=8228117&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0
+                        - generic [ref=e1070]:
+                          - generic [ref=e1071]:
+                            - img [ref=e1073]:
+                              - img [ref=e1074]
+                            - generic [ref=e1079]:
+                              - heading [level=3] [ref=e1080]: Arbio I Urbanstay Serviced Studios & Apartments
+                              - generic [ref=e1082]: Graz, Austria
+                            - generic [ref=e1084]:
+                              - generic [ref=e1085]: "7.3"
+                              - generic [ref=e1086]: "7.3"
+                              - generic [ref=e1087]: Good
+                              - generic [ref=e1088]:
+                                - generic [ref=e1089]: Good
+                                - generic [ref=e1090]: 1,992 reviews
+                            - generic [ref=e1093]: Limited-time Deal
+                          - generic [ref=e1096]:
+                            - generic [ref=e1097]: 2 nights
+                            - generic [ref=e1098]:
+                              - generic [ref=e1099]: $181
+                              - generic [ref=e1100]: $110
+                            - generic [ref=e1101]: Original price $181. Current price $110.
+                      - button [ref=e1107] [cursor=pointer]:
+                        - img [ref=e1110]
+                - button [ref=e1112] [cursor=pointer]:
+                  - img [ref=e1115]
+            - generic [ref=e1121]:
+              - generic [ref=e1125]:
+                - heading [level=2] [ref=e1126]: Explore United States
+                - generic [ref=e1127]: These popular destinations have a lot to offer
+              - generic [ref=e1128]:
+                - region [ref=e1129]:
+                  - group [ref=e1130]:
+                    - link [ref=e1131] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20079110&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1137]:
+                        - heading [level=3] [ref=e1138]: Las Vegas
+                        - generic [ref=e1139]: 1,850 properties
+                  - group [ref=e1140]:
+                    - link [ref=e1141] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20023488&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1147]:
+                        - heading [level=3] [ref=e1148]: Orlando
+                        - generic [ref=e1149]: 5,163 properties
+                  - group [ref=e1150]:
+                    - link [ref=e1151] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20088325&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1157]:
+                        - heading [level=3] [ref=e1158]: New York
+                        - generic [ref=e1159]: 3,059 properties
+                  - group [ref=e1160]:
+                    - link [ref=e1161] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20024809&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1167]:
+                        - heading [level=3] [ref=e1168]: Atlanta
+                        - generic [ref=e1169]: 2,060 properties
+                  - group [ref=e1170]:
+                    - link [ref=e1171] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20014181&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1177]:
+                        - heading [level=3] [ref=e1178]: Los Angeles
+                        - generic [ref=e1179]: 4,343 properties
+                  - group [ref=e1180]:
+                    - link [ref=e1181] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20033173&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1187]:
+                        - heading [level=3] [ref=e1188]: Chicago
+                        - generic [ref=e1189]: 1,713 properties
+                  - group [ref=e1190]:
+                    - link [ref=e1191] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20128761&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1197]:
+                        - heading [level=3] [ref=e1198]: Houston
+                        - generic [ref=e1199]: 2,609 properties
+                  - group [ref=e1200]:
+                    - link [ref=e1201] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20131185&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1207]:
+                        - heading [level=3] [ref=e1208]: San Antonio
+                        - generic [ref=e1209]: 1,582 properties
+                  - group [ref=e1210]:
+                    - link [ref=e1211] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20023181&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1217]:
+                        - heading [level=3] [ref=e1218]: Miami
+                        - generic [ref=e1219]: 3,996 properties
+                  - group [ref=e1220]:
+                    - link [ref=e1221] [cursor=pointer]:
+                      - /url: https://www.booking.com/searchresults.html?checkin=2026-03-06&checkout=2026-03-07&dest_id=20015725&dest_type=city&group_adults=null&req_adults=null&no_rooms=null&group_children=null&req_children=null
+                      - generic [ref=e1227]:
+                        - heading [level=3] [ref=e1228]: San Diego
+                        - generic [ref=e1229]: 2,473 properties
+                - button [ref=e1230] [cursor=pointer]:
+                  - img [ref=e1233]
+            - generic [ref=e1239]:
+              - generic [ref=e1243]:
+                - heading [level=2] [ref=e1244]: Stay at our top unique properties
+                - generic [ref=e1245]: From castles and villas to boats and igloos, we have it all
+              - generic [ref=e1246]:
+                - region [ref=e1247]:
+                  - group [ref=e1248]:
+                    - generic [ref=e1249]:
+                      - link [ref=e1250] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/pl/domki-wierszyki.html?ucfs=1&arphpl=1
+                        - generic [ref=e1258]:
+                          - generic [ref=e1259]:
+                            - heading [level=3] [ref=e1260]: Domki Wierszyki Shelters
+                            - generic [ref=e1262]: Poland, Zakopane
+                          - generic [ref=e1264]:
+                            - generic [ref=e1265]: "9.7"
+                            - generic [ref=e1266]: "9.7"
+                            - generic [ref=e1267]: Exceptional
+                            - generic [ref=e1268]:
+                              - generic [ref=e1269]: Exceptional
+                              - generic [ref=e1270]: 100 reviews
+                      - button [ref=e1276] [cursor=pointer]:
+                        - img [ref=e1279]
+                  - group [ref=e1281]:
+                    - generic [ref=e1282]:
+                      - link [ref=e1283] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/pl/ranczo-w-dolinie-kiszkowo.html?ucfs=1&arphpl=1
+                        - generic [ref=e1291]:
+                          - generic [ref=e1292]:
+                            - heading [level=3] [ref=e1293]: Ranczo w Dolinie
+                            - generic [ref=e1295]: Poland, Kiszkowo
+                          - generic [ref=e1297]:
+                            - generic [ref=e1298]: "9.6"
+                            - generic [ref=e1299]: "9.6"
+                            - generic [ref=e1300]: Exceptional
+                            - generic [ref=e1301]:
+                              - generic [ref=e1302]: Exceptional
+                              - generic [ref=e1303]: 134 reviews
+                      - button [ref=e1309] [cursor=pointer]:
+                        - img [ref=e1312]
+                  - group [ref=e1314]:
+                    - generic [ref=e1315]:
+                      - link [ref=e1316] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/de/dreischwesternherz.html?ucfs=1&arphpl=1
+                        - generic [ref=e1324]:
+                          - generic [ref=e1325]:
+                            - heading [level=3] [ref=e1326]: Tiny House Dreischwesternherz
+                            - generic [ref=e1328]: Germany, Trier
+                          - generic [ref=e1330]:
+                            - generic [ref=e1331]: "9.5"
+                            - generic [ref=e1332]: "9.5"
+                            - generic [ref=e1333]: Exceptional
+                            - generic [ref=e1334]:
+                              - generic [ref=e1335]: Exceptional
+                              - generic [ref=e1336]: 121 reviews
+                      - button [ref=e1342] [cursor=pointer]:
+                        - img [ref=e1345]
+                  - group [ref=e1347]:
+                    - generic [ref=e1348]:
+                      - link [ref=e1349] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/de/das-rote-haus.html?ucfs=1&arphpl=1
+                        - generic [ref=e1357]:
+                          - generic [ref=e1358]:
+                            - heading [level=3] [ref=e1359]: Das rote Haus hinterm Deich
+                            - generic [ref=e1361]: Germany, Simonsberg
+                          - generic [ref=e1363]:
+                            - generic [ref=e1364]: "9.7"
+                            - generic [ref=e1365]: "9.7"
+                            - generic [ref=e1366]: Exceptional
+                            - generic [ref=e1367]:
+                              - generic [ref=e1368]: Exceptional
+                              - generic [ref=e1369]: 41 reviews
+                      - button [ref=e1375] [cursor=pointer]:
+                        - img [ref=e1378]
+                  - group [ref=e1380]:
+                    - generic [ref=e1381]:
+                      - link [ref=e1382] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/it/agriturismo-cabrele.html?ucfs=1&arphpl=1
+                        - generic [ref=e1390]:
+                          - generic [ref=e1391]:
+                            - heading [level=3] [ref=e1392]: Agriturismo Cabrele
+                            - generic [ref=e1394]: Italy, Santorso
+                          - generic [ref=e1396]:
+                            - generic [ref=e1397]: "9.5"
+                            - generic [ref=e1398]: "9.5"
+                            - generic [ref=e1399]: Exceptional
+                            - generic [ref=e1400]:
+                              - generic [ref=e1401]: Exceptional
+                              - generic [ref=e1402]: 234 reviews
+                      - button [ref=e1408] [cursor=pointer]:
+                        - img [ref=e1411]
+                  - group [ref=e1413]:
+                    - generic [ref=e1414]:
+                      - link [ref=e1415] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/de/mini-abernachten-im-gurkenfass.html?ucfs=1&arphpl=1
+                        - generic [ref=e1423]:
+                          - generic [ref=e1424]:
+                            - heading [level=3] [ref=e1425]: Mini Hotel Übernachten Im Gurkenfass
+                            - generic [ref=e1427]: Germany, Lübbenau
+                          - generic [ref=e1429]:
+                            - generic [ref=e1430]: "7.7"
+                            - generic [ref=e1431]: "7.7"
+                            - generic [ref=e1432]: Good
+                            - generic [ref=e1433]:
+                              - generic [ref=e1434]: Good
+                              - generic [ref=e1435]: 205 reviews
+                      - button [ref=e1441] [cursor=pointer]:
+                        - img [ref=e1444]
+                  - group [ref=e1446]:
+                    - generic [ref=e1447]:
+                      - link [ref=e1448] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/au/carinya-park.html?ucfs=1&arphpl=1
+                        - generic [ref=e1456]:
+                          - generic [ref=e1457]:
+                            - heading [level=3] [ref=e1458]: Carinya Park
+                            - generic [ref=e1460]: Australia, Gembrook
+                          - generic [ref=e1462]:
+                            - generic [ref=e1463]: "9.4"
+                            - generic [ref=e1464]: "9.4"
+                            - generic [ref=e1465]: Wonderful
+                            - generic [ref=e1466]:
+                              - generic [ref=e1467]: Wonderful
+                              - generic [ref=e1468]: 25 reviews
+                      - button [ref=e1474] [cursor=pointer]:
+                        - img [ref=e1477]
+                  - group [ref=e1479]:
+                    - generic [ref=e1480]:
+                      - link [ref=e1481] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/fi/gyttja-vastergards.html?ucfs=1&arphpl=1
+                        - generic [ref=e1489]:
+                          - generic [ref=e1490]:
+                            - heading [level=3] [ref=e1491]: Gyttja Västergårds
+                            - generic [ref=e1493]: Finland, Nauvo
+                          - generic [ref=e1495]:
+                            - generic [ref=e1496]: "9.1"
+                            - generic [ref=e1497]: "9.1"
+                            - generic [ref=e1498]: Wonderful
+                            - generic [ref=e1499]:
+                              - generic [ref=e1500]: Wonderful
+                              - generic [ref=e1501]: 41 reviews
+                      - button [ref=e1507] [cursor=pointer]:
+                        - img [ref=e1510]
+                  - group [ref=e1512]:
+                    - generic [ref=e1513]:
+                      - link [ref=e1514] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/fr/au-coeur-des-lacs.html?ucfs=1&arphpl=1
+                        - generic [ref=e1522]:
+                          - generic [ref=e1523]:
+                            - heading [level=3] [ref=e1524]: Au Cœur des Lacs - Chambres d'hôtes
+                            - generic [ref=e1526]: France, Gérardmer
+                          - generic [ref=e1528]:
+                            - generic [ref=e1529]: "9.8"
+                            - generic [ref=e1530]: "9.8"
+                            - generic [ref=e1531]: Exceptional
+                            - generic [ref=e1532]:
+                              - generic [ref=e1533]: Exceptional
+                              - generic [ref=e1534]: 204 reviews
+                      - button [ref=e1540] [cursor=pointer]:
+                        - img [ref=e1543]
+                  - group [ref=e1545]:
+                    - generic [ref=e1546]:
+                      - link [ref=e1547] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/ca/la-sapinette-val-david.html?ucfs=1&arphpl=1
+                        - generic [ref=e1555]:
+                          - generic [ref=e1556]:
+                            - heading [level=3] [ref=e1557]: La Sapinette
+                            - generic [ref=e1559]: Canada, Val-David
+                          - generic [ref=e1561]:
+                            - generic [ref=e1562]: "9.0"
+                            - generic [ref=e1563]: "9.0"
+                            - generic [ref=e1564]: Wonderful
+                            - generic [ref=e1565]:
+                              - generic [ref=e1566]: Wonderful
+                              - generic [ref=e1567]: 64 reviews
+                      - button [ref=e1573] [cursor=pointer]:
+                        - img [ref=e1576]
+                  - group [ref=e1578]:
+                    - generic [ref=e1579]:
+                      - link [ref=e1580] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/de/mfc-erfurter-seen.html?ucfs=1&arphpl=1
+                        - generic [ref=e1588]:
+                          - generic [ref=e1589]:
+                            - heading [level=3] [ref=e1590]: Maritimes Freizeitcamp Erfurter Seen
+                            - generic [ref=e1592]: Germany, Erfurt
+                          - generic [ref=e1594]:
+                            - generic [ref=e1595]: "7.3"
+                            - generic [ref=e1596]: "7.3"
+                            - generic [ref=e1597]: Good
+                            - generic [ref=e1598]:
+                              - generic [ref=e1599]: Good
+                              - generic [ref=e1600]: 113 reviews
+                      - button [ref=e1606] [cursor=pointer]:
+                        - img [ref=e1609]
+                  - group [ref=e1611]:
+                    - generic [ref=e1612]:
+                      - link [ref=e1613] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/es/finca-esperanza.html?ucfs=1&arphpl=1
+                        - generic [ref=e1621]:
+                          - generic [ref=e1622]:
+                            - heading [level=3] [ref=e1623]: Finca Esperanza
+                            - generic [ref=e1625]: Spain, Yaiza
+                          - generic [ref=e1627]:
+                            - generic [ref=e1628]: "9.2"
+                            - generic [ref=e1629]: "9.2"
+                            - generic [ref=e1630]: Wonderful
+                            - generic [ref=e1631]:
+                              - generic [ref=e1632]: Wonderful
+                              - generic [ref=e1633]: 177 reviews
+                      - button [ref=e1639] [cursor=pointer]:
+                        - img [ref=e1642]
+                  - group [ref=e1644]:
+                    - generic [ref=e1645]:
+                      - link [ref=e1646] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/ca/la-seigneurie-de-la-valcartier.html?ucfs=1&arphpl=1
+                        - generic [ref=e1654]:
+                          - generic [ref=e1655]:
+                            - heading [level=3] [ref=e1656]: Auberge La Seigneurie Valcartier
+                            - generic [ref=e1658]: Canada, Saint-Gabriel-De-Valcartier
+                          - generic [ref=e1660]:
+                            - generic [ref=e1661]: "8.0"
+                            - generic [ref=e1662]: "8.0"
+                            - generic [ref=e1663]: Very Good
+                            - generic [ref=e1664]:
+                              - generic [ref=e1665]: Very Good
+                              - generic [ref=e1666]: 269 reviews
+                      - button [ref=e1672] [cursor=pointer]:
+                        - img [ref=e1675]
+                  - group [ref=e1677]:
+                    - generic [ref=e1678]:
+                      - link [ref=e1679] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/no/lofthus-camping.html?ucfs=1&arphpl=1
+                        - generic [ref=e1687]:
+                          - generic [ref=e1688]:
+                            - heading [level=3] [ref=e1689]: Lofthus Camping
+                            - generic [ref=e1691]: Norway, Lofthus
+                          - generic [ref=e1693]:
+                            - generic [ref=e1694]: "9.3"
+                            - generic [ref=e1695]: "9.3"
+                            - generic [ref=e1696]: Wonderful
+                            - generic [ref=e1697]:
+                              - generic [ref=e1698]: Wonderful
+                              - generic [ref=e1699]: 251 reviews
+                      - button [ref=e1705] [cursor=pointer]:
+                        - img [ref=e1708]
+                  - group [ref=e1710]:
+                    - generic [ref=e1711]:
+                      - link [ref=e1712] [cursor=pointer]:
+                        - /url: https://www.booking.com/hotel/de/waldschenke-stendenitz-ferienwohnungen.html?ucfs=1&arphpl=1
+                        - generic [ref=e1720]:
+                          - generic [ref=e1721]:
+                            - heading [level=3] [ref=e1722]: Waldschenke Stendenitz Übernachten im Wald am See
+                            - generic [ref=e1724]: Germany, Neuruppin
+                          - generic [ref=e1726]:
+                            - generic [ref=e1727]: "8.8"
+                            - generic [ref=e1728]: "8.8"
+                            - generic [ref=e1729]: Excellent
+                            - generic [ref=e1730]:
+                              - generic [ref=e1731]: Excellent
+                              - generic [ref=e1732]: 401 reviews
+                      - button [ref=e1738] [cursor=pointer]:
+                        - img [ref=e1741]
+                - button [ref=e1743] [cursor=pointer]:
+                  - img [ref=e1746]
+            - link [ref=e1752] [cursor=pointer]:
+              - /url: https://www.booking.com/booking-home/index.en-us.html
+              - generic [ref=e1754]:
+                - generic [ref=e1755]: Want to feel at home on your next adventure?
+                - generic [ref=e1757]: Discover vacation rentals
+            - generic [ref=e1763]:
+              - generic [ref=e1765]:
+                - heading [level=2] [ref=e1768]: Homes guests love
+                - link [ref=e1771] [cursor=pointer]:
+                  - /url: https://www.booking.com/booking-home/index.html
+                  - generic [ref=e1772]: Discover homes
+              - generic [ref=e1773]:
+                - region [ref=e1774]:
+                  - group [ref=e1775]:
+                    - generic [ref=e1776]:
+                      - link [ref=e1777] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=260295&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=260295
+                        - generic [ref=e1784]:
+                          - generic [ref=e1785]:
+                            - generic [ref=e1786]:
+                              - heading [level=3] [ref=e1787]: Aparthotel Stare Miasto
+                              - generic [ref=e1789]: Old Town, Poland, Krakow
+                            - generic [ref=e1791]:
+                              - generic [ref=e1792]: "8.8"
+                              - generic [ref=e1793]: "8.8"
+                              - generic [ref=e1794]: Excellent
+                              - generic [ref=e1795]:
+                                - generic [ref=e1796]: Excellent
+                                - generic [ref=e1797]: 3,222 reviews
+                          - generic [ref=e1800]:
+                            - generic [ref=e1801]: Starting from
+                            - generic [ref=e1803]: $101
+                            - generic [ref=e1804]: Price $101
+                      - button [ref=e1810] [cursor=pointer]:
+                        - img [ref=e1813]
+                  - group [ref=e1815]:
+                    - generic [ref=e1816]:
+                      - link [ref=e1817] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=1129506&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=1129506
+                        - generic [ref=e1824]:
+                          - generic [ref=e1825]:
+                            - generic [ref=e1826]:
+                              - heading [level=3] [ref=e1827]: The Apartments by The Sloane Club
+                              - generic [ref=e1829]: Kensington and Chelsea, United Kingdom, London
+                            - generic [ref=e1831]:
+                              - generic [ref=e1832]: "8.9"
+                              - generic [ref=e1833]: "8.9"
+                              - generic [ref=e1834]: Excellent
+                              - generic [ref=e1835]:
+                                - generic [ref=e1836]: Excellent
+                                - generic [ref=e1837]: 256 reviews
+                          - generic [ref=e1840]:
+                            - generic [ref=e1841]: Starting from
+                            - generic [ref=e1843]: $378
+                            - generic [ref=e1844]: Price $378
+                      - button [ref=e1850] [cursor=pointer]:
+                        - img [ref=e1853]
+                  - group [ref=e1855]:
+                    - generic [ref=e1856]:
+                      - link [ref=e1857] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=785838&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=785838
+                        - generic [ref=e1864]:
+                          - generic [ref=e1865]:
+                            - generic [ref=e1866]:
+                              - heading [level=3] [ref=e1867]: Cheval Three Quays at The Tower of London
+                              - generic [ref=e1869]: City of London, United Kingdom, London
+                            - generic [ref=e1871]:
+                              - generic [ref=e1872]: "9.4"
+                              - generic [ref=e1873]: "9.4"
+                              - generic [ref=e1874]: Wonderful
+                              - generic [ref=e1875]:
+                                - generic [ref=e1876]: Wonderful
+                                - generic [ref=e1877]: 801 reviews
+                          - generic [ref=e1880]:
+                            - generic [ref=e1881]: Starting from
+                            - generic [ref=e1883]: $399
+                            - generic [ref=e1884]: Price $399
+                      - button [ref=e1890] [cursor=pointer]:
+                        - img [ref=e1893]
+                  - group [ref=e1895]:
+                    - generic [ref=e1896]:
+                      - link [ref=e1897] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=2501903&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=2501903
+                        - generic [ref=e1904]:
+                          - generic [ref=e1905]:
+                            - generic [ref=e1906]:
+                              - heading [level=3] [ref=e1907]: P&J Luxury Apartments
+                              - generic [ref=e1909]: Old Town, Poland, Krakow
+                            - generic [ref=e1911]:
+                              - generic [ref=e1912]: "8.1"
+                              - generic [ref=e1913]: "8.1"
+                              - generic [ref=e1914]: Very Good
+                              - generic [ref=e1915]:
+                                - generic [ref=e1916]: Very Good
+                                - generic [ref=e1917]: 675 reviews
+                          - generic [ref=e1920]:
+                            - generic [ref=e1921]: Starting from
+                            - generic [ref=e1923]: $91
+                            - generic [ref=e1924]: Price $91
+                      - button [ref=e1930] [cursor=pointer]:
+                        - img [ref=e1933]
+                  - group [ref=e1935]:
+                    - generic [ref=e1936]:
+                      - link [ref=e1937] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=2309121&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=2309121
+                        - generic [ref=e1944]:
+                          - generic [ref=e1945]:
+                            - generic [ref=e1946]:
+                              - heading [level=3] [ref=e1947]: Baranova Apartments
+                              - generic [ref=e1949]: Prague 3, Czech Republic, Prague
+                            - generic [ref=e1951]:
+                              - generic [ref=e1952]: "9.7"
+                              - generic [ref=e1953]: "9.7"
+                              - generic [ref=e1954]: Exceptional
+                              - generic [ref=e1955]:
+                                - generic [ref=e1956]: Exceptional
+                                - generic [ref=e1957]: 73 reviews
+                          - generic [ref=e1960]:
+                            - generic [ref=e1961]: Starting from
+                            - generic [ref=e1963]: $150
+                            - generic [ref=e1964]: Price $150
+                      - button [ref=e1970] [cursor=pointer]:
+                        - img [ref=e1973]
+                  - group [ref=e1975]:
+                    - generic [ref=e1976]:
+                      - link [ref=e1977] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=2182677&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=2182677
+                        - generic [ref=e1984]:
+                          - generic [ref=e1985]:
+                            - generic [ref=e1986]:
+                              - heading [level=3] [ref=e1987]: Oriente Palace Apartments
+                              - generic [ref=e1989]: Madrid City Center, Spain, Madrid
+                            - generic [ref=e1991]:
+                              - generic [ref=e1992]: "8.9"
+                              - generic [ref=e1993]: "8.9"
+                              - generic [ref=e1994]: Excellent
+                              - generic [ref=e1995]:
+                                - generic [ref=e1996]: Excellent
+                                - generic [ref=e1997]: 3,562 reviews
+                          - generic [ref=e2000]:
+                            - generic [ref=e2001]: Starting from
+                            - generic [ref=e2003]: $154
+                            - generic [ref=e2004]: Price $154
+                      - button [ref=e2010] [cursor=pointer]:
+                        - img [ref=e2013]
+                  - group [ref=e2015]:
+                    - generic [ref=e2016]:
+                      - link [ref=e2017] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=2142157&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=2142157
+                        - generic [ref=e2024]:
+                          - generic [ref=e2025]:
+                            - generic [ref=e2026]:
+                              - heading [level=3] [ref=e2027]: Downtown Synagogue
+                              - generic [ref=e2029]: 07. Erzsébetváros, Hungary, Budapest
+                            - generic [ref=e2031]:
+                              - generic [ref=e2032]: "8.6"
+                              - generic [ref=e2033]: "8.6"
+                              - generic [ref=e2034]: Excellent
+                              - generic [ref=e2035]:
+                                - generic [ref=e2036]: Excellent
+                                - generic [ref=e2037]: 144 reviews
+                          - generic [ref=e2040]:
+                            - generic [ref=e2041]: Starting from
+                            - generic [ref=e2043]: $130
+                            - generic [ref=e2044]: Price $130
+                      - button [ref=e2050] [cursor=pointer]:
+                        - img [ref=e2053]
+                  - group [ref=e2055]:
+                    - generic [ref=e2056]:
+                      - link [ref=e2057] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=2132601&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=2132601
+                        - generic [ref=e2064]:
+                          - generic [ref=e2065]:
+                            - generic [ref=e2066]:
+                              - heading [level=3] [ref=e2067]: Numa Florence Vita
+                              - generic [ref=e2069]: Santa Maria Novella, Italy, Florence
+                            - generic [ref=e2071]:
+                              - generic [ref=e2072]: "8.9"
+                              - generic [ref=e2073]: "8.9"
+                              - generic [ref=e2074]: Excellent
+                              - generic [ref=e2075]:
+                                - generic [ref=e2076]: Excellent
+                                - generic [ref=e2077]: 1,090 reviews
+                          - generic [ref=e2080]:
+                            - generic [ref=e2081]: Starting from
+                            - generic [ref=e2083]: $135
+                            - generic [ref=e2084]: Price $135
+                      - button [ref=e2090] [cursor=pointer]:
+                        - img [ref=e2093]
+                  - group [ref=e2095]:
+                    - generic [ref=e2096]:
+                      - link [ref=e2097] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=2031755&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=2031755
+                        - generic [ref=e2104]:
+                          - generic [ref=e2105]:
+                            - generic [ref=e2106]:
+                              - heading [level=3] [ref=e2107]: Flora Chiado Apartments
+                              - generic [ref=e2109]: Santa Maria Maior, Portugal, Lisbon
+                            - generic [ref=e2111]:
+                              - generic [ref=e2112]: "9.8"
+                              - generic [ref=e2113]: "9.8"
+                              - generic [ref=e2114]: Exceptional
+                              - generic [ref=e2115]:
+                                - generic [ref=e2116]: Exceptional
+                                - generic [ref=e2117]: 167 reviews
+                          - generic [ref=e2120]:
+                            - generic [ref=e2121]: Starting from
+                            - generic [ref=e2123]: $334
+                            - generic [ref=e2124]: Price $334
+                      - button [ref=e2130] [cursor=pointer]:
+                        - img [ref=e2133]
+                  - group [ref=e2135]:
+                    - generic [ref=e2136]:
+                      - link [ref=e2137] [cursor=pointer]:
+                        - /url: https://www.booking.com/searchresults.html?dest_id=913677&dest_type=hotel&nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&highlighted_hotels=913677
+                        - generic [ref=e2144]:
+                          - generic [ref=e2145]:
+                            - generic [ref=e2146]:
+                              - heading [level=3] [ref=e2147]: New Sugar Loft Apartments
+                              - generic [ref=e2149]: Santa Teresa, Brazil, Rio de Janeiro
+                            - generic [ref=e2151]:
+                              - generic [ref=e2152]: "7.6"
+                              - generic [ref=e2153]: "7.6"
+                              - generic [ref=e2154]: Good
+                              - generic [ref=e2155]:
+                                - generic [ref=e2156]: Good
+                                - generic [ref=e2157]: 762 reviews
+                          - generic [ref=e2160]:
+                            - generic [ref=e2161]: Starting from
+                            - generic [ref=e2163]: $66
+                            - generic [ref=e2164]: Price $66
+                      - button [ref=e2170] [cursor=pointer]:
+                        - img [ref=e2173]
+                - button [ref=e2175] [cursor=pointer]:
+                  - img [ref=e2178]
+          - generic [ref=e2190]:
+            - heading [level=2] [ref=e2192]: Travel more, spend less
+            - generic [ref=e2197]:
+              - heading [level=3] [ref=e2198]: Sign in, save money
+              - generic [ref=e2199]: Save 10% or more at participating properties – just look for the blue Genius label
+              - generic [ref=e2200]:
+                - link [ref=e2201] [cursor=pointer]:
+                  - /url: https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&state=UrMB06niWLdp5hOhV4xgBTerYcAuf77ggaCicxvQzenoMT9BRqIFolFVLNPF3vd3VLVFAxyKsE9AMwL0TAYgKCkGLUq7phKxHsBesQgVNPAfCeIxR_vPyYh_s_Po7Ek1pIswkrptwlUaeumF7sSL65i6gsda-IN_Q1UhoE-6ZVn6xBP7Y7pIF0EELbXVhtUM5NSmRuhr1OtgLyaFkKGlL79NiWTYrjb434N2NWAsi8HgbDTeLm4%3D*eyJpZCI6ImluZGV4In0%3D
+                  - generic [ref=e2202]: Sign in
+                - link [ref=e2203] [cursor=pointer]:
+                  - /url: https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&state=UrMB06niWLdp5hOhV4xgBTerYcAuf77ggaCicxvQzenoMT9BRqIFolFVLNPF3vd3VLVFAxyKsE9AMwL0TAYgKCkGLUq7phKxHsBesQgVNPAfCeIxR_vPyYh_s_Po7Ek1pIswkrptwlUaeumF7sSL65i6gsda-IN_Q1UhoE-6ZVn6xBP7Y7pIF0EELbXVhtUM5NSmRuhr1OtgLyaFkKGlL79NiWTYrjb434N2NWAsi8HgbDTeLm4%3D*eyJpZCI6ImluZGV4In0%3D
+                  - generic [ref=e2204]: Register
+          - generic [ref=e2211]:
+            - heading [level=2] [ref=e2213]: Popular with travelers from the United States
+            - navigation [ref=e2214]:
+              - tablist [ref=e2216]:
+                - tab [selected] [ref=e2217] [cursor=pointer]:
+                  - generic [ref=e2219]: Domestic cities
+                - tab [ref=e2220] [cursor=pointer]:
+                  - generic [ref=e2222]: International cities
+                - tab [ref=e2223] [cursor=pointer]:
+                  - generic [ref=e2225]: Regions
+                - tab [ref=e2226] [cursor=pointer]:
+                  - generic [ref=e2228]: Countries
+                - tab [ref=e2229] [cursor=pointer]:
+                  - generic [ref=e2231]: Places to stay
+              - tabpanel [ref=e2233]:
+                - generic [ref=e2234]:
+                  - region [ref=e2235]:
+                    - group [ref=e2236]:
+                      - generic [ref=e2237]:
+                        - generic [ref=e2241] [cursor=pointer]:
+                          - link [ref=e2242]:
+                            - /url: https://www.booking.com/city/us/las-vegas.html
+                            - generic [ref=e2243]: Las Vegas hotels
+                          - generic [ref=e2244]: Nevada
+                        - generic [ref=e2248] [cursor=pointer]:
+                          - link [ref=e2249]:
+                            - /url: https://www.booking.com/city/us/new-york.html
+                            - generic [ref=e2250]: New York hotels
+                          - generic [ref=e2251]: New York
+                        - generic [ref=e2255] [cursor=pointer]:
+                          - link [ref=e2256]:
+                            - /url: https://www.booking.com/city/us/los-angeles.html
+                            - generic [ref=e2257]: Los Angeles hotels
+                          - generic [ref=e2258]: California
+                        - generic [ref=e2262] [cursor=pointer]:
+                          - link [ref=e2263]:
+                            - /url: https://www.booking.com/city/us/orlando.html
+                            - generic [ref=e2264]: Orlando hotels
+                          - generic [ref=e2265]: Florida
+                        - generic [ref=e2269] [cursor=pointer]:
+                          - link [ref=e2270]:
+                            - /url: https://www.booking.com/city/us/san-diego.html
+                            - generic [ref=e2271]: San Diego hotels
+                          - generic [ref=e2272]: California
+                    - group [ref=e2273]:
+                      - generic [ref=e2274]:
+                        - generic [ref=e2278] [cursor=pointer]:
+                          - link [ref=e2279]:
+                            - /url: https://www.booking.com/city/us/san-francisco.html
+                            - generic [ref=e2280]: San Francisco hotels
+                          - generic [ref=e2281]: California
+                        - generic [ref=e2285] [cursor=pointer]:
+                          - link [ref=e2286]:
+                            - /url: https://www.booking.com/city/us/fort-lauderdale.html
+                            - generic [ref=e2287]: Fort Lauderdale hotels
+                          - generic [ref=e2288]: Florida
+                        - generic [ref=e2292] [cursor=pointer]:
+                          - link [ref=e2293]:
+                            - /url: https://www.booking.com/city/us/south-lake-tahoe.html
+                            - generic [ref=e2294]: South Lake Tahoe hotels
+                          - generic [ref=e2295]: California
+                        - generic [ref=e2299] [cursor=pointer]:
+                          - link [ref=e2300]:
+                            - /url: https://www.booking.com/city/us/breckenridge.html
+                            - generic [ref=e2301]: Breckenridge hotels
+                          - generic [ref=e2302]: Colorado
+                        - generic [ref=e2306] [cursor=pointer]:
+                          - link [ref=e2307]:
+                            - /url: https://www.booking.com/city/us/miami.html
+                            - generic [ref=e2308]: Miami hotels
+                          - generic [ref=e2309]: Florida
+                    - group [ref=e2310]:
+                      - generic [ref=e2311]:
+                        - generic [ref=e2315] [cursor=pointer]:
+                          - link [ref=e2316]:
+                            - /url: https://www.booking.com/city/us/houston.html
+                            - generic [ref=e2317]: Houston hotels
+                          - generic [ref=e2318]: Texas
+                        - generic [ref=e2322] [cursor=pointer]:
+                          - link [ref=e2323]:
+                            - /url: https://www.booking.com/city/us/atlanta.html
+                            - generic [ref=e2324]: Atlanta hotels
+                          - generic [ref=e2325]: Georgia
+                        - generic [ref=e2329] [cursor=pointer]:
+                          - link [ref=e2330]:
+                            - /url: https://www.booking.com/city/us/denver.html
+                            - generic [ref=e2331]: Denver hotels
+                          - generic [ref=e2332]: Colorado
+                        - generic [ref=e2336] [cursor=pointer]:
+                          - link [ref=e2337]:
+                            - /url: https://www.booking.com/city/us/new-orleans.html
+                            - generic [ref=e2338]: New Orleans hotels
+                          - generic [ref=e2339]: Louisiana
+                        - generic [ref=e2343] [cursor=pointer]:
+                          - link [ref=e2344]:
+                            - /url: https://www.booking.com/city/us/chicago.html
+                            - generic [ref=e2345]: Chicago hotels
+                          - generic [ref=e2346]: Illinois
+                    - group [ref=e2347]:
+                      - generic [ref=e2348]:
+                        - generic [ref=e2352] [cursor=pointer]:
+                          - link [ref=e2353]:
+                            - /url: https://www.booking.com/city/us/washington.html
+                            - generic [ref=e2354]: Washington, D.C. hotels
+                          - generic [ref=e2355]: Maryland
+                        - generic [ref=e2359] [cursor=pointer]:
+                          - link [ref=e2360]:
+                            - /url: https://www.booking.com/city/us/columbus.html
+                            - generic [ref=e2361]: Columbus hotels
+                          - generic [ref=e2362]: Ohio
+                        - generic [ref=e2366] [cursor=pointer]:
+                          - link [ref=e2367]:
+                            - /url: https://www.booking.com/city/us/seattle.html
+                            - generic [ref=e2368]: Seattle hotels
+                          - generic [ref=e2369]: Washington
+                        - generic [ref=e2373] [cursor=pointer]:
+                          - link [ref=e2374]:
+                            - /url: https://www.booking.com/city/us/myrtle-beach.html
+                            - generic [ref=e2375]: Myrtle Beach hotels
+                          - generic [ref=e2376]: South Carolina
+                        - generic [ref=e2380] [cursor=pointer]:
+                          - link [ref=e2381]:
+                            - /url: https://www.booking.com/city/us/daytona-beach.html
+                            - generic [ref=e2382]: Daytona Beach hotels
+                          - generic [ref=e2383]: Florida
+                    - group [ref=e2384]:
+                      - generic [ref=e2385]:
+                        - generic [ref=e2389] [cursor=pointer]:
+                          - link [ref=e2390]:
+                            - /url: https://www.booking.com/city/us/saint-augustine.html
+                            - generic [ref=e2391]: St. Augustine hotels
+                          - generic [ref=e2392]: Florida
+                        - generic [ref=e2396] [cursor=pointer]:
+                          - link [ref=e2397]:
+                            - /url: https://www.booking.com/city/us/phoenix.html
+                            - generic [ref=e2398]: Phoenix hotels
+                          - generic [ref=e2399]: Arizona
+                        - generic [ref=e2403] [cursor=pointer]:
+                          - link [ref=e2404]:
+                            - /url: https://www.booking.com/city/us/savannah.html
+                            - generic [ref=e2405]: Savannah hotels
+                          - generic [ref=e2406]: Georgia
+                        - generic [ref=e2410] [cursor=pointer]:
+                          - link [ref=e2411]:
+                            - /url: https://www.booking.com/city/us/boston.html
+                            - generic [ref=e2412]: Boston hotels
+                          - generic [ref=e2413]: Massachusetts
+                        - generic [ref=e2417] [cursor=pointer]:
+                          - link [ref=e2418]:
+                            - /url: https://www.booking.com/city/us/charlotte.html
+                            - generic [ref=e2419]: Charlotte hotels
+                          - generic [ref=e2420]: North Carolina
+                    - group [ref=e2421]:
+                      - generic [ref=e2422]:
+                        - generic [ref=e2426] [cursor=pointer]:
+                          - link [ref=e2427]:
+                            - /url: https://www.booking.com/city/us/pigeon-forge.html
+                            - generic [ref=e2428]: Pigeon Forge hotels
+                          - generic [ref=e2429]: Tennessee
+                        - generic [ref=e2433] [cursor=pointer]:
+                          - link [ref=e2434]:
+                            - /url: https://www.booking.com/city/us/nashville.html
+                            - generic [ref=e2435]: Nashville hotels
+                          - generic [ref=e2436]: Tennessee
+                        - generic [ref=e2440] [cursor=pointer]:
+                          - link [ref=e2441]:
+                            - /url: https://www.booking.com/city/us/san-antonio.html
+                            - generic [ref=e2442]: San Antonio hotels
+                          - generic [ref=e2443]: Texas
+                        - generic [ref=e2447] [cursor=pointer]:
+                          - link [ref=e2448]:
+                            - /url: https://www.booking.com/city/us/austin.html
+                            - generic [ref=e2449]: Austin hotels
+                          - generic [ref=e2450]: Texas
+                        - generic [ref=e2454] [cursor=pointer]:
+                          - link [ref=e2455]:
+                            - /url: https://www.booking.com/city/us/panama-city-beach.html
+                            - generic [ref=e2456]: Panama City Beach hotels
+                          - generic [ref=e2457]: Florida
+                    - group [ref=e2458]:
+                      - generic [ref=e2459]:
+                        - generic [ref=e2463] [cursor=pointer]:
+                          - link [ref=e2464]:
+                            - /url: https://www.booking.com/city/us/santa-cruz.html
+                            - generic [ref=e2465]: Santa Cruz hotels
+                          - generic [ref=e2466]: California
+                        - generic [ref=e2470] [cursor=pointer]:
+                          - link [ref=e2471]:
+                            - /url: https://www.booking.com/city/us/bakersfield.html
+                            - generic [ref=e2472]: Bakersfield hotels
+                          - generic [ref=e2473]: California
+                        - generic [ref=e2477] [cursor=pointer]:
+                          - link [ref=e2478]:
+                            - /url: https://www.booking.com/city/us/reno.html
+                            - generic [ref=e2479]: Reno hotels
+                          - generic [ref=e2480]: Nevada
+                        - generic [ref=e2484] [cursor=pointer]:
+                          - link [ref=e2485]:
+                            - /url: https://www.booking.com/city/us/brooklyn.html
+                            - generic [ref=e2486]: Brooklyn hotels
+                          - generic [ref=e2487]: New York
+                        - generic [ref=e2491] [cursor=pointer]:
+                          - link [ref=e2492]:
+                            - /url: https://www.booking.com/city/us/oklahoma-city.html
+                            - generic [ref=e2493]: Oklahoma City hotels
+                          - generic [ref=e2494]: Oklahoma
+                    - group [ref=e2495]:
+                      - generic [ref=e2496]:
+                        - generic [ref=e2500] [cursor=pointer]:
+                          - link [ref=e2501]:
+                            - /url: https://www.booking.com/city/us/portland.html
+                            - generic [ref=e2502]: Portland hotels
+                          - generic [ref=e2503]: Oregon
+                        - generic [ref=e2507] [cursor=pointer]:
+                          - link [ref=e2508]:
+                            - /url: https://www.booking.com/city/us/fort-worth.html
+                            - generic [ref=e2509]: Fort Worth hotels
+                          - generic [ref=e2510]: Texas
+                        - generic [ref=e2514] [cursor=pointer]:
+                          - link [ref=e2515]:
+                            - /url: https://www.booking.com/city/us/tucson.html
+                            - generic [ref=e2516]: Tucson hotels
+                          - generic [ref=e2517]: Arizona
+                        - generic [ref=e2521] [cursor=pointer]:
+                          - link [ref=e2522]:
+                            - /url: https://www.booking.com/city/us/miami-beach.html
+                            - generic [ref=e2523]: Miami Beach hotels
+                          - generic [ref=e2524]: Florida
+                        - generic [ref=e2528] [cursor=pointer]:
+                          - link [ref=e2529]:
+                            - /url: https://www.booking.com/city/us/springfield.html
+                            - generic [ref=e2530]: Springfield hotels
+                          - generic [ref=e2531]: Missouri
+                    - group [ref=e2532]:
+                      - generic [ref=e2533]:
+                        - generic [ref=e2537] [cursor=pointer]:
+                          - link [ref=e2538]:
+                            - /url: https://www.booking.com/city/us/gatlinburg.html
+                            - generic [ref=e2539]: Gatlinburg hotels
+                          - generic [ref=e2540]: Tennessee
+                        - generic [ref=e2544] [cursor=pointer]:
+                          - link [ref=e2545]:
+                            - /url: https://www.booking.com/city/us/amarillo.html
+                            - generic [ref=e2546]: Amarillo hotels
+                          - generic [ref=e2547]: Texas
+                        - generic [ref=e2551] [cursor=pointer]:
+                          - link [ref=e2552]:
+                            - /url: https://www.booking.com/city/us/jacksonville.html
+                            - generic [ref=e2553]: Jacksonville hotels
+                          - generic [ref=e2554]: Florida
+                        - generic [ref=e2558] [cursor=pointer]:
+                          - link [ref=e2559]:
+                            - /url: https://www.booking.com/city/us/sorrento.html
+                            - generic [ref=e2560]: Sorrento hotels
+                          - generic [ref=e2561]: California
+                        - generic [ref=e2565] [cursor=pointer]:
+                          - link [ref=e2566]:
+                            - /url: https://www.booking.com/city/us/detroit.html
+                            - generic [ref=e2567]: Detroit hotels
+                          - generic [ref=e2568]: Michigan
+                    - group [ref=e2569]:
+                      - generic [ref=e2570]:
+                        - generic [ref=e2574] [cursor=pointer]:
+                          - link [ref=e2575]:
+                            - /url: https://www.booking.com/city/us/ocean-city.html
+                            - generic [ref=e2576]: Ocean City hotels
+                          - generic [ref=e2577]: Maryland
+                        - generic [ref=e2581] [cursor=pointer]:
+                          - link [ref=e2582]:
+                            - /url: https://www.booking.com/city/us/saint-louis.html
+                            - generic [ref=e2583]: Saint Louis hotels
+                          - generic [ref=e2584]: Missouri
+                        - generic [ref=e2588] [cursor=pointer]:
+                          - link [ref=e2589]:
+                            - /url: https://www.booking.com/city/us/raleigh.html
+                            - generic [ref=e2590]: Raleigh hotels
+                          - generic [ref=e2591]: North Carolina
+                        - generic [ref=e2595] [cursor=pointer]:
+                          - link [ref=e2596]:
+                            - /url: https://www.booking.com/city/us/galveston.html
+                            - generic [ref=e2597]: Galveston hotels
+                          - generic [ref=e2598]: Texas
+                        - generic [ref=e2602] [cursor=pointer]:
+                          - link [ref=e2603]:
+                            - /url: https://www.booking.com/city/us/kissimmee.html
+                            - generic [ref=e2604]: Kissimmee hotels
+                          - generic [ref=e2605]: Florida
+                    - group [ref=e2606]:
+                      - generic [ref=e2607]:
+                        - generic [ref=e2611] [cursor=pointer]:
+                          - link [ref=e2612]:
+                            - /url: https://www.booking.com/city/us/riverside.html
+                            - generic [ref=e2613]: Riverside hotels
+                          - generic [ref=e2614]: California
+                        - generic [ref=e2618] [cursor=pointer]:
+                          - link [ref=e2619]:
+                            - /url: https://www.booking.com/city/us/mammoth-lakes.html
+                            - generic [ref=e2620]: Mammoth Lakes hotels
+                          - generic [ref=e2621]: California
+                        - generic [ref=e2625] [cursor=pointer]:
+                          - link [ref=e2626]:
+                            - /url: https://www.booking.com/city/us/tallahassee.html
+                            - generic [ref=e2627]: Tallahassee hotels
+                          - generic [ref=e2628]: Florida
+                        - generic [ref=e2632] [cursor=pointer]:
+                          - link [ref=e2633]:
+                            - /url: https://www.booking.com/city/us/cocoa-beach.html
+                            - generic [ref=e2634]: Cocoa Beach hotels
+                          - generic [ref=e2635]: Florida
+                        - generic [ref=e2639] [cursor=pointer]:
+                          - link [ref=e2640]:
+                            - /url: https://www.booking.com/city/us/destin.html
+                            - generic [ref=e2641]: Destin hotels
+                          - generic [ref=e2642]: Florida
+                    - group [ref=e2643]:
+                      - generic [ref=e2644]:
+                        - generic [ref=e2648] [cursor=pointer]:
+                          - link [ref=e2649]:
+                            - /url: https://www.booking.com/city/us/palm-springs.html
+                            - generic [ref=e2650]: Palm Springs hotels
+                          - generic [ref=e2651]: California
+                        - generic [ref=e2655] [cursor=pointer]:
+                          - link [ref=e2656]:
+                            - /url: https://www.booking.com/city/us/san-jose.html
+                            - generic [ref=e2657]: San Jose hotels
+                          - generic [ref=e2658]: California
+                        - generic [ref=e2662] [cursor=pointer]:
+                          - link [ref=e2663]:
+                            - /url: https://www.booking.com/city/us/tampa.html
+                            - generic [ref=e2664]: Tampa hotels
+                          - generic [ref=e2665]: Florida
+                        - generic [ref=e2669] [cursor=pointer]:
+                          - link [ref=e2670]:
+                            - /url: https://www.booking.com/city/us/louisville.html
+                            - generic [ref=e2671]: Louisville hotels
+                          - generic [ref=e2672]: Kentucky
+                  - button [ref=e2673] [cursor=pointer]:
+                    - img [ref=e2676]
+      - contentinfo [ref=e2689]:
+        - navigation [ref=e2692]:
+          - list [ref=e2693]:
+            - listitem [ref=e2694]:
+              - link [ref=e2695] [cursor=pointer]:
+                - /url: https://www.booking.com/country.html
+                - generic [ref=e2697]: Countries
+              - text: .
+            - listitem [ref=e2698]:
+              - link [ref=e2699] [cursor=pointer]:
+                - /url: https://www.booking.com/region.html
+                - generic [ref=e2701]: Regions
+              - text: .
+            - listitem [ref=e2702]:
+              - link [ref=e2703] [cursor=pointer]:
+                - /url: https://www.booking.com/city.html
+                - generic [ref=e2705]: Cities
+              - text: .
+            - listitem [ref=e2706]:
+              - link [ref=e2707] [cursor=pointer]:
+                - /url: https://www.booking.com/district.html
+                - generic [ref=e2709]: Districts
+              - text: .
+            - listitem [ref=e2710]:
+              - link [ref=e2711] [cursor=pointer]:
+                - /url: https://www.booking.com/airport.html
+                - generic [ref=e2713]: Airports
+              - text: .
+            - listitem [ref=e2714]:
+              - link [ref=e2715] [cursor=pointer]:
+                - /url: https://www.booking.com/hotel/index.html
+                - generic [ref=e2717]: Hotels
+              - text: .
+            - listitem [ref=e2718]:
+              - link [ref=e2719] [cursor=pointer]:
+                - /url: https://www.booking.com/landmark.html
+                - generic [ref=e2721]: Places of interest
+              - text: .
+            - listitem [ref=e2722]:
+              - link [ref=e2723] [cursor=pointer]:
+                - /url: https://www.booking.com/booking-home/index.html
+                - generic [ref=e2725]: Vacation Homes
+              - text: .
+            - listitem [ref=e2726]:
+              - link [ref=e2727] [cursor=pointer]:
+                - /url: https://www.booking.com/apartments/index.html
+                - generic [ref=e2729]: Apartments
+              - text: .
+            - listitem [ref=e2730]:
+              - link [ref=e2731] [cursor=pointer]:
+                - /url: https://www.booking.com/resorts/index.html
+                - generic [ref=e2733]: Resorts
+              - text: .
+            - listitem [ref=e2734]:
+              - link [ref=e2735] [cursor=pointer]:
+                - /url: https://www.booking.com/villas/index.html
+                - generic [ref=e2737]: Villas
+              - text: .
+            - listitem [ref=e2738]:
+              - link [ref=e2739] [cursor=pointer]:
+                - /url: https://www.booking.com/hostels/index.html
+                - generic [ref=e2741]: Hostels
+              - text: .
+            - listitem [ref=e2742]:
+              - link [ref=e2743] [cursor=pointer]:
+                - /url: https://www.booking.com/bed-and-breakfast/index.html
+                - generic [ref=e2745]: B&Bs
+              - text: .
+            - listitem [ref=e2746]:
+              - link [ref=e2747] [cursor=pointer]:
+                - /url: https://www.booking.com/guest-house/index.html
+                - generic [ref=e2749]: Guest Houses
+              - text: .
+            - listitem [ref=e2750]:
+              - link [ref=e2751] [cursor=pointer]:
+                - /url: https://www.booking.com/accommodations.html
+                - generic [ref=e2753]: Unique places to stay
+              - text: .
+            - listitem [ref=e2754]:
+              - link [ref=e2755] [cursor=pointer]:
+                - /url: https://www.booking.com/destination.html
+                - generic [ref=e2757]: All destinations
+              - text: .
+            - listitem [ref=e2758]:
+              - link [ref=e2759] [cursor=pointer]:
+                - /url: https://www.booking.com/flights/sitemap.html
+                - generic [ref=e2761]: All flight destinations
+              - text: .
+            - listitem [ref=e2762]:
+              - link [ref=e2763] [cursor=pointer]:
+                - /url: https://www.booking.com/cars/sitemap.html
+                - generic [ref=e2765]: All car rental locations
+              - text: .
+            - listitem [ref=e2766]:
+              - link [ref=e2767] [cursor=pointer]:
+                - /url: https://www.booking.com/holidays/sitemap.html
+                - generic [ref=e2769]: All vacation destinations
+              - text: .
+            - listitem [ref=e2770]:
+              - link [ref=e2771] [cursor=pointer]:
+                - /url: https://www.booking.com/guides/index.html
+                - generic [ref=e2773]: Guides
+              - text: .
+            - listitem [ref=e2774]:
+              - link [ref=e2775] [cursor=pointer]:
+                - /url: https://www.booking.com/discover.html
+                - generic [ref=e2777]: Discover
+              - text: .
+            - listitem [ref=e2778]:
+              - link [ref=e2779] [cursor=pointer]:
+                - /url: https://www.booking.com/extended-stays/index.html
+                - generic [ref=e2781]: Discover monthly stays
+        - generic [ref=e2783]:
+          - generic [ref=e2784]:
+            - heading [level=3] [ref=e2786]: Support
+            - list [ref=e2787]:
+              - listitem [ref=e2788]:
+                - link [ref=e2790] [cursor=pointer]:
+                  - /url: https://secure.booking.com/content/cs.html
+                  - generic [ref=e2791]: Manage your trips
+              - listitem [ref=e2792]:
+                - link [ref=e2794] [cursor=pointer]:
+                  - /url: https://secure.booking.com/help.html
+                  - generic [ref=e2795]: Contact Customer Service
+              - listitem [ref=e2796]:
+                - link [ref=e2798] [cursor=pointer]:
+                  - /url: https://www.booking.com/trust_and_safety.html
+                  - generic [ref=e2799]: Safety Resource Center
+          - generic [ref=e2800]:
+            - heading [level=3] [ref=e2802]: Discover
+            - list [ref=e2803]:
+              - listitem [ref=e2804]:
+                - link [ref=e2806] [cursor=pointer]:
+                  - /url: https://www.booking.com/genius.html
+                  - generic [ref=e2807]: Genius loyalty program
+              - listitem [ref=e2808]:
+                - link [ref=e2810] [cursor=pointer]:
+                  - /url: https://www.booking.com/deals/index.html
+                  - generic [ref=e2811]: Seasonal and holiday deals
+              - listitem [ref=e2812]:
+                - link [ref=e2814] [cursor=pointer]:
+                  - /url: https://www.booking.com/articles.html
+                  - generic [ref=e2815]: Travel articles
+              - listitem [ref=e2816]:
+                - link [ref=e2818] [cursor=pointer]:
+                  - /url: https://business.booking.com/
+                  - generic [ref=e2819]: Booking.com for Business
+              - listitem [ref=e2820]:
+                - link [ref=e2822] [cursor=pointer]:
+                  - /url: https://www.booking.com/traveller-awards/index.html
+                  - generic [ref=e2823]: Traveller Review Awards
+              - listitem [ref=e2824]:
+                - link [ref=e2826] [cursor=pointer]:
+                  - /url: https://www.booking.com/cars/index.html
+                  - generic [ref=e2827]: Car rental
+              - listitem [ref=e2828]:
+                - link [ref=e2830] [cursor=pointer]:
+                  - /url: https://booking.com/flights/index.html
+                  - generic [ref=e2831]: Flight finder
+              - listitem [ref=e2832]:
+                - link [ref=e2834] [cursor=pointer]:
+                  - /url: https://www.opentable.com/
+                  - generic [ref=e2835]: Restaurant reservations
+              - listitem [ref=e2836]:
+                - link [ref=e2838] [cursor=pointer]:
+                  - /url: https://www.booking.com/affiliate-program/v2/index.html
+                  - generic [ref=e2839]: Booking.com for Travel Agents
+          - generic [ref=e2840]:
+            - heading [level=3] [ref=e2842]: Terms and settings
+            - list [ref=e2843]:
+              - listitem [ref=e2844]:
+                - link [ref=e2846] [cursor=pointer]:
+                  - /url: https://www.booking.com/content/privacy.html
+                  - generic [ref=e2847]: Privacy Notice
+              - listitem [ref=e2848]:
+                - link [ref=e2850] [cursor=pointer]:
+                  - /url: https://www.booking.com/content/terms.html
+                  - generic [ref=e2851]: Terms of Service
+              - listitem [ref=e2852]:
+                - link [ref=e2854] [cursor=pointer]:
+                  - /url: https://www.booking.com/content/accessibility_statement.html
+                  - generic [ref=e2855]: Accessibility Statement
+              - listitem [ref=e2856]:
+                - link [ref=e2858] [cursor=pointer]:
+                  - /url: https://secure.booking.com/content/complaints.html
+                  - generic [ref=e2859]: Dispute resolution
+              - listitem [ref=e2860]:
+                - link [ref=e2862] [cursor=pointer]:
+                  - /url: https://www.bookingholdings.com/modern-slavery-statement/
+                  - generic [ref=e2863]: Modern Slavery Statement
+              - listitem [ref=e2864]:
+                - link [ref=e2866] [cursor=pointer]:
+                  - /url: https://www.bookingholdings.com/about/compliance-and-ethics/human-rights/
+                  - generic [ref=e2867]: Human Rights Statement
+          - generic [ref=e2868]:
+            - heading [level=3] [ref=e2870]: Partners
+            - list [ref=e2871]:
+              - listitem [ref=e2872]:
+                - link [ref=e2874] [cursor=pointer]:
+                  - /url: https://admin.booking.com/
+                  - generic [ref=e2875]: Extranet login
+              - listitem [ref=e2876]:
+                - link [ref=e2878] [cursor=pointer]:
+                  - /url: https://partner.booking.com/en-us
+                  - generic [ref=e2879]: Partner help
+              - listitem [ref=e2880]:
+                - link [ref=e2882] [cursor=pointer]:
+                  - /url: https://join.booking.com/
+                  - generic [ref=e2883]: List your property
+              - listitem [ref=e2884]:
+                - link [ref=e2886] [cursor=pointer]:
+                  - /url: https://www.booking.com/affiliate-program/v2/index.html
+                  - generic [ref=e2887]: Become an affiliate
+          - generic [ref=e2888]:
+            - heading [level=3] [ref=e2890]: About
+            - list [ref=e2891]:
+              - listitem [ref=e2892]:
+                - link [ref=e2894] [cursor=pointer]:
+                  - /url: https://www.booking.com/content/about.html
+                  - generic [ref=e2895]: About Booking.com
+              - listitem [ref=e2896]:
+                - link [ref=e2898] [cursor=pointer]:
+                  - /url: https://www.booking.com/content/how_we_work.html
+                  - generic [ref=e2899]: How We Work
+              - listitem [ref=e2900]:
+                - link [ref=e2902] [cursor=pointer]:
+                  - /url: https://sustainability.booking.com/
+                  - generic [ref=e2903]: Sustainability
+              - listitem [ref=e2904]:
+                - link [ref=e2906] [cursor=pointer]:
+                  - /url: https://news.booking.com/en-us
+                  - generic [ref=e2907]: Press center
+              - listitem [ref=e2908]:
+                - link [ref=e2910] [cursor=pointer]:
+                  - /url: https://careers.booking.com/
+                  - generic [ref=e2911]: Careers
+              - listitem [ref=e2912]:
+                - link [ref=e2914] [cursor=pointer]:
+                  - /url: https://www.bookingholdings.com/
+                  - generic [ref=e2915]: Investor relations
+              - listitem [ref=e2916]:
+                - link [ref=e2918] [cursor=pointer]:
+                  - /url: https://www.booking.com/content/contact-us.html
+                  - generic [ref=e2919]: Corporate contact
+              - listitem [ref=e2920]:
+                - link [ref=e2922] [cursor=pointer]:
+                  - /url: https://www.booking.com/content-moderation-policy/overview-page.html
+                  - generic [ref=e2923]: Content guidelines and reporting
+        - generic [ref=e2925]:
+          - generic [ref=e2926]:
+            - button [ref=e2928] [cursor=pointer]
+            - button [ref=e2933] [cursor=pointer]:
+              - generic [ref=e2934]: USD
+          - separator [ref=e2935]
+          - generic [ref=e2936]:
+            - generic [ref=e2938]: Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.
+            - generic [ref=e2939]: Copyright © 1996–2026 Booking.com™. All rights reserved.
+          - generic [ref=e2940]:
+            - img [ref=e2941]:
+              - img [ref=e2942]
+            - img [ref=e2944]:
+              - img [ref=e2945]
+            - img [ref=e2948]:
+              - img [ref=e2949]
+            - img [ref=e2963]:
+              - img [ref=e2964]
+            - img [ref=e2972]:
+              - img [ref=e2973]
+  - generic [ref=e2977]:
+    - dialog "Window offering discounts of 10% or more when you sign in to Booking.com":
+      - generic [ref=e2978]:
+        - generic [ref=e2979]:
+          - button "Dismiss sign-in info." [ref=e2982] [cursor=pointer]:
+            - img [ref=e2985]
+          - generic [ref=e2988]:
+            - img "blue Genius logo" [ref=e2990]:
+              - img [ref=e2991]
+            - heading "Sign in, save money" [level=2] [ref=e3001]:
+              - generic [ref=e3002]: Sign in, save money
+            - paragraph [ref=e3003]: Sign in to save 10% or more with a free Booking.com membership
+        - link "Sign in or register" [ref=e3007] [cursor=pointer]:
+          - /url: https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&prompt=signin&state=UrMB06niWLdp5hOhV4xgBTerYcAuf77ggaCicxvQzenoMT9BRqIFolFVLNPF3vd3VLVFAxyKsE9AMwL0TAYgKCkGLUq7phKxHsBesQgVNPAfCeIxR_vPyYh_s_Po7Ek1pIswkrptwlUaeumF7sSL65i6gsda-IN_Q1UhoE-6ZVn6xBP7Y7pIF0EELbXVhtUM5NSmRuhr1OtgLyaFkKGlL79NiWTYrjb434N2NWAsi8HgbDTeLm4%3D*eyJpZCI6Imdlbml1c19pbmRleF9zaGVldCJ9
+          - generic [ref=e3008]: Sign in or register
+  - region "Cookie banner" [active] [ref=e3009]:
+    - dialog "Manage cookie settings" [ref=e3010]:
+      - generic [ref=e3012]:
+        - generic [ref=e3014]:
+          - heading "Manage cookie settings" [level=2] [ref=e3015]
+          - generic [ref=e3016]:
+            - paragraph [ref=e3017]: "When you use Booking.com, we (Booking.com and our partners), use the following categories of cookies (and similar technologies) that require your consent: Analytical cookies and marketing cookies."
+            - heading "Analytical cookies" [level=3] [ref=e3018]
+            - paragraph [ref=e3019]: We and our partners use analytical cookies to gain information on how you use our service, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services.
+            - heading "Marketing cookies" [level=3] [ref=e3020]
+            - paragraph [ref=e3021]: We and our partners use marketing cookies, including social media cookies, to collect information about your behavior on this platform that helps us decide which products to show you on and off our platform, and to display personalized content and advertisements on Booking.com and other platforms. The personalized content is based on your behavior and the services you've booked. These cookies also allow you to share or like pages on social media.
+            - paragraph [ref=e3022]: By selecting “Accept,” you consent to the use of analytical and marketing cookies and the related processing of your personal data. You can update your consent for each platform anytime. For the website, through “Manage cookie settings” in the footer; for the app, through “My account” > “Privacy and data management” > “Privacy settings”.
+            - paragraph [ref=e3023]: By selecting "Decline," you'll be provided with a less personalized experience on our platform.
+            - paragraph [ref=e3024]:
+              - text: You can find more information about relevant processing of personal data in the
+              - link "Privacy Notice" [ref=e3025] [cursor=pointer]:
+                - /url: https://www.booking.com/content/privacy.html
+              - text: .
+        - generic [ref=e3027]:
+          - button "Manage settings" [ref=e3028] [cursor=pointer]
+          - button "Decline" [ref=e3029] [cursor=pointer]
+          - button "Accept" [ref=e3030] [cursor=pointer]

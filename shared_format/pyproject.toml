@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shared_format"
+version = "0.1.0"
+description = "Shared format converter for MCP benchmark alignment (JSON/TOON/TRON)"
+requires-python = ">=3.10"
+dependencies = [
+    "tiktoken>=0.5",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["shared_format*"]

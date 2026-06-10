@@ -1,0 +1,94 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e8]
+    - generic [ref=e11]:
+      - search [ref=e14]:
+        - button "Menü" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: 
+        - generic [ref=e18]:
+          - combobox [expanded] [active] [ref=e28]: Paiza Sky Residence, Singapore
+          - button "Suchen" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 
+          - button "Route" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: 
+        - grid "Vorschläge" [ref=e29]:
+          - row "Paiza Sky Residence Bayfront Avenue, SingapurSingapore" [ref=e32] [cursor=pointer]:
+            - gridcell "Paiza Sky Residence Bayfront Avenue, SingapurSingapore" [ref=e33]:
+              - generic [ref=e35]: 
+              - generic [ref=e36]: Paiza Sky Residence
+              - generic [ref=e37]: Bayfront Avenue, SingapurSingapore
+        - region "Für dieses Gebiet verfügbare Suchoptionen" [ref=e44]:
+          - generic [ref=e46]:
+            - button "Restaurants" [ref=e48] [cursor=pointer]:
+              - generic [ref=e49]:
+                - generic [ref=e51]: 
+                - generic [ref=e52]: Restaurants
+            - button "Hotels" [ref=e54] [cursor=pointer]:
+              - generic [ref=e55]:
+                - generic [ref=e57]: 
+                - generic [ref=e58]: Hotels
+            - button "Mögliche Aktivitäten" [ref=e60] [cursor=pointer]:
+              - generic [ref=e61]:
+                - generic [ref=e63]: 
+                - generic [ref=e64]: Mögliche Aktivitäten
+            - button "Museen" [ref=e66] [cursor=pointer]:
+              - generic [ref=e67]:
+                - generic [ref=e69]: 
+                - generic [ref=e70]: Museen
+            - button "ÖPV/ÖPNV" [ref=e72] [cursor=pointer]:
+              - generic [ref=e73]:
+                - generic [ref=e75]: 
+                - generic [ref=e76]: ÖPV/ÖPNV
+            - button "Apotheken" [ref=e78] [cursor=pointer]:
+              - generic [ref=e79]:
+                - generic [ref=e81]: 
+                - generic [ref=e82]: Apotheken
+            - button "Geldautomaten" [ref=e84] [cursor=pointer]:
+              - generic [ref=e85]:
+                - generic [ref=e87]: 
+                - generic [ref=e88]: Geldautomaten
+          - button "Nächste Seite" [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: 
+      - region "Graz" [ref=e95]:
+        - generic [ref=e96]:
+          - heading "Graz" [level=1] [ref=e98]
+          - group "Wetter in Graz" [ref=e99]:
+            - generic [ref=e100]: 3°
+            - img "Überwiegend bewölkt" [ref=e101]
+        - region "Verkehrslage" [ref=e102]:
+          - button "Viel Verkehr im Umkreis Viel langsamer als normal" [ref=e103] [cursor=pointer]:
+            - img [ref=e105]
+            - generic [ref=e106]:
+              - generic [ref=e107]: Viel Verkehr im Umkreis
+              - generic [ref=e108]: Viel langsamer als normal
+            - generic [ref=e109]: 
+    - generic [ref=e113]:
+      - button "Google-Apps" [ref=e117] [cursor=pointer]:
+        - img [ref=e118]
+      - link "Anmelden" [ref=e121] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e124] [cursor=pointer]:
+          - generic [ref=e126]: 
+        - generic [ref=e128] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e129]
+          - button "Herauszoomen" [ref=e132]
+      - generic [ref=e139] [cursor=pointer]:
+        - button "Street View-Bilder ansehen" [ref=e140]
+        - button "Bilder anzeigen" [ref=e142]:
+          - generic [ref=e145]: 
+      - generic [ref=e146]:
+        - generic "Interaktive Karte" [ref=e147]
+        - generic [ref=e151] [cursor=pointer]:
+          - generic [ref=e152]: 
+          - generic [ref=e153]: Ebenen
+        - button "Ebenen" [ref=e154] [cursor=pointer]
+    - generic [ref=e156]:
+      - contentinfo [ref=e159]:
+        - text: Kartendaten © 2026 Google
+        - button "Österreich" [ref=e160] [cursor=pointer]
+        - button "Bedingungen" [ref=e161] [cursor=pointer]
+        - button "Datenschutz" [ref=e162] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e163] [cursor=pointer]
+      - button "500 m" [ref=e165] [cursor=pointer]: 500 m

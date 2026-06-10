@@ -1,0 +1,298 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - link "Skip to main content" [ref=e4] [cursor=pointer]:
+      - /url: "#main-content"
+      - generic [ref=e5]: Skip to main content
+    - banner [ref=e9]:
+      - generic [ref=e10]:
+        - navigation [ref=e11]:
+          - link "FIFA" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - img "FIFA" [ref=e13]
+          - generic [ref=e14]:
+            - link "TICKETS & HOSPITALITY" [ref=e16] [cursor=pointer]:
+              - /url: /en/tickets
+            - link "FIFA REWARDS" [ref=e18] [cursor=pointer]:
+              - /url: https://www.fifa.com/en/rewards/?intcmp=%28p_fifacom%29_%28d_%29_%28c_webuniversal-mcf-2025%29_%28sc_rewards%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "FIFA+" [ref=e20] [cursor=pointer]:
+              - /url: https://www.plus.fifa.com/?intcmp=%28p_fifacom%29_%28d_plusfifa%29_%28c_webuniversal-mcf-2025%29_%28sc_home%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "FIFA STORE" [ref=e22] [cursor=pointer]:
+              - /url: https://store.fifa.com/?intcmp=%28p_fifacom%29_%28d_fifastore%29_%28c_webuniversal-mcf-2025%29_%28sc_fifastore%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "FIFA COLLECT" [ref=e24] [cursor=pointer]:
+              - /url: https://collect.fifa.com/en-UK?utm_source=fifa&utm_medium=website&utm_campaign=FIFA_web&referrer=FIFA_Comm_FIFA_web&intcmp=%28p_fifacom%29_%28d_fifacollect%29_%28c_webuniversal-mcf-2025%29_%28sc_fifacollect%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+            - link "INSIDE FIFA" [ref=e26] [cursor=pointer]:
+              - /url: https://inside.fifa.com/en/?intcmp=%28p_fifacom%29_%28d_insidefifa%29_%28c_webuniversal-mcf-2025%29_%28sc_insidefifa%29_%28ssc_%29_%28sssc_%29_%28l_en%29_%28da_19082025%29
+        - generic [ref=e28]:
+          - link "FIFA" [ref=e35] [cursor=pointer]:
+            - /url: /en/tournaments/mens/club-world-cup/usa-2025
+            - img "FIFA" [ref=e36]
+          - navigation [ref=e38]:
+            - link "SCORES & FIXTURES" [ref=e40] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/scores-and-fixtures
+            - link "HIGHLIGHTS" [ref=e42] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/highlights
+            - link "NEWS" [ref=e44] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/news
+            - link "STANDINGS" [ref=e46] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/standings
+            - generic [ref=e48] [cursor=pointer]: STATS
+            - link "ORGANISATION" [ref=e50] [cursor=pointer]:
+              - /url: /en/tournaments/mens/club-world-cup/usa-2025/organisation
+            - generic [ref=e52] [cursor=pointer]: MORE
+          - link "Search" [ref=e85] [cursor=pointer]:
+            - /url: /en/tournaments/mens/club-world-cup/usa-2025?searchOverlay=1
+            - img "Search" [ref=e86]
+          - button "Language" [ref=e59] [cursor=pointer]:
+            - img "Language" [ref=e60]
+          - button "My Account" [ref=e62] [cursor=pointer]:
+            - img [ref=e63]
+    - generic [ref=e90]:
+      - main [ref=e91]:
+        - generic [ref=e92]:
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e99]:
+                - link "Kylian Mbappe of Real Madrid (R) scores during the FIFA Club World Cup 2025 quarter-final match against Borussia Dortmund on July 05, 2025. (Photo by Pedro Castillo/Real Madrid via Getty Images)" [ref=e100] [cursor=pointer]:
+                  - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+                  - img "Kylian Mbappe of Real Madrid (R) scores during the FIFA Club World Cup 2025 quarter-final match against Borussia Dortmund on July 05, 2025. (Photo by Pedro Castillo/Real Madrid via Getty Images)" [ref=e102]
+                - generic [ref=e103]:
+                  - generic [ref=e104]:
+                    - generic [ref=e105]: FIFA Club World Cup 2025™
+                    - link [ref=e106] [cursor=pointer]:
+                      - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+                      - heading [level=3] [ref=e107]:
+                        - generic [ref=e109]: Spectacular goals at the FIFA Club World Cup
+                  - link [ref=e111] [cursor=pointer]:
+                    - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+                    - img [ref=e112]
+                    - generic [ref=e115]: Watch now
+              - generic [ref=e116]:
+                - link "General view of MetLife Stadium as Chelsea win the FIFA Club World Cup" [ref=e117] [cursor=pointer]:
+                  - /url: /en/articles/tournament-review
+                  - img "General view of MetLife Stadium as Chelsea win the FIFA Club World Cup" [ref=e119]
+                - generic [ref=e120]:
+                  - generic [ref=e121]:
+                    - generic [ref=e122]: FIFA Club World Cup 2025™
+                    - link [ref=e123] [cursor=pointer]:
+                      - /url: /en/articles/tournament-review
+                      - heading [level=3] [ref=e124]:
+                        - generic [ref=e126]: Chelsea conquer as new era of club football begins
+                  - link [ref=e128] [cursor=pointer]:
+                    - /url: /en/articles/tournament-review
+                    - generic [ref=e129]: Read more
+              - generic [ref=e130]:
+                - link "FIFA" [ref=e131] [cursor=pointer]:
+                  - /url: /en/articles/biggest-shocks-upsets-highlights
+                  - img "FIFA" [ref=e133]
+                - generic [ref=e134]:
+                  - generic [ref=e135]:
+                    - generic [ref=e136]: FIFA Club World Cup 2025™
+                    - link [ref=e137] [cursor=pointer]:
+                      - /url: /en/articles/biggest-shocks-upsets-highlights
+                      - heading [level=3] [ref=e138]:
+                        - generic [ref=e140]: "Ranked: Results that rocked the FIFA Club World Cup"
+                  - link [ref=e142] [cursor=pointer]:
+                    - /url: /en/articles/biggest-shocks-upsets-highlights
+                    - generic [ref=e143]: Read more
+              - generic [ref=e144]:
+                - link "FIFA" [ref=e145] [cursor=pointer]:
+                  - /url: /en/articles/standout-moments-tournament
+                  - img "FIFA" [ref=e147]
+                - generic [ref=e148]:
+                  - generic [ref=e149]:
+                    - generic [ref=e150]: FIFA Club World Cup 2025™
+                    - link [ref=e151] [cursor=pointer]:
+                      - /url: /en/articles/standout-moments-tournament
+                      - heading [level=3] [ref=e152]:
+                        - generic [ref=e154]: Eight epic Club World Cup moments
+                  - link [ref=e156] [cursor=pointer]:
+                    - /url: /en/articles/standout-moments-tournament
+                    - generic [ref=e157]: Read more
+              - generic [ref=e158]:
+                - link "Kylian Mbappe of Real Madrid (R) scores during the FIFA Club World Cup 2025 quarter-final match against Borussia Dortmund on July 05, 2025. (Photo by Pedro Castillo/Real Madrid via Getty Images)" [ref=e159] [cursor=pointer]:
+                  - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+                  - img "Kylian Mbappe of Real Madrid (R) scores during the FIFA Club World Cup 2025 quarter-final match against Borussia Dortmund on July 05, 2025. (Photo by Pedro Castillo/Real Madrid via Getty Images)" [ref=e161]
+                - generic [ref=e162]:
+                  - generic [ref=e163]:
+                    - generic [ref=e164]: FIFA Club World Cup 2025™
+                    - link [ref=e165] [cursor=pointer]:
+                      - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+                      - heading [level=3] [ref=e166]:
+                        - generic [ref=e168]: Spectacular goals at the FIFA Club World Cup
+                  - link [ref=e170] [cursor=pointer]:
+                    - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+                    - img [ref=e171]
+                    - generic [ref=e174]: Watch now
+              - generic [ref=e175]:
+                - link "General view of MetLife Stadium as Chelsea win the FIFA Club World Cup" [ref=e176] [cursor=pointer]:
+                  - /url: /en/articles/tournament-review
+                  - img "General view of MetLife Stadium as Chelsea win the FIFA Club World Cup" [ref=e178]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - generic [ref=e181]: FIFA Club World Cup 2025™
+                    - link [ref=e182] [cursor=pointer]:
+                      - /url: /en/articles/tournament-review
+                      - heading [level=3] [ref=e183]:
+                        - generic [ref=e185]: Chelsea conquer as new era of club football begins
+                  - link [ref=e187] [cursor=pointer]:
+                    - /url: /en/articles/tournament-review
+                    - generic [ref=e188]: Read more
+            - generic [ref=e190]:
+              - link [ref=e191] [cursor=pointer]:
+                - /url: /en/articles/tournament-review
+              - link [ref=e193] [cursor=pointer]:
+                - /url: /en/articles/biggest-shocks-upsets-highlights
+              - link [ref=e195] [cursor=pointer]:
+                - /url: /en/articles/standout-moments-tournament
+              - link [ref=e197] [cursor=pointer]:
+                - /url: /en/watch/WZ6vygRoXUeC2iwzmrsVfQ
+          - region "Top stories" [ref=e202]:
+            - generic [ref=e203]:
+              - heading "Top stories" [level=3] [ref=e204]:
+                - generic [ref=e206]: Top stories
+              - link "See all" [ref=e207] [cursor=pointer]:
+                - /url: /en/cat/19eS90PrVeUQHFA5OYCRZI
+                - generic [ref=e208]: See all
+                - img [ref=e209]
+            - list "Top stories" [ref=e211]:
+              - listitem [ref=e212]:
+                - 'link "The perfect match: FIFA Museum welcomes Club World Cup Trophy" [ref=e215] [cursor=pointer]':
+                  - /url: /en/articles/fifa-museum-welcomes-trophy-permanent-exhibition
+                  - article [ref=e216]:
+                    - img "FIFA" [ref=e220]
+                    - generic [ref=e221]:
+                      - generic [ref=e224]: FIFA Museum
+                      - 'heading "The perfect match: FIFA Museum welcomes Club World Cup Trophy" [level=4] [ref=e225]':
+                        - generic [ref=e227]: "The perfect match: FIFA Museum welcomes Club World Cup Trophy"
+              - generic [ref=e229]:
+                - listitem [ref=e230]:
+                  - link "Golden boy Palmer heads FIFA Club World Cup award winners" [ref=e231] [cursor=pointer]:
+                    - /url: /en/articles/palmer-sanchez-doue-garcia-award-winners
+                    - article [ref=e232]:
+                      - generic [ref=e233]:
+                        - 'img "EAST RUTHERFORD, NEW JERSEY - JULY 13: (L-R) Cole Palmer #10 of Chelsea FC holding the adidas Golden Ball, Robert Sanchez #1 of Chelsea FC holding the adidas Golden Glove and Desire Doue #14 of Paris Saint-Germain holding the FIFA Best Young Player Award presented by Panini pose for a photo during the FIFA Club World Cup 2025 Final match between Chelsea FC and Paris Saint-Germain at MetLife Stadium on July 13, 2025 in East Rutherford, New Jersey. (Photo by Buda Mendes/Getty Images)" [ref=e237]'
+                        - generic [ref=e239]:
+                          - generic [ref=e242]: FIFA Club World Cup 2025™
+                          - generic [ref=e245]: Golden boy Palmer heads FIFA Club World Cup award winners
+                - listitem [ref=e246]:
+                  - link "Lucas Ribeiro wins goal of the tournament" [ref=e247] [cursor=pointer]:
+                    - /url: /en/articles/lucas-ribeiro-wins-goal-of-the-tournament
+                    - article [ref=e248]:
+                      - generic [ref=e249]:
+                        - img "FIFA" [ref=e253]
+                        - generic [ref=e255]:
+                          - generic [ref=e258]: Mamelodi Sundowns
+                          - generic [ref=e261]: Lucas Ribeiro wins goal of the tournament
+                - listitem [ref=e262]:
+                  - link "Eight epic Club World Cup moments" [ref=e263] [cursor=pointer]:
+                    - /url: /en/articles/standout-moments-tournament
+                    - article [ref=e264]:
+                      - generic [ref=e265]:
+                        - img "FIFA" [ref=e269]
+                        - generic [ref=e271]:
+                          - generic [ref=e274]: FIFA Club World Cup 2025™
+                          - generic [ref=e277]: Eight epic Club World Cup moments
+                - listitem [ref=e278]:
+                  - link "Ten Club World Cup stars who earned big moves" [ref=e279] [cursor=pointer]:
+                    - /url: /en/articles/club-world-cup-transfers
+                    - article [ref=e280]:
+                      - generic [ref=e281]:
+                        - img "FIFA" [ref=e285]
+                        - generic [ref=e287]:
+                          - generic [ref=e290]: Players to watch
+                          - generic [ref=e293]: Ten Club World Cup stars who earned big moves
+          - region "Highlights" [ref=e297]:
+            - generic [ref=e298]:
+              - heading "Highlights" [level=3] [ref=e299]:
+                - generic [ref=e301]: Highlights
+              - link "See all" [ref=e302] [cursor=pointer]:
+                - /url: /en/cat/3B3SrmaB5wLdaZuku0Qdhi
+                - generic [ref=e303]: See all
+                - img [ref=e304]
+            - list "Highlights" [ref=e306]:
+              - listitem [ref=e307]:
+                - link "Chelsea v Paris Saint-Germain | Final | FIFA Club World Cup USA 2025™ | Highlights" [ref=e308] [cursor=pointer]:
+                  - /url: /en/watch/2S0lBWZfyw1ADEIIOsWZ7w
+                  - article [ref=e309]:
+                    - generic [ref=e310]:
+                      - img "Chelsea v Paris Saint-Germain | Final | FIFA Club World Cup USA 2025™ | Highlights" [ref=e313]
+                      - generic [ref=e314]:
+                        - generic [ref=e317]: Highlights
+                        - generic [ref=e320]:
+                          - generic [ref=e321]:
+                            - generic "Chelsea FC" [ref=e322]: CHE
+                            - img "Chelsea FC image" [ref=e323]
+                          - generic [ref=e325]:
+                            - generic [ref=e326]: "3"
+                            - generic [ref=e327]: FT
+                            - generic [ref=e328]: "0"
+                          - generic [ref=e329]:
+                            - img "Paris Saint-Germain image" [ref=e330]
+                            - generic "Paris Saint-Germain" [ref=e331]: PSG
+                    - generic [ref=e332]:
+                      - generic [ref=e335]: Watch now
+                      - heading "Chelsea v Paris Saint-Germain | Final | FIFA Club World Cup USA 2025™ | Highlights" [level=4] [ref=e336]:
+                        - generic [ref=e338]: Chelsea v Paris Saint-Germain | Final | FIFA Club World Cup USA 2025™ | Highlights
+              - listitem [ref=e339]:
+                - generic [ref=e340]:
+                  - link "Paris Saint–Germain v Real Madrid | Semi-final | FIFA Club World Cup USA 2025™ | Highlights" [ref=e342] [cursor=pointer]:
+                    - /url: /en/watch/6db0dPA5Gb6V6j8x4SebPq
+                    - article [ref=e343]:
+                      - generic [ref=e344]:
+                        - generic [ref=e345]:
+                          - img "Paris Saint–Germain v Real Madrid | Semi-final | FIFA Club World Cup USA 2025™ | Highlights" [ref=e348]
+                          - generic [ref=e351]: Highlights
+                        - generic [ref=e353]:
+                          - generic [ref=e356]: Watch now
+                          - generic [ref=e359]: Paris Saint–Germain v Real Madrid | Semi-final | FIFA Club World Cup USA 2025™ | Highlights
+                      - generic [ref=e361]:
+                        - generic [ref=e362]:
+                          - generic "Paris Saint-Germain" [ref=e363]: PSG
+                          - img "Paris Saint-Germain image" [ref=e364]
+                        - generic [ref=e366]:
+                          - generic [ref=e367]: "4"
+                          - generic [ref=e368]: FT
+                          - generic [ref=e369]: "0"
+                        - generic [ref=e370]:
+                          - img "Real Madrid C.F. image" [ref=e371]
+                          - generic "Real Madrid C.F." [ref=e372]: RMA
+                  - link "Fluminense FC v Chelsea FC | Semi-final | FIFA Club World Cup USA 2025™ | Highlights" [ref=e374] [cursor=pointer]:
+                    - /url: /en/watch/2gPwGUHVDpci1XvNAygGWY
+                    - article [ref=e375]:
+                      - generic [ref=e376]:
+                        - generic [ref=e377]:
+                          - img "Fluminense FC v Chelsea FC | Semi-final | FIFA Club World Cup USA 2025™ | Highlights" [ref=e380]
+                          - generic [ref=e383]: Highlights
+                        - generic [ref=e385]:
+                          - generic [ref=e388]: Watch now
+                          - generic [ref=e391]: Fluminense FC v Chelsea FC | Semi-final | FIFA Club World Cup USA 2025™ | Highlights
+                      - generic [ref=e393]:
+                        - generic [ref=e394]:
+                          - generic "Fluminense FC" [ref=e395]: FLU
+                          - img "Fluminense FC image" [ref=e396]
+                        - generic [ref=e398]:
+                          - generic [ref=e399]: "0"
+                          - generic [ref=e400]: FT
+                          - generic [ref=e401]: "2"
+                        - generic [ref=e402]:
+                          - img "Chelsea FC image" [ref=e403]
+                          - generic "Chelsea FC" [ref=e404]: CHE
+      - separator [ref=e755]
+  - dialog "We Care About Your Privacy" [ref=e67]:
+    - generic [ref=e69]:
+      - generic [ref=e71]:
+        - heading "We Care About Your Privacy" [level=2] [ref=e72]
+        - generic [ref=e73]:
+          - text: We and our 983 partners may store and access personal data, like browsing data or unique identifiers, on your device. Selecting "I Accept" enables tracking technologies to support the purposes shown under "we and our partners process data to provide," whereas selecting "Reject All" or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage Cookie Preferences link on the bottom of the webpage. Your choices will have effect within our Website. For more details, refer to our
+          - link "Privacy Policy, opens in a new tab" [ref=e74] [cursor=pointer]:
+            - /url: https://inside.fifa.com/data-protection-portal/data-protection-policy
+            - text: Privacy Policy
+        - generic [ref=e75]:
+          - heading "We and our partners process data to provide:" [level=3] [ref=e76]
+          - paragraph [ref=e78]:
+            - text: Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+            - button "List of Partners (vendors)" [ref=e79] [cursor=pointer]
+      - generic [ref=e81]:
+        - button "I Accept" [ref=e82] [cursor=pointer]
+        - button "Reject All" [ref=e83] [cursor=pointer]
+        - button "Show Purposes, Opens the preference center dialog" [ref=e84] [cursor=pointer]: Show Purposes

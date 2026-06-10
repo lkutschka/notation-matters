@@ -1,0 +1,287 @@
+[
+  {
+    "uuid": "28a98d3e-eba6-4d5a-a88d-5bea72386913",
+    "category": "finance",
+    "call_type": "single",
+    "tools": [
+      {
+        "name": "get_stock_price_global_market",
+        "description": " Get Public Available Stock Symbols from Global Marketplace\n\n        Args:\n            symbol_list (List): List of Symbols, such as Tencent: 700, Kuaishou: 1024, Tesla (TSLA), Microsoft(MSFT), Google (GOOG), London Stock Exchange Market, Shell (quote: SHEL), Unilever (quote: ULVR)\n            market (str): \"HK\", \"CN_MAINLAND\", \"US\", \"LSE\", \"NSE_INDIA\", etc.\n        \n        Return: \n            str: json str with below values samples\n\n            [{'symbol': 'SH600036',\n              'current': 45.78,\n              'percent': 1.33,\n              'chg': 0.6,\n              'high': '45.81 CNY',\n              'low': '44.95 CNY',\n              'avg_price': '45.485751910823915 CNY',\n              'timestamp': 1750057200000,\n              'open': 45.08,\n              'last_close': 45.18,\n              'market_capital': 1154564531614.0,\n              'change': '0.6(1.33%)',\n              'previous_close': '45.18 CNY',\n              'market_capitalization': '11545.65 \u4ebf CNY',\n              'pe_ratio': '',\n              'update_time': '2025-06-16 15:00:00',\n              'source': 'XUEQIU.COM, https://xueqiu.com/S/SH600036',\n              'data_source': 'xueqiu.com',\n              'source_url': 'https://xueqiu.com/S/SH600036'},\n    ",
+        "input_schema": {
+          "properties": {
+            "symbol_list": {
+              "items": {
+                "type": "string"
+              },
+              "title": "Symbol List",
+              "type": "array"
+            },
+            "market": {
+              "title": "Market",
+              "type": "string"
+            }
+          },
+          "required": [
+            "symbol_list",
+            "market"
+          ],
+          "title": "get_stock_price_global_marketArguments",
+          "type": "object"
+        }
+      }
+    ],
+    "mcp_tools_dict": {
+      "finance-agent-mcp-server": [
+        "get_stock_price_global_market"
+      ]
+    },
+    "query": "What is the current share price of Amazon?",
+    "function_call_label": [
+      {
+        "name": "get_stock_price_global_market",
+        "step": "1",
+        "id": "1",
+        "mcp_server": "finance-agent-mcp-server",
+        "similar_tools": [],
+        "input": {
+          "symbol_list": [
+            "AMZN"
+          ],
+          "market": "US"
+        },
+        "output": {
+          "status_code": 200,
+          "result": {}
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "536ff170-df2e-4117-93b2-183c21cddbdb",
+    "category": "finance",
+    "call_type": "single",
+    "tools": [
+      {
+        "name": "get_stock_price_global_market",
+        "description": " Get Public Available Stock Symbols from Global Marketplace\n\n        Args:\n            symbol_list (List): List of Symbols, such as Tencent: 700, Kuaishou: 1024, Tesla (TSLA), Microsoft(MSFT), Google (GOOG), London Stock Exchange Market, Shell (quote: SHEL), Unilever (quote: ULVR)\n            market (str): \"HK\", \"CN_MAINLAND\", \"US\", \"LSE\", \"NSE_INDIA\", etc.\n        \n        Return: \n            str: json str with below values samples\n\n            [{'symbol': 'SH600036',\n              'current': 45.78,\n              'percent': 1.33,\n              'chg': 0.6,\n              'high': '45.81 CNY',\n              'low': '44.95 CNY',\n              'avg_price': '45.485751910823915 CNY',\n              'timestamp': 1750057200000,\n              'open': 45.08,\n              'last_close': 45.18,\n              'market_capital': 1154564531614.0,\n              'change': '0.6(1.33%)',\n              'previous_close': '45.18 CNY',\n              'market_capitalization': '11545.65 \u4ebf CNY',\n              'pe_ratio': '',\n              'update_time': '2025-06-16 15:00:00',\n              'source': 'XUEQIU.COM, https://xueqiu.com/S/SH600036',\n              'data_source': 'xueqiu.com',\n              'source_url': 'https://xueqiu.com/S/SH600036'},\n    ",
+        "input_schema": {
+          "properties": {
+            "symbol_list": {
+              "items": {
+                "type": "string"
+              },
+              "title": "Symbol List",
+              "type": "array"
+            },
+            "market": {
+              "title": "Market",
+              "type": "string"
+            }
+          },
+          "required": [
+            "symbol_list",
+            "market"
+          ],
+          "title": "get_stock_price_global_marketArguments",
+          "type": "object"
+        }
+      }
+    ],
+    "mcp_tools_dict": {
+      "finance-agent-mcp-server": [
+        "get_stock_price_global_market"
+      ]
+    },
+    "query": "What is the current share price of Berkshire Hathaway Class B?",
+    "function_call_label": [
+      {
+        "name": "get_stock_price_global_market",
+        "step": "1",
+        "id": "1",
+        "mcp_server": "finance-agent-mcp-server",
+        "similar_tools": [],
+        "input": {
+          "symbol_list": [
+            "BRK.B"
+          ],
+          "market": "US"
+        },
+        "output": {
+          "status_code": 200,
+          "result": {}
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "c4836e49-4d18-4979-93dc-e81e9b7f971b",
+    "category": "finance",
+    "call_type": "single",
+    "tools": [
+      {
+        "name": "get_stock_price_global_market",
+        "description": " Get Public Available Stock Symbols from Global Marketplace\n\n        Args:\n            symbol_list (List): List of Symbols, such as Tencent: 700, Kuaishou: 1024, Tesla (TSLA), Microsoft(MSFT), Google (GOOG), London Stock Exchange Market, Shell (quote: SHEL), Unilever (quote: ULVR)\n            market (str): \"HK\", \"CN_MAINLAND\", \"US\", \"LSE\", \"NSE_INDIA\", etc.\n        \n        Return: \n            str: json str with below values samples\n\n            [{'symbol': 'SH600036',\n              'current': 45.78,\n              'percent': 1.33,\n              'chg': 0.6,\n              'high': '45.81 CNY',\n              'low': '44.95 CNY',\n              'avg_price': '45.485751910823915 CNY',\n              'timestamp': 1750057200000,\n              'open': 45.08,\n              'last_close': 45.18,\n              'market_capital': 1154564531614.0,\n              'change': '0.6(1.33%)',\n              'previous_close': '45.18 CNY',\n              'market_capitalization': '11545.65 \u4ebf CNY',\n              'pe_ratio': '',\n              'update_time': '2025-06-16 15:00:00',\n              'source': 'XUEQIU.COM, https://xueqiu.com/S/SH600036',\n              'data_source': 'xueqiu.com',\n              'source_url': 'https://xueqiu.com/S/SH600036'},\n    ",
+        "input_schema": {
+          "properties": {
+            "symbol_list": {
+              "items": {
+                "type": "string"
+              },
+              "title": "Symbol List",
+              "type": "array"
+            },
+            "market": {
+              "title": "Market",
+              "type": "string"
+            }
+          },
+          "required": [
+            "symbol_list",
+            "market"
+          ],
+          "title": "get_stock_price_global_marketArguments",
+          "type": "object"
+        }
+      }
+    ],
+    "mcp_tools_dict": {
+      "finance-agent-mcp-server": [
+        "get_stock_price_global_market"
+      ]
+    },
+    "query": "What is the current stock price of Apple?",
+    "function_call_label": [
+      {
+        "name": "get_stock_price_global_market",
+        "step": "1",
+        "id": "1",
+        "mcp_server": "finance-agent-mcp-server",
+        "similar_tools": [],
+        "input": {
+          "symbol_list": [
+            "AAPL"
+          ],
+          "market": "US"
+        },
+        "output": {
+          "status_code": 200,
+          "result": {}
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "1fc3f97e-2e7b-47c0-a59d-a9fcaab4ab0c",
+    "category": "finance",
+    "call_type": "single",
+    "tools": [
+      {
+        "name": "get_stock_price_global_market",
+        "description": " Get Public Available Stock Symbols from Global Marketplace\n\n        Args:\n            symbol_list (List): List of Symbols, such as Tencent: 700, Kuaishou: 1024, Tesla (TSLA), Microsoft(MSFT), Google (GOOG), London Stock Exchange Market, Shell (quote: SHEL), Unilever (quote: ULVR)\n            market (str): \"HK\", \"CN_MAINLAND\", \"US\", \"LSE\", \"NSE_INDIA\", etc.\n        \n        Return: \n            str: json str with below values samples\n\n            [{'symbol': 'SH600036',\n              'current': 45.78,\n              'percent': 1.33,\n              'chg': 0.6,\n              'high': '45.81 CNY',\n              'low': '44.95 CNY',\n              'avg_price': '45.485751910823915 CNY',\n              'timestamp': 1750057200000,\n              'open': 45.08,\n              'last_close': 45.18,\n              'market_capital': 1154564531614.0,\n              'change': '0.6(1.33%)',\n              'previous_close': '45.18 CNY',\n              'market_capitalization': '11545.65 \u4ebf CNY',\n              'pe_ratio': '',\n              'update_time': '2025-06-16 15:00:00',\n              'source': 'XUEQIU.COM, https://xueqiu.com/S/SH600036',\n              'data_source': 'xueqiu.com',\n              'source_url': 'https://xueqiu.com/S/SH600036'},\n    ",
+        "input_schema": {
+          "properties": {
+            "symbol_list": {
+              "items": {
+                "type": "string"
+              },
+              "title": "Symbol List",
+              "type": "array"
+            },
+            "market": {
+              "title": "Market",
+              "type": "string"
+            }
+          },
+          "required": [
+            "symbol_list",
+            "market"
+          ],
+          "title": "get_stock_price_global_marketArguments",
+          "type": "object"
+        }
+      }
+    ],
+    "mcp_tools_dict": {
+      "finance-agent-mcp-server": [
+        "get_stock_price_global_market"
+      ]
+    },
+    "query": "What is the current share price of Shanghai 600887?",
+    "function_call_label": [
+      {
+        "name": "get_stock_price_global_market",
+        "step": "1",
+        "id": "1",
+        "mcp_server": "finance-agent-mcp-server",
+        "similar_tools": [],
+        "input": {
+          "symbol_list": [
+            "SH600887"
+          ],
+          "market": "CN_MAINLAND"
+        },
+        "output": {
+          "status_code": 200,
+          "result": {}
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "3f244252-bcdf-4df1-a2fa-4d5731342a93",
+    "category": "finance",
+    "call_type": "single",
+    "tools": [
+      {
+        "name": "get_stock_price_global_market",
+        "description": " Get Public Available Stock Symbols from Global Marketplace\n\n        Args:\n            symbol_list (List): List of Symbols, such as Tencent: 700, Kuaishou: 1024, Tesla (TSLA), Microsoft(MSFT), Google (GOOG), London Stock Exchange Market, Shell (quote: SHEL), Unilever (quote: ULVR)\n            market (str): \"HK\", \"CN_MAINLAND\", \"US\", \"LSE\", \"NSE_INDIA\", etc.\n        \n        Return: \n            str: json str with below values samples\n\n            [{'symbol': 'SH600036',\n              'current': 45.78,\n              'percent': 1.33,\n              'chg': 0.6,\n              'high': '45.81 CNY',\n              'low': '44.95 CNY',\n              'avg_price': '45.485751910823915 CNY',\n              'timestamp': 1750057200000,\n              'open': 45.08,\n              'last_close': 45.18,\n              'market_capital': 1154564531614.0,\n              'change': '0.6(1.33%)',\n              'previous_close': '45.18 CNY',\n              'market_capitalization': '11545.65 \u4ebf CNY',\n              'pe_ratio': '',\n              'update_time': '2025-06-16 15:00:00',\n              'source': 'XUEQIU.COM, https://xueqiu.com/S/SH600036',\n              'data_source': 'xueqiu.com',\n              'source_url': 'https://xueqiu.com/S/SH600036'},\n    ",
+        "input_schema": {
+          "properties": {
+            "symbol_list": {
+              "items": {
+                "type": "string"
+              },
+              "title": "Symbol List",
+              "type": "array"
+            },
+            "market": {
+              "title": "Market",
+              "type": "string"
+            }
+          },
+          "required": [
+            "symbol_list",
+            "market"
+          ],
+          "title": "get_stock_price_global_marketArguments",
+          "type": "object"
+        }
+      }
+    ],
+    "mcp_tools_dict": {
+      "finance-agent-mcp-server": [
+        "get_stock_price_global_market"
+      ]
+    },
+    "query": "What is the current share price of Meituan?",
+    "function_call_label": [
+      {
+        "name": "get_stock_price_global_market",
+        "step": "1",
+        "id": "1",
+        "mcp_server": "finance-agent-mcp-server",
+        "similar_tools": [],
+        "input": {
+          "symbol_list": [
+            "03690"
+          ],
+          "market": "HK"
+        },
+        "output": {
+          "status_code": 200,
+          "result": {}
+        }
+      }
+    ]
+  }
+]

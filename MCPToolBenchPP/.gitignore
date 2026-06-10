@@ -1,0 +1,13 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/
+node_modules/
+dist/
+build/
+*.log
+package-lock.json
+package.json
+

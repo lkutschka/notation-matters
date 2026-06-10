@@ -1,0 +1,121 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e8]
+    - generic [ref=e11]:
+      - search [ref=e14]:
+        - button "Menü" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: 
+        - generic [ref=e18]:
+          - combobox [expanded] [active] [ref=e28]: Jakarta to Surabaya
+          - button "Suchen" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 
+          - button "Route" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: 
+        - grid "Vorschläge" [ref=e29]:
+          - generic [ref=e31] [cursor=pointer]:
+            - row "Routenplaner Jakarta, Indonesien" [ref=e32]:
+              - gridcell "Routenplaner Jakarta, Indonesien" [ref=e33]:
+                - img "Routenplaner" [ref=e35]: 
+                - generic [ref=e36]: Jakarta, Indonesien
+            - row "Surabaya, Jawa Timur, Indonesien" [ref=e37]:
+              - gridcell "Surabaya, Jawa Timur, Indonesien" [ref=e38]:
+                - generic [ref=e40]: Surabaya, Jawa Timur, Indonesien
+          - generic [ref=e42] [cursor=pointer]:
+            - row "Routenplaner Jakarta, Indonesien" [ref=e43]:
+              - gridcell "Routenplaner Jakarta, Indonesien" [ref=e44]:
+                - img "Routenplaner" [ref=e46]: 
+                - generic [ref=e47]: Jakarta, Indonesien
+            - row "Surabaya Suites Hotel, Jalan Plaza Boulevard Jalan Pemuda, Embong Kaliasin, Surabaya, Jawa Timur, Indonesien" [ref=e48]:
+              - gridcell "Surabaya Suites Hotel, Jalan Plaza Boulevard Jalan Pemuda, Embong Kaliasin, Surabaya, Jawa Timur, Indonesien" [ref=e49]:
+                - generic [ref=e51]: Surabaya Suites Hotel, Jalan Plaza Boulevard Jalan Pemuda, Embong Kaliasin, Surabaya, Jawa Timur, Indonesien
+          - generic [ref=e53] [cursor=pointer]:
+            - row "Routenplaner Jakarta, Indonesien" [ref=e54]:
+              - gridcell "Routenplaner Jakarta, Indonesien" [ref=e55]:
+                - img "Routenplaner" [ref=e57]: 
+                - generic [ref=e58]: Jakarta, Indonesien
+            - row "Surabaya Expo Center (SUBEC), Jalan Kusuma Bangsa, Tambaksari, Surabaya, Jawa Timur, Indonesien" [ref=e59]:
+              - gridcell "Surabaya Expo Center (SUBEC), Jalan Kusuma Bangsa, Tambaksari, Surabaya, Jawa Timur, Indonesien" [ref=e60]:
+                - generic [ref=e62]: Surabaya Expo Center (SUBEC), Jalan Kusuma Bangsa, Tambaksari, Surabaya, Jawa Timur, Indonesien
+          - generic [ref=e64] [cursor=pointer]:
+            - row "Routenplaner Jakarta, Indonesien" [ref=e65]:
+              - gridcell "Routenplaner Jakarta, Indonesien" [ref=e66]:
+                - img "Routenplaner" [ref=e68]: 
+                - generic [ref=e69]: Jakarta, Indonesien
+            - row "Surabaya, Central Lampung Regency, Lampung, Indonesien" [ref=e70]:
+              - gridcell "Surabaya, Central Lampung Regency, Lampung, Indonesien" [ref=e71]:
+                - generic [ref=e73]: Surabaya, Central Lampung Regency, Lampung, Indonesien
+        - region "Für dieses Gebiet verfügbare Suchoptionen" [ref=e80]:
+          - generic [ref=e82]:
+            - button "Restaurants" [ref=e84] [cursor=pointer]:
+              - generic [ref=e85]:
+                - generic [ref=e87]: 
+                - generic [ref=e88]: Restaurants
+            - button "Hotels" [ref=e90] [cursor=pointer]:
+              - generic [ref=e91]:
+                - generic [ref=e93]: 
+                - generic [ref=e94]: Hotels
+            - button "Mögliche Aktivitäten" [ref=e96] [cursor=pointer]:
+              - generic [ref=e97]:
+                - generic [ref=e99]: 
+                - generic [ref=e100]: Mögliche Aktivitäten
+            - button "Museen" [ref=e102] [cursor=pointer]:
+              - generic [ref=e103]:
+                - generic [ref=e105]: 
+                - generic [ref=e106]: Museen
+            - button "ÖPV/ÖPNV" [ref=e108] [cursor=pointer]:
+              - generic [ref=e109]:
+                - generic [ref=e111]: 
+                - generic [ref=e112]: ÖPV/ÖPNV
+            - button "Apotheken" [ref=e114] [cursor=pointer]:
+              - generic [ref=e115]:
+                - generic [ref=e117]: 
+                - generic [ref=e118]: Apotheken
+            - button "Geldautomaten" [ref=e120] [cursor=pointer]:
+              - generic [ref=e121]:
+                - generic [ref=e123]: 
+                - generic [ref=e124]: Geldautomaten
+          - button "Nächste Seite" [ref=e125] [cursor=pointer]:
+            - generic [ref=e126]: 
+      - region "Graz" [ref=e131]:
+        - generic [ref=e132]:
+          - heading "Graz" [level=1] [ref=e134]
+          - group "Wetter in Graz" [ref=e135]:
+            - generic [ref=e136]: 9°
+            - img "Teilweise sonnig" [ref=e137]
+        - region "Verkehrslage" [ref=e138]:
+          - button "Viel Verkehr im Umkreis Viel langsamer als normal" [ref=e139] [cursor=pointer]:
+            - img [ref=e141]
+            - generic [ref=e142]:
+              - generic [ref=e143]: Viel Verkehr im Umkreis
+              - generic [ref=e144]: Viel langsamer als normal
+            - generic [ref=e145]: 
+    - generic [ref=e149]:
+      - button "Google-Apps" [ref=e153] [cursor=pointer]:
+        - img [ref=e154]
+      - link "Anmelden" [ref=e157] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e160] [cursor=pointer]:
+          - generic [ref=e162]: 
+        - generic [ref=e164] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e165]
+          - button "Herauszoomen" [ref=e168]
+      - generic [ref=e175] [cursor=pointer]:
+        - button "Street View-Bilder ansehen" [ref=e176]
+        - button "Bilder anzeigen" [ref=e178]:
+          - generic [ref=e181]: 
+      - generic [ref=e182]:
+        - generic "Interaktive Karte" [ref=e183]
+        - generic [ref=e187] [cursor=pointer]:
+          - generic [ref=e188]: 
+          - generic [ref=e189]: Ebenen
+        - button "Ebenen" [ref=e190] [cursor=pointer]
+    - generic [ref=e192]:
+      - contentinfo [ref=e195]:
+        - text: Kartendaten © 2026 Google
+        - button "Österreich" [ref=e196] [cursor=pointer]
+        - button "Bedingungen" [ref=e197] [cursor=pointer]
+        - button "Datenschutz" [ref=e198] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e199] [cursor=pointer]
+      - button "500 m" [ref=e201] [cursor=pointer]: 500 m

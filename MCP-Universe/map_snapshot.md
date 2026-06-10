@@ -1,0 +1,114 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e8]
+    - generic [ref=e11]:
+      - search [ref=e14]:
+        - button "Menü" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: 
+        - generic [ref=e18]:
+          - combobox [expanded] [active] [ref=e28]: universities in New Delhi
+          - button "Suchen" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 
+          - button "Route" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]: 
+        - grid "Vorschläge" [ref=e29]:
+          - row "universities in New Delhi, Delhi, Indien" [ref=e32] [cursor=pointer]:
+            - gridcell "universities in New Delhi, Delhi, Indien" [ref=e33]:
+              - generic [ref=e35]: 
+              - generic [ref=e36]: universities
+              - generic [ref=e37]: in New Delhi, Delhi, Indien
+          - row "universities in New Delhi Railway Station Gate 2, Ajmeri Gate, Delhi" [ref=e40] [cursor=pointer]:
+            - gridcell "universities in New Delhi Railway Station Gate 2, Ajmeri Gate, Delhi" [ref=e41]:
+              - generic [ref=e43]: 
+              - generic [ref=e44]: universities
+              - generic [ref=e45]: in New Delhi Railway Station Gate 2, Ajmeri Gate, Delhi
+          - row "universities in New Delhi, Bhavbhuti Marg, Ratan Lal Market, Kamla Market, Ajmeri Gate, Neu-Delhi, Delhi, Indien" [ref=e48] [cursor=pointer]:
+            - gridcell "universities in New Delhi, Bhavbhuti Marg, Ratan Lal Market, Kamla Market, Ajmeri Gate, Neu-Delhi, Delhi, Indien" [ref=e49]:
+              - generic [ref=e51]: 
+              - generic [ref=e52]: universities
+              - generic [ref=e53]: in New Delhi, Bhavbhuti Marg, Ratan Lal Market, Kamla Market, Ajmeri Gate, Neu-Delhi, Delhi, Indien
+          - row "universities in New Delhi, Ajmeri Gate, Neu-Delhi, Delhi, Indien" [ref=e56] [cursor=pointer]:
+            - gridcell "universities in New Delhi, Ajmeri Gate, Neu-Delhi, Delhi, Indien" [ref=e57]:
+              - generic [ref=e59]: 
+              - generic [ref=e60]: universities
+              - generic [ref=e61]: in New Delhi, Ajmeri Gate, Neu-Delhi, Delhi, Indien
+          - row "universities in New Delhi Railway Station Gate No. 1, Railway Colony, Paharganj, Delhi" [ref=e64] [cursor=pointer]:
+            - gridcell "universities in New Delhi Railway Station Gate No. 1, Railway Colony, Paharganj, Delhi" [ref=e65]:
+              - generic [ref=e67]: 
+              - generic [ref=e68]: universities
+              - generic [ref=e69]: in New Delhi Railway Station Gate No. 1, Railway Colony, Paharganj, Delhi
+        - region "Für dieses Gebiet verfügbare Suchoptionen" [ref=e76]:
+          - generic [ref=e78]:
+            - button "Restaurants" [ref=e80] [cursor=pointer]:
+              - generic [ref=e81]:
+                - generic [ref=e83]: 
+                - generic [ref=e84]: Restaurants
+            - button "Hotels" [ref=e86] [cursor=pointer]:
+              - generic [ref=e87]:
+                - generic [ref=e89]: 
+                - generic [ref=e90]: Hotels
+            - button "Mögliche Aktivitäten" [ref=e92] [cursor=pointer]:
+              - generic [ref=e93]:
+                - generic [ref=e95]: 
+                - generic [ref=e96]: Mögliche Aktivitäten
+            - button "Museen" [ref=e98] [cursor=pointer]:
+              - generic [ref=e99]:
+                - generic [ref=e101]: 
+                - generic [ref=e102]: Museen
+            - button "ÖPV/ÖPNV" [ref=e104] [cursor=pointer]:
+              - generic [ref=e105]:
+                - generic [ref=e107]: 
+                - generic [ref=e108]: ÖPV/ÖPNV
+            - button "Apotheken" [ref=e110] [cursor=pointer]:
+              - generic [ref=e111]:
+                - generic [ref=e113]: 
+                - generic [ref=e114]: Apotheken
+            - button "Geldautomaten" [ref=e116] [cursor=pointer]:
+              - generic [ref=e117]:
+                - generic [ref=e119]: 
+                - generic [ref=e120]: Geldautomaten
+          - button "Nächste Seite" [ref=e121] [cursor=pointer]:
+            - generic [ref=e122]: 
+      - region "Graz" [ref=e127]:
+        - generic [ref=e128]:
+          - heading "Graz" [level=1] [ref=e130]
+          - group "Wetter in Graz" [ref=e131]:
+            - generic [ref=e132]: 11°
+            - img "Überwiegend bewölkt" [ref=e133]
+        - region "Verkehrslage" [ref=e134]:
+          - button "Viel Verkehr im Umkreis Viel langsamer als normal" [ref=e135] [cursor=pointer]:
+            - img [ref=e137]
+            - generic [ref=e138]:
+              - generic [ref=e139]: Viel Verkehr im Umkreis
+              - generic [ref=e140]: Viel langsamer als normal
+            - generic [ref=e141]: 
+    - generic [ref=e145]:
+      - button "Google-Apps" [ref=e149] [cursor=pointer]:
+        - img [ref=e150]
+      - link "Anmelden" [ref=e153] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e156] [cursor=pointer]:
+          - generic [ref=e158]: 
+        - generic [ref=e160] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e161]
+          - button "Herauszoomen" [ref=e164]
+      - generic [ref=e171] [cursor=pointer]:
+        - button "Street View-Bilder ansehen" [ref=e172]
+        - button "Bilder anzeigen" [ref=e174]:
+          - generic [ref=e177]: 
+      - generic [ref=e178]:
+        - generic "Interaktive Karte" [ref=e179]
+        - generic [ref=e183] [cursor=pointer]:
+          - generic [ref=e184]: 
+          - generic [ref=e185]: Ebenen
+        - button "Ebenen" [ref=e186] [cursor=pointer]
+    - generic [ref=e188]:
+      - contentinfo [ref=e191]:
+        - text: Kartendaten © 2026 Google
+        - button "Österreich" [ref=e192] [cursor=pointer]
+        - button "Bedingungen" [ref=e193] [cursor=pointer]
+        - button "Datenschutz" [ref=e194] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e195] [cursor=pointer]
+      - button "500 m" [ref=e197] [cursor=pointer]: 500 m

@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+
+# Benchmark outputs / caches reviewers regenerate
+gorilla/berkeley-function-call-leaderboard/result/
+gorilla/berkeley-function-call-leaderboard/score/
+MCP-Universe/log/
+MCP-Universe/.cache/
+MCPToolBenchPP/logs/
+MCPToolBenchPP/node_modules/
+StableToolBench/results/
+StableToolBench/eval_results/
+StableToolBench/eval_results_strict/
+StableToolBench/eval_converted/
+StableToolBench/eval_converted_strict/
+StableToolBench/server/tools/
+StableToolBench/server/tool_response_cache/
+StableToolBench/server/cache_download/
+StableToolBench/toolenv/toolenv2404_filtered/
+StableToolBench/toolenv/toolenv2404_filtered.tar.gz
+
+# runtime lock dirs
+.file_locks/
